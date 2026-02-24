@@ -1,0 +1,596 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        { "id": 1, "answerTr": "kedi", "answerEn": "cat", "answerDe": "katze", "answerEs": "gato", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kedi.webp" },
+        { "id": 2, "answerTr": "tarak", "answerEn": "comb", "answerDe": "kamm", "answerEs": "peine", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/tarak.webp" },
+        { "id": 3, "answerTr": "köpek", "answerEn": "dog", "answerDe": "hund", "answerEs": "perro", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kopek.webp" },
+        { "id": 4, "answerTr": "havlu", "answerEn": "towel", "answerDe": "handtuch", "answerEs": "toalla", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/havlu.webp" },
+        { "id": 5, "answerTr": "at", "answerEn": "horse", "answerDe": "pferd", "answerEs": "caballo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/at.webp" }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        { "id": 6, "answerTr": "anahtar", "answerEn": "key", "answerDe": "schlüssel", "answerEs": "llave", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/anahtar.webp" },
+        { "id": 7, "answerTr": "inek", "answerEn": "cow", "answerDe": "kuh", "answerEs": "vaca", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/inek.webp" },
+        { "id": 8, "answerTr": "kemer", "answerEn": "belt", "answerDe": "gürtel", "answerEs": "cinturón", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kemer.webp" },
+        { "id": 9, "answerTr": "koyun", "answerEn": "sheep", "answerDe": "schaf", "answerEs": "oveja", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/koyun.webp" },
+        { "id": 10, "answerTr": "mont", "answerEn": "coat", "answerDe": "mantel", "answerEs": "abrigo", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/mont.webp" }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        { "id": 11, "answerTr": "boğa", "answerEn": "bull", "answerDe": "stier", "answerEs": "toro", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/boga.webp" },
+        { "id": 12, "answerTr": "gözlük", "answerEn": "glasses", "answerDe": "brille", "answerEs": "gafas", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/gozluk.webp" },
+        { "id": 13, "answerTr": "eşek", "answerEn": "donkey", "answerDe": "esel", "answerEs": "burro", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/esek.webp" },
+        { "id": 14, "answerTr": "çanta", "answerEn": "bag", "answerDe": "tasche", "answerEs": "bolsa", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/canta.webp" },
+        { "id": 15, "answerTr": "keçi", "answerEn": "goat", "answerDe": "ziege", "answerEs": "cabra", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/keci.webp" }
+      ]
+    },
+    {
+      "level": 4,
+      "questions": [
+        { "id": 16, "answerTr": "domuz", "answerEn": "pig", "answerDe": "schwein", "answerEs": "cerdo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/domuz.webp" },
+        { "id": 17, "answerTr": "şemsiye", "answerEn": "umbrella", "answerDe": "regenschirm", "answerEs": "paraguas", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/semsiye.webp" },
+        { "id": 18, "answerTr": "fare", "answerEn": "mouse", "answerDe": "maus", "answerEs": "ratón", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/fare.webp" },
+        { "id": 19, "answerTr": "cüzdan", "answerEn": "wallet", "answerDe": "geldbörse", "answerEs": "billetera", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/cuzdan.webp" },
+        { "id": 20, "answerTr": "tavşan", "answerEn": "rabbit", "answerDe": "kaninchen", "answerEs": "conejo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/tavsan.webp" }
+      ]
+    },
+    {
+      "level": 5,
+      "questions": [
+        { "id": 21, "answerTr": "diş fırçası", "answerEn": "toothbrush", "answerDe": "zahnbürste", "answerEs": "cepillo de dientes", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/disfircasi.webp" },
+        { "id": 22, "answerTr": "ayı", "answerEn": "bear", "answerDe": "bär", "answerEs": "oso", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/ayi.webp" },
+        { "id": 23, "answerTr": "güneş gözlüğü", "answerEn": "sunglasses", "answerDe": "sonnenbrille", "answerEs": "gafas de sol", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/gunesgozlugu.webp" },
+        { "id": 24, "answerTr": "kurt", "answerEn": "wolf", "answerDe": "wolf", "answerEs": "lobo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kurt.webp" },
+        { "id": 25, "answerTr": "kol saati", "answerEn": "wristwatch", "answerDe": "armbanduhr", "answerEs": "reloj de pulsera", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kolsaati.webp" }
+      ]
+    },
+    {
+      "level": 6,
+      "questions": [
+        { "id": 26, "answerTr": "tilki", "answerEn": "fox", "answerDe": "fuchs", "answerEs": "zorro", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/tilki.webp" },
+        { "id": 27, "answerTr": "pantolon", "answerEn": "pants", "answerDe": "hose", "answerEs": "pantalones", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/pantolon.webp" },
+        { "id": 28, "answerTr": "aslan", "answerEn": "lion", "answerDe": "löwe", "answerEs": "león", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/aslan.webp" },
+        { "id": 29, "answerTr": "yüzük", "answerEn": "ring", "answerDe": "ring", "answerEs": "anillo", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/yuzuk.webp" },
+        { "id": 30, "answerTr": "kaplan", "answerEn": "tiger", "answerDe": "tiger", "answerEs": "tigre", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kaplan.webp" }
+      ]
+    },
+    {
+      "level": 7,
+      "questions": [
+        { "id": 31, "answerTr": "ayakkabı", "answerEn": "shoes", "answerDe": "schuhe", "answerEs": "zapatos", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/ayakkabi.webp" },
+        { "id": 32, "answerTr": "fil", "answerEn": "elephant", "answerDe": "elefant", "answerEs": "elefante", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/fil.webp" },
+        { "id": 33, "answerTr": "zebra", "answerEn": "zebra", "answerDe": "zebra", "answerEs": "cebra", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/zebra.webp" },
+        { "id": 34, "answerTr": "eşofman", "answerEn": "tracksuit", "answerDe": "trainingsanzug", "answerEs": "chándal", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/esortman.webp" },
+        { "id": 35, "answerTr": "maymun", "answerEn": "monkey", "answerDe": "affe", "answerEs": "mono", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/maymun.webp" }
+      ]
+    },
+    {
+      "level": 8,
+      "questions": [
+        { "id": 36, "answerTr": "hırka", "answerEn": "cardigan", "answerDe": "strickjacke", "answerEs": "cárdigan", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/hirka.webp" },
+        { "id": 37, "answerTr": "panda", "answerEn": "panda", "answerDe": "panda", "answerEs": "panda", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/panda.webp" },
+        { "id": 38, "answerTr": "koala", "answerEn": "koala", "answerDe": "koala", "answerEs": "koala", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/koala.webp" },
+        { "id": 39, "answerTr": "kazak", "answerEn": "sweater", "answerDe": "pullover", "answerEs": "suéter", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kazak.webp" },
+        { "id": 40, "answerTr": "goril", "answerEn": "gorilla", "answerDe": "gorilla", "answerEs": "gorila", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/goril.webp" }
+      ]
+    },
+    {
+      "level": 9,
+      "questions": [
+        { "id": 41, "answerTr": "şort", "answerEn": "shorts", "answerDe": "shorts", "answerEs": "pantalones cortos", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/sort.webp" },
+        { "id": 42, "answerTr": "deve", "answerEn": "camel", "answerDe": "kamel", "answerEs": "camello", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/deve.webp" },
+        { "id": 43, "answerTr": "lama", "answerEn": "llama", "answerDe": "lama", "answerEs": "llama", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/lama.webp" },
+        { "id": 44, "answerTr": "tayt", "answerEn": "tights", "answerDe": "strumpfhose", "answerEs": "medias", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/tayt.webp" },
+        { "id": 45, "answerTr": "ördek", "answerEn": "duck", "answerDe": "ente", "answerEs": "pato", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/ordek.webp" }
+      ]
+    },
+    {
+      "level": 10,
+      "questions": [
+        { "id": 46, "answerTr": "kaz", "answerEn": "goose", "answerDe": "gans", "answerEs": "ganso", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kaz.webp" },
+        { "id": 47, "answerTr": "bere", "answerEn": "beanie", "answerDe": "mütze", "answerEs": "gorro", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/bere.webp" },
+        { "id": 48, "answerTr": "tavuk", "answerEn": "chicken", "answerDe": "huhn", "answerEs": "pollo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/tavuk.webp" },
+        { "id": 49, "answerTr": "askı", "answerEn": "hanger", "answerDe": "kleiderbügel", "answerEs": "percha", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/aski.webp" },
+        { "id": 50, "answerTr": "horoz", "answerEn": "rooster", "answerDe": "hahn", "answerEs": "gallo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/horoz.webp" }
+      ]
+    },
+    {
+      "level": 11,
+      "questions": [
+        { "id": 51, "answerTr": "tişört", "answerEn": "t-shirt", "answerDe": "t-shirt", "answerEs": "camiseta", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/tisort.webp" },
+        { "id": 52, "answerTr": "yılan", "answerEn": "snake", "answerDe": "schlange", "answerEs": "serpiente", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/yilan.webp" },
+        { "id": 53, "answerTr": "kobra", "answerEn": "cobra", "answerDe": "kobra", "answerEs": "cobra", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kobra.webp" },
+        { "id": 54, "answerTr": "gömlek", "answerEn": "shirt", "answerDe": "hemd", "answerEs": "camisa", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/gomlek.webp" },
+        { "id": 55, "answerTr": "arı", "answerEn": "bee", "answerDe": "biene", "answerEs": "abeja", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/ari.webp" }
+      ]
+    },
+    {
+      "level": 12,
+      "questions": [
+        { "id": 56, "answerTr": "sinek", "answerEn": "fly", "answerDe": "fliege", "answerEs": "mosca", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/sinek.webp" },
+        { "id": 57, "answerTr": "ceket", "answerEn": "jacket", "answerDe": "jacke", "answerEs": "chaqueta", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/ceket.webp" },
+        { "id": 58, "answerTr": "balina", "answerEn": "whale", "answerDe": "wal", "answerEs": "ballena", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/balina.webp" },
+        { "id": 59, "answerTr": "yunus", "answerEn": "dolphin", "answerDe": "delfin", "answerEs": "delfín", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/yunusbaligi.webp" },
+        { "id": 60, "answerTr": "şapka", "answerEn": "hat", "answerDe": "hut", "answerEs": "sombrero", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/sapka.webp" }
+      ]
+    },
+    {
+      "level": 13,
+      "questions": [
+        { "id": 61, "answerTr": "etek", "answerEn": "skirt", "answerDe": "rock", "answerEs": "falda", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/etek.webp" },
+        { "id": 62, "answerTr": "karınca", "answerEn": "ant", "answerDe": "ameise", "answerEs": "hormiga", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/karinca.webp" },
+        { "id": 63, "answerTr": "kurbağa", "answerEn": "frog", "answerDe": "frosch", "answerEs": "rana", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kurbaga.webp" },
+        { "id": 64, "answerTr": "elbise", "answerEn": "dress", "answerDe": "kleid", "answerEs": "vestido", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/elbise.webp" },
+        { "id": 65, "answerTr": "zürafa", "answerEn": "giraffe", "answerDe": "giraffe", "answerEs": "jirafa", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/zurafa.webp" }
+      ]
+    },
+    {
+      "level": 14,
+      "questions": [
+        { "id": 66, "answerTr": "kanguru", "answerEn": "kangaroo", "answerDe": "känguru", "answerEs": "canguro", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kanguru.webp" },
+        { "id": 67, "answerTr": "pijama", "answerEn": "pajamas", "answerDe": "schlafanzug", "answerEs": "pijama", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/pijama.webp" },
+        { "id": 68, "answerTr": "sırtlan", "answerEn": "hyena", "answerDe": "hyäne", "answerEs": "hiena", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/sirtlan.webp" },
+        { "id": 69, "answerTr": "atlet", "answerEn": "undershirt", "answerDe": "unterhemd", "answerEs": "camiseta interior", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/atlet.webp" },
+        { "id": 70, "answerTr": "kunduz", "answerEn": "beaver", "answerDe": "biber", "answerEs": "castor", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kunduz.webp" }
+      ]
+    },
+    {
+      "level": 15,
+      "questions": [
+        { "id": 71, "answerTr": "boxer", "answerEn": "boxer shorts", "answerDe": "boxershorts", "answerEs": "bóxers", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/boxer.webp" },
+        { "id": 72, "answerTr": "kirpi", "answerEn": "hedgehog", "answerDe": "igel", "answerEs": "erizo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kirpi.webp" },
+        { "id": 73, "answerTr": "geyik", "answerEn": "deer", "answerDe": "hirsch", "answerEs": "ciervo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/geyik.webp" },
+        { "id": 74, "answerTr": "külot", "answerEn": "panties", "answerDe": "höschen", "answerEs": "bragas", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kulot.webp" },
+        { "id": 75, "answerTr": "leopar", "answerEn": "leopard", "answerDe": "leopard", "answerEs": "leopardo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/leopar.webp" }
+      ]
+    },
+    {
+      "level": 16,
+      "questions": [
+        { "id": 76, "answerTr": "çita", "answerEn": "cheetah", "answerDe": "gepard", "answerEs": "guepardo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/cita.webp" },
+        { "id": 77, "answerTr": "sütyen", "answerEn": "bra", "answerDe": "bh", "answerEs": "sujetador", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/sutyen.webp" },
+        { "id": 78, "answerTr": "kartal", "answerEn": "eagle", "answerDe": "adler", "answerEs": "águila", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kartal.webp" },
+        { "id": 79, "answerTr": "yağmurluk", "answerEn": "raincoat", "answerDe": "regenmantel", "answerEs": "impermeable", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/yagmurluk.webp" },
+        { "id": 80, "answerTr": "şahin", "answerEn": "hawk", "answerDe": "falke", "answerEs": "halcón", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/sahin.webp" }
+      ]
+    },
+    {
+      "level": 17,
+      "questions": [
+        { "id": 81, "answerTr": "anahtarlık", "answerEn": "keychain", "answerDe": "schlüsselanhänger", "answerEs": "llavero", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/anahtarlik.webp" },
+        { "id": 82, "answerTr": "baykuş", "answerEn": "owl", "answerDe": "eule", "answerEs": "búho", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/baykus.webp" },
+        { "id": 83, "answerTr": "papağan", "answerEn": "parrot", "answerDe": "papagei", "answerEs": "loro", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/papagan.webp" },
+        { "id": 84, "answerTr": "tespih", "answerEn": "prayer beads", "answerDe": "gebetskette", "answerEs": "cuentas de oración", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/tespih.webp" },
+        { "id": 85, "answerTr": "kanarya", "answerEn": "canary", "answerDe": "kanarienvogel", "answerEs": "canario", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kanarya.webp" }
+      ]
+    },
+    {
+      "level": 18,
+      "questions": [
+        { "id": 86, "answerTr": "serçe", "answerEn": "sparrow", "answerDe": "spatz", "answerEs": "gorrión", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/serce.webp" },
+        { "id": 87, "answerTr": "bandana", "answerEn": "bandana", "answerDe": "bandana", "answerEs": "bandana", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/bandana.webp" },
+        { "id": 88, "answerTr": "güvercin", "answerEn": "pigeon", "answerDe": "taube", "answerEs": "paloma", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/guvercin.webp" },
+        { "id": 89, "answerTr": "karga", "answerEn": "crow", "answerDe": "krähe", "answerEs": "cuervo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/karga.webp" },
+        { "id": 90, "answerTr": "çorap", "answerEn": "socks", "answerDe": "socken", "answerEs": "calcetines", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/corap.webp" }
+      ]
+    },
+    {
+      "level": 19,
+      "questions": [
+        { "id": 91, "answerTr": "eldiven", "answerEn": "gloves", "answerDe": "handschuhe", "answerEs": "guantes", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/eldiven.webp" },
+        { "id": 92, "answerTr": "martı", "answerEn": "seagull", "answerDe": "möwe", "answerEs": "gaviota", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/marti.webp" },
+        { "id": 93, "answerTr": "atkı", "answerEn": "scarf", "answerDe": "schal", "answerEs": "bufanda", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/atki.webp" },
+        { "id": 94, "answerTr": "pelikan", "answerEn": "pelican", "answerDe": "pelikan", "answerEs": "pelícano", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/pelikan.webp" },
+        { "id": 95, "answerTr": "flamingo", "answerEn": "flamingo", "answerDe": "flamingo", "answerEs": "flamenco", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/flemingo.webp" }
+      ]
+    },
+    {
+      "level": 20,
+      "questions": [
+        { "id": 96, "answerTr": "civciv", "answerEn": "chick", "answerDe": "küken", "answerEs": "pollito", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/civciv.webp" },
+        { "id": 97, "answerTr": "kravat", "answerEn": "tie", "answerDe": "krawatte", "answerEs": "corbata", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kravat.webp" },
+        { "id": 98, "answerTr": "hindi", "answerEn": "turkey", "answerDe": "truthahn", "answerEs": "pavo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/hindi.webp" },
+        { "id": 99, "answerTr": "penguen", "answerEn": "penguin", "answerDe": "pinguin", "answerEs": "pingüino", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/penguen.webp" },
+        { "id": 100, "answerTr": "mayo", "answerEn": "swimsuit", "answerDe": "badeanzug", "answerEs": "traje de baño", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/mayo.webp" }
+      ]
+    },
+    {
+      "level": 21,
+      "questions": [
+        { "id": 101, "answerTr": "kulaklık", "answerEn": "headphones", "answerDe": "kopfhörer", "answerEs": "auriculares", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kulaklik.webp" },
+        { "id": 102, "answerTr": "leylek", "answerEn": "stork", "answerDe": "storch", "answerEs": "cigüeña", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/leylek.webp" },
+        { "id": 103, "answerTr": "köpek balığı", "answerEn": "shark", "answerDe": "hai", "answerEs": "tiburón", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kopekbaligi.webp" },
+        { "id": 104, "answerTr": "mendil", "answerEn": "handkerchief", "answerDe": "taschentuch", "answerEs": "pañuelo", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/mendil.webp" },
+        { "id": 105, "answerTr": "vatoz", "answerEn": "stingray", "answerDe": "rochen", "answerEs": "raya", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/vatoz.webp" }
+      ]
+    },
+    {
+      "level": 22,
+      "questions": [
+        { "id": 106, "answerTr": "ahtapot", "answerEn": "octopus", "answerDe": "oktopus", "answerEs": "pulpo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 107, "answerTr": "papyon", "answerEn": "bow tie", "answerDe": "fliege", "answerEs": "pajarita", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/papyon.webp" },
+        { "id": 108, "answerTr": "yengeç", "answerEn": "crab", "answerDe": "krabbe", "answerEs": "cangrejo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/yengec.webp" },
+        { "id": 109, "answerTr": "terlik", "answerEn": "slippers", "answerDe": "hausschuhe", "answerEs": "pantuflas", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/terlik.webp" },
+        { "id": 110, "answerTr": "midye", "answerEn": "mussel", "answerDe": "muschel", "answerEs": "mejillón", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/midye.webp" }
+      ]
+    },
+    {
+      "level": 23,
+      "questions": [
+        { "id": 111, "answerTr": "bot", "answerEn": "boots", "answerDe": "stiefel", "answerEs": "botas", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/bot.webp" },
+        { "id": 112, "answerTr": "karides", "answerEn": "shrimp", "answerDe": "garnele", "answerEs": "gamba", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/karides.webp" },
+        { "id": 113, "answerTr": "timsah", "answerEn": "crocodile", "answerDe": "krokodil", "answerEs": "cocodrilo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/timsah.webp" },
+        { "id": 114, "answerTr": "kolye", "answerEn": "necklace", "answerDe": "halskette", "answerEs": "collar", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kolye.webp" },
+        { "id": 115, "answerTr": "kaplumbağa", "answerEn": "turtle", "answerDe": "schildkröte", "answerEs": "tortuga", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kaplumbaga.webp" }
+      ]
+    },
+    {
+      "level": 24,
+      "questions": [
+        { "id": 116, "answerTr": "iguana", "answerEn": "iguana", "answerDe": "leguan", "answerEs": "iguana", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/iguana.webp" },
+        { "id": 117, "answerTr": "küpe", "answerEn": "earring", "answerDe": "ohrring", "answerEs": "pendiente", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kupe.webp" },
+        { "id": 118, "answerTr": "deve kuşu", "answerEn": "ostrich", "answerDe": "strauß", "answerEs": "avestruz", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/devekusu.webp" },
+        { "id": 119, "answerTr": "akrep", "answerEn": "scorpion", "answerDe": "skorpion", "answerEs": "escorpión", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/akrep.webp" },
+        { "id": 120, "answerTr": "toka", "answerEn": "hair clip", "answerDe": "haarspange", "answerEs": "horquilla", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/toka.webp" }
+      ]
+    },
+    {
+      "level": 25,
+      "questions": [
+        { "id": 121, "answerTr": "örümcek", "answerEn": "spider", "answerDe": "spinne", "answerEs": "araña", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/orumcek.webp" },
+        { "id": 122, "answerTr": "salyangoz", "answerEn": "snail", "answerDe": "schnecke", "answerEs": "caracol", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/salyangoz.webp" },
+        { "id": 123, "answerTr": "bornoz", "answerEn": "bathrobe", "answerDe": "bademantel", "answerEs": "albornoz", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/bornoz.webp" },
+        { "id": 124, "answerTr": "kene", "answerEn": "tick", "answerDe": "zecke", "answerEs": "garrapata", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kene.webp" },
+        { "id": 125, "answerTr": "valiz", "answerEn": "suitcase", "answerDe": "koffer", "answerEs": "maleta", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/valiz.webp" }
+      ]
+    },
+    {
+      "level": 26,
+      "questions": [
+        { "id": 126, "answerTr": "sivrisinek", "answerEn": "mosquito", "answerDe": "mücke", "answerEs": "mosquito", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/sivrisinek.webp" },
+        { "id": 127, "answerTr": "yelpaze", "answerEn": "fan", "answerDe": "fächer", "answerEs": "abanico", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/yelpaze.webp" },
+        { "id": 128, "answerTr": "yusufçuk", "answerEn": "dragonfly", "answerDe": "libelle", "answerEs": "libélula", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/yusufcuk.webp" },
+        { "id": 129, "answerTr": "su aygırı", "answerEn": "hippo", "answerDe": "nilpferd", "answerEs": "hipopótamo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/suaygiri.webp" },
+        { "id": 130, "answerTr": "diş macunu", "answerEn": "toothpaste", "answerDe": "zahnpasta", "answerEs": "pasta de dientes", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/dismacunu.webp" }
+      ]
+    },
+    {
+      "level": 27,
+      "questions": [
+        { "id": 131, "answerTr": "sabun", "answerEn": "soap", "answerDe": "seife", "answerEs": "jabón", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/sabun.webp" },
+        { "id": 132, "answerTr": "gergedan", "answerEn": "rhinoceros", "answerDe": "nashorn", "answerEs": "rinoceronte", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/gergedan.webp" },
+        { "id": 133, "answerTr": "kutup ayısı", "answerEn": "polar bear", "answerDe": "eisbär", "answerEs": "oso polar", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kutupayisi.webp" },
+        { "id": 134, "answerTr": "şampuan", "answerEn": "shampoo", "answerDe": "shampoo", "answerEs": "champú", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/sampuan.webp" },
+        { "id": 135, "answerTr": "sincap", "answerEn": "squirrel", "answerDe": "eichhörnchen", "answerEs": "ardilla", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/sincap.webp" }
+      ]
+    },
+    {
+      "level": 28,
+      "questions": [
+        { "id": 136, "answerTr": "su samuru", "answerEn": "otter", "answerDe": "otter", "answerEs": "nutria", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/susamuru.webp" },
+        { "id": 137, "answerTr": "parfüm", "answerEn": "perfume", "answerDe": "parfüm", "answerEs": "perfume", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/parfum.webp" },
+        { "id": 138, "answerTr": "porsuk", "answerEn": "badger", "answerDe": "dachs", "answerEs": "tejón", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/porsuk.webp" },
+        { "id": 139, "answerTr": "mors", "answerEn": "walrus", "answerDe": "walross", "answerEs": "morsa", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/mors.webp" },
+        { "id": 140, "answerTr": "deodorant", "answerEn": "deodorant", "answerDe": "deodorant", "answerEs": "desodorante", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/deodorant.webp" }
+      ]
+    },
+    {
+      "level": 29,
+      "questions": [
+        { "id": 141, "answerTr": "fok balığı", "answerEn": "seal", "answerDe": "robbe", "answerEs": "foca", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/fokbaligi.webp" },
+        { "id": 142, "answerTr": "broş", "answerEn": "brooch", "answerDe": "brosche", "answerEs": "broche", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/bros.webp" },
+        { "id": 143, "answerTr": "yarasa", "answerEn": "bat", "answerDe": "fledermaus", "answerEs": "murciélago", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/yarasa.webp" },
+        { "id": 144, "answerTr": "antilop", "answerEn": "antelope", "answerDe": "antilope", "answerEs": "antílope", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/antilop.webp" },
+        { "id": 145, "answerTr": "halhal", "answerEn": "anklet", "answerDe": "fußkettchen", "answerEs": "tobillera", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/halhal.webp" }
+      ]
+    },
+    {
+      "level": 30,
+      "questions": [
+        { "id": 146, "answerTr": "vaşak", "answerEn": "lynx", "answerDe": "luchs", "answerEs": "lince", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/vasak.webp" },
+        { "id": 147, "answerTr": "tıraş bıçağı", "answerEn": "razor", "answerDe": "rasierklinge", "answerEs": "cuchilla de afeitar", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/tirasbicagi.webp" },
+        { "id": 148, "answerTr": "rakun", "answerEn": "raccoon", "answerDe": "waschbär", "answerEs": "mapache", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/rakun.webp" },
+        { "id": 149, "answerTr": "kokarca", "answerEn": "skunk", "answerDe": "stinktier", "answerEs": "zorrillo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kokarca.webp" },
+        { "id": 150, "answerTr": "tıraş köpüğü", "answerEn": "shaving foam", "answerDe": "rasierschaum", "answerEs": "espuma de afeitar", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/tıraş köpüğü.webp" }
+      ]
+    },
+    {
+      "level": 31,
+      "questions": [
+        { "id": 151, "answerTr": "köstebek", "answerEn": "mole", "answerDe": "maulwurf", "answerEs": "topo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kostebek.webp" },
+        { "id": 152, "answerTr": "nemlendirici", "answerEn": "moisturizer", "answerDe": "feuchtigkeitscreme", "answerEs": "crema hidratante", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/nemlendirici krem.webp" },
+        { "id": 153, "answerTr": "akbaba", "answerEn": "vulture", "answerDe": "geier", "answerEs": "buitre", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/akbaba.webp" },
+        { "id": 154, "answerTr": "muhabbet kuşu", "answerEn": "parakeet", "answerDe": "wellensittich", "answerEs": "periquito", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/muhabbetkusu.webp" },
+        { "id": 155, "answerTr": "güneş kremi", "answerEn": "sunscreen", "answerDe": "sonnencreme", "answerEs": "protector solar", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/guneskremi.webp" }
+      ]
+    },
+    {
+      "level": 32,
+      "questions": [
+        { "id": 156, "answerTr": "tavus kuşu", "answerEn": "peacock", "answerDe": "pfau", "answerEs": "pavo real", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/tavuskusu.webp" },
+        { "id": 157, "answerTr": "ağaçkakan", "answerEn": "woodpecker", "answerDe": "specht", "answerEs": "carpintero", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/agackakan.webp" },
+        { "id": 158, "answerTr": "tırnak makası", "answerEn": "nail clippers", "answerDe": "nagelknipser", "answerEs": "cortauñas", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/tirnakmakasi.webp" },
+        { "id": 159, "answerTr": "keklik", "answerEn": "partridge", "answerDe": "rebhuhn", "answerEs": "perdiz", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/keklik.webp" },
+        { "id": 160, "answerTr": "bıldırcın", "answerEn": "quail", "answerDe": "wachtel", "answerEs": "codorniz", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/bildircin.webp" }
+      ]
+    },
+    {
+      "level": 33,
+      "questions": [
+        { "id": 161, "answerTr": "kalamar", "answerEn": "squid", "answerDe": "tintenfisch", "answerEs": "calamar", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kalamar.webp" },
+        { "id": 162, "answerTr": "törpü", "answerEn": "nail file", "answerDe": "nagelfeile", "answerEs": "lima de uñas", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/torpu.webp" },
+        { "id": 163, "answerTr": "deniz yıldızı", "answerEn": "starfish", "answerDe": "seestern", "answerEs": "estrella de mar", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/denizyildizi.webp" },
+        { "id": 164, "answerTr": "deniz atı", "answerEn": "seahorse", "answerDe": "seepferdchen", "answerEs": "caballito de mar", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/denizati.webp" },
+        { "id": 165, "answerTr": "cımbız", "answerEn": "tweezers", "answerDe": "pinzette", "answerEs": "pinzas", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/cimbiz.webp" }
+      ]
+    },
+    {
+      "level": 34,
+      "questions": [
+        { "id": 166, "answerTr": "deniz anası", "answerEn": "jellyfish", "answerDe": "qualle", "answerEs": "medusa", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/denizanasi.webp" },
+        { "id": 167, "answerTr": "istiridye", "answerEn": "oyster", "answerDe": "auster", "answerEs": "ostra", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/istiridye.webp" },
+        { "id": 168, "answerTr": "ayna", "answerEn": "mirror", "answerDe": "spiegel", "answerEs": "espejo", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/ayna.webp" },
+        { "id": 169, "answerTr": "ıstakoz", "answerEn": "lobster", "answerDe": "hummer", "answerEs": "langosta", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/istakoz.webp" },
+        { "id": 170, "answerTr": "deniz kaplumbağası", "answerEn": "sea turtle", "answerDe": "meeresschildkröte", "answerEs": "tortuga marina", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/denizkaplumbagasi.webp" }
+      ]
+    },
+    {
+      "level": 35,
+      "questions": [
+        { "id": 171, "answerTr": "çakı", "answerEn": "pocket knife", "answerDe": "taschenmesser", "answerEs": "navaja", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/caki.webp" },
+        { "id": 172, "answerTr": "bukalemun", "answerEn": "chameleon", "answerDe": "chamäleon", "answerEs": "camaleón", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/bukalemun.webp" },
+        { "id": 173, "answerTr": "kertenkele", "answerEn": "lizard", "answerDe": "eidechse", "answerEs": "lagarto", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kertenkele.webp" },
+        { "id": 174, "answerTr": "çakmak", "answerEn": "lighter", "answerDe": "feuerzeug", "answerEs": "encendedor", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/cakmak.webp" },
+        { "id": 175, "answerTr": "komodo ejderi", "answerEn": "komodo dragon", "answerDe": "komodowaran", "answerEs": "dragón de komodo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/komodoejderi.webp" }
+      ]
+    },
+    {
+      "level": 36,
+      "questions": [
+        { "id": 176, "answerTr": "kelebek", "answerEn": "butterfly", "answerDe": "schmetterling", "answerEs": "mariposa", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kelebek.webp" },
+        { "id": 177, "answerTr": "hamam böceği", "answerEn": "cockroach", "answerDe": "kakerlake", "answerEs": "cucaracha", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/hamambocegi.webp" },
+        { "id": 178, "answerTr": "uğur böceği", "answerEn": "ladybug", "answerDe": "marienkäfer", "answerEs": "mariquita", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/ugurbocegi.webp" },
+        { "id": 179, "answerTr": "kol düğmesi", "answerEn": "cufflink", "answerDe": "manschettenknopf", "answerEs": "gemelo", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/koldugmesi.webp" },
+        { "id": 180, "answerTr": "çekirge", "answerEn": "grasshopper", "answerDe": "heuschrecke", "answerEs": "saltamontes", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/cekirge.webp" }
+      ]
+    },
+    {
+      "level": 37,
+      "questions": [
+        { "id": 181, "answerTr": "karıncayiyen", "answerEn": "anteater", "answerDe": "ameisenbär", "answerEs": "oso hormiguero", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/karincayiyen.webp" },
+        { "id": 182, "answerTr": "tembel hayvan", "answerEn": "sloth", "answerDe": "faultier", "answerEs": "perezoso", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/tembelhayvan.webp" },
+        { "id": 183, "answerTr": "müren", "answerEn": "moray eel", "answerDe": "muräne", "answerEs": "morena", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/muren.webp" },
+        { "id": 184, "answerTr": "peygamber devesi", "answerEn": "mantis", "answerDe": "gottesanbeterin", "answerEs": "mantis religiosa", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/peygamberdevesi.webp" },
+        { "id": 185, "answerTr": "kırkayak", "answerEn": "centipede", "answerDe": "tausendfüßler", "answerEs": "ciempiés", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kirkayak.webp" }
+      ]
+    },
+
+ 
+  {
+    "level": 38,
+    "questions": [
+      { "id": 186, "answerTr": "yatak", "answerEn": "bed", "answerDe": "bett", "answerEs": "cama", "categoryTr": "yatak odası", "categoryEn": "bedroom", "categoryDe": "schlafzimmer", "categoryEs": "dormitorio", "image": "https://aty3825-rgb.github.io/macroscopeimg/yatak.webp" },
+      { "id": 187, "answerTr": "yastık", "answerEn": "pillow", "answerDe": "kissen", "answerEs": "almohada", "categoryTr": "yatak odası", "categoryEn": "bedroom", "categoryDe": "schlafzimmer", "categoryEs": "dormitorio", "image": "https://aty3825-rgb.github.io/macroscopeimg/yastikev.webp" },
+      { "id": 188, "answerTr": "cep telefonu", "answerEn": "mobile phone", "answerDe": "handy", "answerEs": "teléfono móvil", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://aty3825-rgb.github.io/macroscopeimg/ceptelefonu.webp" },
+      { "id": 189, "answerTr": "telefon", "answerEn": "telephone", "answerDe": "telefon", "answerEs": "teléfono", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://aty3825-rgb.github.io/macroscopeimg/telefon.webp" },
+      { "id": 190, "answerTr": "çarşaf", "answerEn": "bed sheet", "answerDe": "bettlaken", "answerEs": "sábana", "categoryTr": "yatak odası", "categoryEn": "bedroom", "categoryDe": "schlafzimmer", "categoryEs": "dormitorio", "image": "https://aty3825-rgb.github.io/macroscopeimg/carsaf.webp" }
+    ]
+  },
+  {
+    "level": 39,
+    "questions": [
+      { "id": 191, "answerTr": "sandalye", "answerEn": "chair", "answerDe": "stuhl", "answerEs": "silla", "categoryTr": "mobilya", "categoryEn": "furniture", "categoryDe": "möbel", "categoryEs": "muebles", "image": "https://aty3825-rgb.github.io/macroscopeimg/sandalye.webp" },
+      { "id": 192, "answerTr": "masa", "answerEn": "table", "answerDe": "tisch", "answerEs": "mesa", "categoryTr": "mobilya", "categoryEn": "furniture", "categoryDe": "möbel", "categoryEs": "muebles", "image": "https://aty3825-rgb.github.io/macroscopeimg/masa.webp" },
+      { "id": 193, "answerTr": "klozet", "answerEn": "toilet", "answerDe": "toilette", "answerEs": "inodoro", "categoryTr": "banyo", "categoryEn": "bathroom", "categoryDe": "badezimmer", "categoryEs": "baño", "image": "https://aty3825-rgb.github.io/macroscopeimg/klozet.webp" },
+      { "id": 194, "answerTr": "musluk", "answerEn": "faucet", "answerDe": "wasserhahn", "answerEs": "grifo", "categoryTr": "tesisat", "categoryEn": "plumbing", "categoryDe": "sanitär", "categoryEs": "fontanería", "image": "https://aty3825-rgb.github.io/macroscopeimg/musluk.webp" },
+      { "id": 195, "answerTr": "sabun", "answerEn": "soap", "answerDe": "seife", "answerEs": "jabón", "categoryTr": "banyo", "categoryEn": "bathroom", "categoryDe": "badezimmer", "categoryEs": "baño", "image": "https://aty3825-rgb.github.io/macroscopeimg/sabun.webp" }
+    ]
+  },
+  {
+    "level": 40,
+    "questions": [
+      { "id": 196, "answerTr": "havlu", "answerEn": "towel", "answerDe": "handtuch", "answerEs": "toalla", "categoryTr": "banyo", "categoryEn": "bathroom", "categoryDe": "badezimmer", "categoryEs": "baño", "image": "https://aty3825-rgb.github.io/macroscopeimg/havlu.webp" },
+      { "id": 197, "answerTr": "diş fırçası", "answerEn": "toothbrush", "answerDe": "zahnbürste", "answerEs": "cepillo de dientes", "categoryTr": "kişisel bakım", "categoryEn": "personal care", "categoryDe": "körperpflege", "categoryEs": "cuidado personal", "image": "https://aty3825-rgb.github.io/macroscopeimg/disfircasiev.webp" },
+      { "id": 198, "answerTr": "diş macunu", "answerEn": "toothpaste", "answerDe": "zahnpasta", "answerEs": "pasta de dientes", "categoryTr": "kişisel bakım", "categoryEn": "personal care", "categoryDe": "körperpflege", "categoryEs": "cuidado personal", "image": "https://aty3825-rgb.github.io/macroscopeimg/dismacunu.webp" },
+      { "id": 199, "answerTr": "kapı kolu", "answerEn": "door handle", "answerDe": "türgriff", "answerEs": "manija", "categoryTr": "ev parçası", "categoryEn": "home parts", "categoryDe": "hausteile", "categoryEs": "partes de casa", "image": "https://aty3825-rgb.github.io/macroscopeimg/kapikolu.webp" },
+      { "id": 200, "answerTr": "ışık anahtarı", "answerEn": "light switch", "answerDe": "lichtschalter", "answerEs": "interruptor", "categoryTr": "elektrik", "categoryEn": "electric", "categoryDe": "elektrik", "categoryEs": "eléctrico", "image": "https://aty3825-rgb.github.io/macroscopeimg/isikanahtari.webp" }
+    ]
+  },
+  {
+    "level": 41,
+    "questions": [
+      { "id": 201, "answerTr": "bardak", "answerEn": "glass", "answerDe": "glas", "answerEs": "vaso", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/bardak.webp" },
+      { "id": 202, "answerTr": "tabak", "answerEn": "plate", "answerDe": "teller", "answerEs": "plato", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/tabak.webp" },
+      { "id": 203, "answerTr": "çatal", "answerEn": "fork", "answerDe": "gabel", "answerEs": "tenedor", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/catal.webp" },
+      { "id": 204, "answerTr": "kaşık", "answerEn": "spoon", "answerDe": "löffel", "answerEs": "cuchara", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/kasik.webp" },
+      { "id": 205, "answerTr": "bıçak", "answerEn": "knife", "answerDe": "messer", "answerEs": "cuchillo", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/bicak.webp" }
+    ]
+  },
+  {
+    "level": 42,
+    "questions": [
+      { "id": 206, "answerTr": "buzdolabı", "answerEn": "refrigerator", "answerDe": "kühlschrank", "answerEs": "refrigerador", "categoryTr": "beyaz eşya", "categoryEn": "appliances", "categoryDe": "haushaltsgeräte", "categoryEs": "electrodomésticos", "image": "https://aty3825-rgb.github.io/macroscopeimg/buzdolabi.webp" },
+      { "id": 207, "answerTr": "terlik", "answerEn": "slippers", "answerDe": "hausschuhe", "answerEs": "zapatillas", "categoryTr": "giyim", "categoryEn": "clothing", "categoryDe": "kleidung", "categoryEs": "ropa", "image": "https://aty3825-rgb.github.io/macroscopeimg/terlik.webp" },
+      { "id": 208, "answerTr": "uzaktan kumanda", "answerEn": "remote control", "answerDe": "fernbedienung", "answerEs": "mando a distancia", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://aty3825-rgb.github.io/macroscopeimg/kumanda.webp" },
+      { "id": 209, "answerTr": "televizyon", "answerEn": "television", "answerDe": "fernseher", "answerEs": "televisión", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://aty3825-rgb.github.io/macroscopeimg/televizyon.webp" },
+      { "id": 210, "answerTr": "koltuk", "answerEn": "armchair", "answerDe": "sessel", "answerEs": "sillón", "categoryTr": "mobilya", "categoryEn": "furniture", "categoryDe": "möbel", "categoryEs": "muebles", "image": "https://aty3825-rgb.github.io/macroscopeimg/koltuk.webp" }
+    ]
+  },
+  {
+    "level": 43,
+    "questions": [
+      { "id": 211, "answerTr": "priz", "answerEn": "socket", "answerDe": "steckdose", "answerEs": "enchufe", "categoryTr": "elektrik", "categoryEn": "electric", "categoryDe": "elektrik", "categoryEs": "eléctrico", "image": "https://aty3825-rgb.github.io/macroscopeimg/priz.webp" },
+      { "id": 212, "answerTr": "halı", "answerEn": "carpet", "answerDe": "teppich", "answerEs": "alfombra", "categoryTr": "dekorasyon", "categoryEn": "decoration", "categoryDe": "dekoration", "categoryEs": "decoración", "image": "https://aty3825-rgb.github.io/macroscopeimg/hali.webp" },
+      { "id": 213, "answerTr": "perde", "answerEn": "curtain", "answerDe": "vorhang", "answerEs": "cortina", "categoryTr": "dekorasyon", "categoryEn": "decoration", "categoryDe": "dekoration", "categoryEs": "decoración", "image": "https://aty3825-rgb.github.io/macroscopeimg/perde.webp" },
+      { "id": 214, "answerTr": "gardırop", "answerEn": "wardrobe", "answerDe": "kleiderschrank", "answerEs": "armario", "categoryTr": "mobilya", "categoryEn": "furniture", "categoryDe": "möbel", "categoryEs": "muebles", "image": "https://aty3825-rgb.github.io/macroscopeimg/gardirop.webp" },
+      { "id": 215, "answerTr": "cüzdan", "answerEn": "wallet", "answerDe": "geldbeutel", "answerEs": "cartera", "categoryTr": "aksesuar", "categoryEn": "accessory", "categoryDe": "accessoire", "categoryEs": "accesorio", "image": "https://aty3825-rgb.github.io/macroscopeimg/cuzdanev.webp" }
+    ]
+  },
+  {
+    "level": 44,
+    "questions": [
+      { "id": 216, "answerTr": "anahtar", "answerEn": "key", "answerDe": "schlüssel", "answerEs": "llave", "categoryTr": "araç gereç", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://aty3825-rgb.github.io/macroscopeimg/anahtarev.webp" },
+      { "id": 217, "answerTr": "ayakkabı", "answerEn": "shoe", "answerDe": "schuh", "answerEs": "zapato", "categoryTr": "giyim", "categoryEn": "clothing", "categoryDe": "kleidung", "categoryEs": "ropa", "image": "https://aty3825-rgb.github.io/macroscopeimg/ayakkabiev.webp" },
+      { "id": 218, "answerTr": "çöp kovası", "answerEn": "trash can", "answerDe": "mülleimer", "answerEs": "basura", "categoryTr": "temizlik", "categoryEn": "cleaning", "categoryDe": "reinigung", "categoryEs": "limpieza", "image": "https://aty3825-rgb.github.io/macroscopeimg/copkovasi.webp" },
+      { "id": 219, "answerTr": "ocak", "answerEn": "stove", "answerDe": "herd", "answerEs": "estufa", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/ocak.webp" },
+      { "id": 220, "answerTr": "tencere", "answerEn": "pot", "answerDe": "topf", "answerEs": "olla", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/tencere.webp" }
+    ]
+  },
+  {
+    "level": 45,
+    "questions": [
+      { "id": 221, "answerTr": "tava", "answerEn": "pan", "answerDe": "pfanne", "answerEs": "sartén", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/tava.webp" },
+      { "id": 222, "answerTr": "bulaşık süngeri", "answerEn": "sponge", "answerDe": "spülschwamm", "answerEs": "esponja", "categoryTr": "temizlik", "categoryEn": "cleaning", "categoryDe": "reinigung", "categoryEs": "limpieza", "image": "https://aty3825-rgb.github.io/macroscopeimg/bulasiksungeri.webp" },
+      { "id": 223, "answerTr": "mutfak önlüğü", "answerEn": "apron", "answerDe": "schürze", "answerEs": "delantal", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/mutfakonlugu.webp" },
+      { "id": 224, "answerTr": "tuzluk", "answerEn": "salt shaker", "answerDe": "salzstreuer", "answerEs": "salero", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/tuzluk.webp" },
+      { "id": 225, "answerTr": "biberlik", "answerEn": "pepper shaker", "answerDe": "pfefferstreuer", "answerEs": "pimentero", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/biberlik.webp" }
+    ]
+  },
+  {
+    "level": 46,
+    "questions": [
+      { "id": 226, "answerTr": "sürahi", "answerEn": "jug", "answerDe": "krug", "answerEs": "jarra", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/surahi.webp" },
+      { "id": 227, "answerTr": "banyo lifi", "answerEn": "loofah", "answerDe": "badeschwamm", "answerEs": "esponja de baño", "categoryTr": "banyo", "categoryEn": "bathroom", "categoryDe": "badezimmer", "categoryEs": "baño", "image": "https://aty3825-rgb.github.io/macroscopeimg/banyolifi.webp" },
+      { "id": 228, "answerTr": "bornoz", "answerEn": "bathrobe", "answerDe": "bademantel", "answerEs": "albornoz", "categoryTr": "giyim", "categoryEn": "clothing", "categoryDe": "kleidung", "categoryEs": "ropa", "image": "https://aty3825-rgb.github.io/macroscopeimg/bornozev.webp" },
+      { "id": 229, "answerTr": "banyo paspası", "answerEn": "bath mat", "answerDe": "badematte", "answerEs": "alfombra de baño", "categoryTr": "banyo", "categoryEn": "bathroom", "categoryDe": "badezimmer", "categoryEs": "baño", "image": "https://aty3825-rgb.github.io/macroscopeimg/paspas.webp" },
+      { "id": 230, "answerTr": "klozet fırçası", "answerEn": "toilet brush", "answerDe": "klobürste", "answerEs": "escobilla", "categoryTr": "banyo", "categoryEn": "bathroom", "categoryDe": "badezimmer", "categoryEs": "baño", "image": "https://aty3825-rgb.github.io/macroscopeimg/klozetfircasi.webp" }
+    ]
+  },
+  {
+    "level": 47,
+    "questions": [
+      { "id": 231, "answerTr": "şifonyer", "answerEn": "dresser", "answerDe": "kommode", "answerEs": "cómoda", "categoryTr": "mobilya", "categoryEn": "furniture", "categoryDe": "möbel", "categoryEs": "muebles", "image": "https://aty3825-rgb.github.io/macroscopeimg/sifonyer.webp" },
+      { "id": 232, "answerTr": "kulp", "answerEn": "handle", "answerDe": "griff", "answerEs": "tirador", "categoryTr": "ev parçası", "categoryEn": "home parts", "categoryDe": "hausteile", "categoryEs": "partes de casa", "image": "https://aty3825-rgb.github.io/macroscopeimg/kulpev.webp" },
+      { "id": 233, "answerTr": "laptop", "answerEn": "laptop", "answerDe": "laptop", "answerEs": "portátil", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://aty3825-rgb.github.io/macroscopeimg/laptop.webp" },
+      { "id": 234, "answerTr": "mouse", "answerEn": "mouse", "answerDe": "maus", "answerEs": "ratón", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://aty3825-rgb.github.io/macroscopeimg/fareev.webp" },
+      { "id": 235, "answerTr": "klavye", "answerEn": "keyboard", "answerDe": "tastatur", "answerEs": "teclado", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://aty3825-rgb.github.io/macroscopeimg/klavye.webp" }
+    ]
+  },
+  {
+    "level": 48,
+    "questions": [
+      { "id": 236, "answerTr": "çalışma masası", "answerEn": "desk", "answerDe": "schreibtisch", "answerEs": "escritorio", "categoryTr": "mobilya", "categoryEn": "furniture", "categoryDe": "möbel", "categoryEs": "muebles", "image": "https://aty3825-rgb.github.io/macroscopeimg/masaev.webp" },
+      { "id": 237, "answerTr": "masa lambası", "answerEn": "desk lamp", "answerDe": "schreibtischlampe", "answerEs": "lámpara", "categoryTr": "aydınlatma", "categoryEn": "lighting", "categoryDe": "beleuchtung", "categoryEs": "iluminación", "image": "https://aty3825-rgb.github.io/macroscopeimg/masalambasi.webp" },
+      { "id": 238, "answerTr": "kulaklık", "answerEn": "headphones", "answerDe": "kopfhörer", "answerEs": "auriculares", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://aty3825-rgb.github.io/macroscopeimg/kulaklik.webp" },
+      { "id": 239, "answerTr": "şarj kablosu", "answerEn": "charging cable", "answerDe": "ladekabel", "answerEs": "cable de carga", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://aty3825-rgb.github.io/macroscopeimg/sarzkablosu.webp" },
+      { "id": 240, "answerTr": "powerbank", "answerEn": "power bank", "answerDe": "powerbank", "answerEs": "batería externa", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://aty3825-rgb.github.io/macroscopeimg/powerbank.webp" }
+    ]
+  },
+  {
+    "level": 49,
+    "questions": [
+      { "id": 241, "answerTr": "duvar saati", "answerEn": "wall clock", "answerDe": "wanduhr", "answerEs": "reloj de pared", "categoryTr": "dekorasyon", "categoryEn": "decoration", "categoryDe": "dekoration", "categoryEs": "decoración", "image": "https://aty3825-rgb.github.io/macroscopeimg/duvarsaati.webp" },
+      { "id": 242, "answerTr": "sehpa", "answerEn": "coffee table", "answerDe": "couchtisch", "answerEs": "mesa de centro", "categoryTr": "mobilya", "categoryEn": "furniture", "categoryDe": "möbel", "categoryEs": "muebles", "image": "https://aty3825-rgb.github.io/macroscopeimg/sehpa.webp" },
+      { "id": 243, "answerTr": "kitaplık", "answerEn": "bookshelf", "answerDe": "bücherregal", "answerEs": "estantería", "categoryTr": "mobilya", "categoryEn": "furniture", "categoryDe": "möbel", "categoryEs": "muebles", "image": "https://aty3825-rgb.github.io/macroscopeimg/kitaplik.webp" },
+      { "id": 244, "answerTr": "kitap", "answerEn": "book", "answerDe": "buch", "answerEs": "libro", "categoryTr": "hobi", "categoryEn": "hobby", "categoryDe": "hobby", "categoryEs": "pasatiempo", "image": "https://aty3825-rgb.github.io/macroscopeimg/kitap.webp" },
+      { "id": 245, "answerTr": "defter", "answerEn": "notebook", "answerDe": "heft", "answerEs": "cuaderno", "categoryTr": "kırtasiye", "categoryEn": "stationery", "categoryDe": "schreibwaren", "categoryEs": "papelería", "image": "https://aty3825-rgb.github.io/macroscopeimg/defter.webp" }
+    ]
+  },
+  {
+    "level": 50,
+    "questions": [
+      { "id": 246, "answerTr": "kalem", "answerEn": "pen", "answerDe": "stift", "answerEs": "bolígrafo", "categoryTr": "kırtasiye", "categoryEn": "stationery", "categoryDe": "schreibwaren", "categoryEs": "papelería", "image": "https://aty3825-rgb.github.io/macroscopeimg/kalem.webp" },
+      { "id": 247, "answerTr": "ayna", "answerEn": "mirror", "answerDe": "spiegel", "answerEs": "espejo", "categoryTr": "dekorasyon", "categoryEn": "decoration", "categoryDe": "dekoration", "categoryEs": "decoración", "image": "https://aty3825-rgb.github.io/macroscopeimg/aynaev.webp" },
+      { "id": 248, "answerTr": "tarak", "answerEn": "comb", "answerDe": "kamm", "answerEs": "peine", "categoryTr": "kişisel bakım", "categoryEn": "personal care", "categoryDe": "körperpflege", "categoryEs": "cuidado personal", "image": "https://aty3825-rgb.github.io/macroscopeimg/tarakev.webp" },
+      { "id": 249, "answerTr": "saç kurutma makinesi", "answerEn": "hair dryer", "answerDe": "föhn", "answerEs": "secador de pelo", "categoryTr": "kişisel bakım", "categoryEn": "personal care", "categoryDe": "körperpflege", "categoryEs": "cuidado personal", "image": "https://aty3825-rgb.github.io/macroscopeimg/sackurutmamakinesi.webp" },
+      { "id": 250, "answerTr": "çamaşır makinesi", "answerEn": "washing machine", "answerDe": "waschmaschine", "answerEs": "lavadora", "categoryTr": "beyaz eşya", "categoryEn": "appliances", "categoryDe": "haushaltsgeräte", "categoryEs": "electrodomésticos", "image": "https://aty3825-rgb.github.io/macroscopeimg/camasirmakinesi.webp" }
+    ]
+  },
+  {
+    "level": 51,
+    "questions": [
+      { "id": 251, "answerTr": "bulaşık makinesi", "answerEn": "dishwasher", "answerDe": "spülmaschine", "answerEs": "lavavajillas", "categoryTr": "beyaz eşya", "categoryEn": "appliances", "categoryDe": "haushaltsgeräte", "categoryEs": "electrodomésticos", "image": "https://aty3825-rgb.github.io/macroscopeimg/bulasikmakinesi.webp" },
+      { "id": 252, "answerTr": "çamaşır sepeti", "answerEn": "laundry basket", "answerDe": "wäschekorb", "answerEs": "cesta de ropa", "categoryTr": "banyo", "categoryEn": "bathroom", "categoryDe": "badezimmer", "categoryEs": "baño", "image": "https://aty3825-rgb.github.io/macroscopeimg/camasirsepeti.webp" },
+      { "id": 253, "answerTr": "kurutmalık", "answerEn": "drying rack", "answerDe": "wäscheständer", "answerEs": "tendedero", "categoryTr": "ev gereçleri", "categoryEn": "home utilities", "categoryDe": "haushaltshelfer", "categoryEs": "utensilios", "image": "https://aty3825-rgb.github.io/macroscopeimg/kurutmalik.webp" },
+      { "id": 254, "answerTr": "mandal", "answerEn": "clothespin", "answerDe": "wäscheklammer", "answerEs": "pinza", "categoryTr": "ev gereçleri", "categoryEn": "home utilities", "categoryDe": "haushaltshelfer", "categoryEs": "utensilios", "image": "https://aty3825-rgb.github.io/macroscopeimg/mandal.webp" },
+      { "id": 255, "answerTr": "ütü", "answerEn": "iron", "answerDe": "bügeleisen", "answerEs": "plancha", "categoryTr": "ev gereçleri", "categoryEn": "home utilities", "categoryDe": "haushaltshelfer", "categoryEs": "utensilios", "image": "https://aty3825-rgb.github.io/macroscopeimg/utu.webp" }
+    ]
+  },
+  {
+    "level": 52,
+    "questions": [
+      { "id": 256, "answerTr": "ütü masası", "answerEn": "ironing board", "answerDe": "bügelbrett", "answerEs": "tabla de planchar", "categoryTr": "ev gereçleri", "categoryEn": "home utilities", "categoryDe": "haushaltshelfer", "categoryEs": "utensilios", "image": "https://aty3825-rgb.github.io/macroscopeimg/utumasasi.webp" },
+      { "id": 257, "answerTr": "elektrikli süpürge", "answerEn": "vacuum cleaner", "answerDe": "staubsauger", "answerEs": "aspiradora", "categoryTr": "temizlik", "categoryEn": "cleaning", "categoryDe": "reinigung", "categoryEs": "limpieza", "image": "https://aty3825-rgb.github.io/macroscopeimg/elektirklisupurge.webp" },
+      { "id": 258, "answerTr": "robot süpürge", "answerEn": "robot vacuum", "answerDe": "saugroboter", "answerEs": "robot aspirador", "categoryTr": "temizlik", "categoryEn": "cleaning", "categoryDe": "reinigung", "categoryEs": "limpieza", "image": "https://aty3825-rgb.github.io/macroscopeimg/robotsupurge.webp" },
+      { "id": 259, "answerTr": "mikrodalga fırın", "answerEn": "microwave", "answerDe": "mikrowelle", "answerEs": "microondas", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/mikrodalgafirin.webp" },
+      { "id": 260, "answerTr": "tost makinesi", "answerEn": "sandwich maker", "answerDe": "sandwichmaker", "answerEs": "tostadora", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/tostmakinesi.webp" }
+    ]
+  },
+  {
+    "level": 53,
+    "questions": [
+      { "id": 261, "answerTr": "kahve makinesi", "answerEn": "coffee machine", "answerDe": "kaffeemaschine", "answerEs": "cafetera", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/kahvemakinesi.webp" },
+      { "id": 262, "answerTr": "çaydanlık", "answerEn": "teapot", "answerDe": "teekanne", "answerEs": "tetera", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/caydanlik.webp" },
+      { "id": 263, "answerTr": "süzgeç", "answerEn": "strainer", "answerDe": "sieb", "answerEs": "colador", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/suzgec.webp" },
+      { "id": 264, "answerTr": "rende", "answerEn": "grater", "answerDe": "reibe", "answerEs": "rallador", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/rende.webp" },
+      { "id": 265, "answerTr": "kesme tahtası", "answerEn": "cutting board", "answerDe": "schneidebrett", "answerEs": "tabla de cortar", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/kesmetahtasi.webp" }
+    ]
+  },
+  {
+    "level": 54,
+    "questions": [
+      { "id": 266, "answerTr": "kepçe", "answerEn": "ladle", "answerDe": "schöpfkelle", "answerEs": "cucharón", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/kepce.webp" },
+      { "id": 267, "answerTr": "spatula", "answerEn": "spatula", "answerDe": "pfannenwender", "answerEs": "espátula", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/spatula.webp" },
+      { "id": 268, "answerTr": "karıştırma kabı", "answerEn": "mixing bowl", "answerDe": "rührschüssel", "answerEs": "bol", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/karistirmakabi.webp" },
+      { "id": 269, "answerTr": "saklama kabı", "answerEn": "storage container", "answerDe": "vorratsdose", "answerEs": "recipiente", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/saklamakabi.webp" },
+      { "id": 270, "answerTr": "kavanoz", "answerEn": "jar", "answerDe": "glas", "answerEs": "tarro", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/kavanoz.webp" }
+    ]
+  },
+  {
+    "level": 55,
+    "questions": [
+      { "id": 271, "answerTr": "ekmek kızartma makinesi", "answerEn": "toaster", "answerDe": "toaster", "answerEs": "tostadora", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/ekmekkizartmamakinesi.webp" },
+      { "id": 272, "answerTr": "blender", "answerEn": "blender", "answerDe": "mixer", "answerEs": "licuadora", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/blender.webp" },
+      { "id": 273, "answerTr": "mikser", "answerEn": "mixer", "answerDe": "handmixer", "answerEs": "batidora", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/mikser.webp" },
+      { "id": 274, "answerTr": "fırın", "answerEn": "oven", "answerDe": "backofen", "answerEs": "horno", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/firin.webp" },
+      { "id": 275, "answerTr": "tepsi", "answerEn": "tray", "answerDe": "tablett", "answerEs": "bandeja", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/tepsi.webp" }
+    ]
+  },
+  {
+    "level": 56,
+    "questions": [
+      { "id": 276, "answerTr": "vazo", "answerEn": "vase", "answerDe": "vase", "answerEs": "jarrón", "categoryTr": "dekorasyon", "categoryEn": "decoration", "categoryDe": "dekoration", "categoryEs": "decoración", "image": "https://aty3825-rgb.github.io/macroscopeimg/vazo.webp" },
+      { "id": 277, "answerTr": "biblo", "answerEn": "trinket", "answerDe": "nippes", "answerEs": "adorno", "categoryTr": "dekorasyon", "categoryEn": "decoration", "categoryDe": "dekoration", "categoryEs": "decoración", "image": "https://aty3825-rgb.github.io/macroscopeimg/biblo.webp" },
+      { "id": 278, "answerTr": "mumluk", "answerEn": "candle holder", "answerDe": "kerzenhalter", "answerEs": "portavelas", "categoryTr": "dekorasyon", "categoryEn": "decoration", "categoryDe": "dekoration", "categoryEs": "decoración", "image": "https://aty3825-rgb.github.io/macroscopeimg/mumluk.webp" },
+      { "id": 279, "answerTr": "mum", "answerEn": "candle", "answerDe": "kerze", "answerEs": "vela", "categoryTr": "dekorasyon", "categoryEn": "decoration", "categoryDe": "dekoration", "categoryEs": "decoración", "image": "https://aty3825-rgb.github.io/macroscopeimg/mum.webp" },
+      { "id": 280, "answerTr": "kül tablası", "answerEn": "ashtray", "answerDe": "aschenbecher", "answerEs": "cenicero", "categoryTr": "aksesuar", "categoryEn": "accessory", "categoryDe": "accessoire", "categoryEs": "accesorio", "image": "https://aty3825-rgb.github.io/macroscopeimg/kultablasi.webp" }
+    ]
+  },
+  {
+    "level": 57,
+    "questions": [
+      { "id": 281, "answerTr": "abajur", "answerEn": "lampshade", "answerDe": "lampenschirm", "answerEs": "lámpara", "categoryTr": "aydınlatma", "categoryEn": "lighting", "categoryDe": "beleuchtung", "categoryEs": "iluminación", "image": "https://aty3825-rgb.github.io/macroscopeimg/abajur.webp" },
+      { "id": 282, "answerTr": "lambader", "answerEn": "floor lamp", "answerDe": "stehlampe", "answerEs": "lámpara de pie", "categoryTr": "aydınlatma", "categoryEn": "lighting", "categoryDe": "beleuchtung", "categoryEs": "iluminación", "image": "https://aty3825-rgb.github.io/macroscopeimg/lambader.webp" },
+      { "id": 283, "answerTr": "avize", "answerEn": "chandelier", "answerDe": "kronleuchter", "answerEs": "araña", "categoryTr": "aydınlatma", "categoryEn": "lighting", "categoryDe": "beleuchtung", "categoryEs": "iluminación", "image": "https://aty3825-rgb.github.io/macroscopeimg/avize.webp" },
+      { "id": 284, "answerTr": "ampul", "answerEn": "light bulb", "answerDe": "glühbirne", "answerEs": "bombilla", "categoryTr": "elektrik", "categoryEn": "electric", "categoryDe": "elektrik", "categoryEs": "eléctrico", "image": "https://aty3825-rgb.github.io/macroscopeimg/ampul.webp" },
+      { "id": 285, "answerTr": "vantilatör", "answerEn": "fan", "answerDe": "ventilator", "answerEs": "ventilador", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://aty3825-rgb.github.io/macroscopeimg/vantilator.webp" }
+    ]
+  },
+  {
+    "level": 58,
+    "questions": [
+      { "id": 286, "answerTr": "klima", "answerEn": "air conditioner", "answerDe": "klimaanlage", "answerEs": "aire acondicionado", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://aty3825-rgb.github.io/macroscopeimg/klima.webp" },
+      { "id": 287, "answerTr": "askı", "answerEn": "hanger", "answerDe": "kleiderbügel", "answerEs": "percha", "categoryTr": "mobilya", "categoryEn": "furniture", "categoryDe": "möbel", "categoryEs": "muebles", "image": "https://aty3825-rgb.github.io/macroscopeimg/askiev.webp" },
+      { "id": 288, "answerTr": "ayakkabılık", "answerEn": "shoe rack", "answerDe": "schuhregal", "answerEs": "zapatero", "categoryTr": "mobilya", "categoryEn": "furniture", "categoryDe": "möbel", "categoryEs": "muebles", "image": "https://aty3825-rgb.github.io/macroscopeimg/ayakkabilik.webp" },
+      { "id": 289, "answerTr": "valiz", "answerEn": "suitcase", "answerDe": "koffer", "answerEs": "maleta", "categoryTr": "aksesuar", "categoryEn": "accessory", "categoryDe": "accessoire", "categoryEs": "accesorio", "image": "https://aty3825-rgb.github.io/macroscopeimg/valiz.webp" },
+      { "id": 290, "answerTr": "sırt çantası", "answerEn": "backpack", "answerDe": "rucksack", "answerEs": "mochila", "categoryTr": "aksesuar", "categoryEn": "accessory", "categoryDe": "accessoire", "categoryEs": "accesorio", "image": "https://aty3825-rgb.github.io/macroscopeimg/sirtcantasi.webp" }
+    ]
+  },
+  {
+    "level": 59,
+    "questions": [
+      { "id": 291, "answerTr": "el feneri", "answerEn": "flashlight", "answerDe": "taschenlampe", "answerEs": "linterna", "categoryTr": "araç gereç", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://aty3825-rgb.github.io/macroscopeimg/elfeneri.webp" },
+      { "id": 292, "answerTr": "tartı", "answerEn": "scale", "answerDe": "waage", "answerEs": "báscula", "categoryTr": "banyo", "categoryEn": "bathroom", "categoryDe": "badezimmer", "categoryEs": "baño", "image": "https://aty3825-rgb.github.io/macroscopeimg/tartiev.webp" },
+      { "id": 293, "answerTr": "tırnak makası", "answerEn": "nail clippers", "answerDe": "nagelknipser", "answerEs": "cortauñas", "categoryTr": "kişisel bakım", "categoryEn": "personal care", "categoryDe": "körperpflege", "categoryEs": "cuidado personal", "image": "https://aty3825-rgb.github.io/macroscopeimg/tirnakmakasi.webp" },
+      { "id": 294, "answerTr": "tıraş makinesi", "answerEn": "shaver", "answerDe": "rasierer", "answerEs": "afeitadora", "categoryTr": "kişisel bakım", "categoryEn": "personal care", "categoryDe": "körperpflege", "categoryEs": "cuidado personal", "image": "https://aty3825-rgb.github.io/macroscopeimg/tirasmakinesi.webp" }
+    ]
+  }
+
+  ]
+}
