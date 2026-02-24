@@ -3,7 +3,7 @@
     {
       "level": 1,
       "questions": [
-        { "id": 1, "answerTr": "kedi", "answerEn": "cat", "answerDe": "katze", "answerEs": "gato", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/akvaryumev.png" }
+        { "id": 1, "answerTr": "kedi", "answerEn": "cat", "answerDe": "katze", "answerEs": "gato", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/akvaryumev.webp" }
         
 	]
     }
