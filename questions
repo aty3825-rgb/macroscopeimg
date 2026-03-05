@@ -774,7 +774,7 @@
     "questions": [
       { "id": 390, "answerTr": "nargile", "answerEn": "hookah", "answerDe": "shisha", "answerEs": "cachimba", "categoryTr": "eğlence", "categoryEn": "entertainment", "categoryDe": "unterhaltung", "categoryEs": "entretenimiento", "image": "https://aty3825-rgb.github.io/macroscopeimg/nargile.webp" },
       { "id": 391, "answerTr": "hamak", "answerEn": "hammock", "answerDe": "hängematte", "answerEs": "hamaca", "categoryTr": "dış mekan", "categoryEn": "outdoor", "categoryDe": "draußen", "categoryEs": "al aire libre", "image": "https://aty3825-rgb.github.io/macroscopeimg/hamak.webp" },
-      { "id": 392, "answerTr": "salıncak", "answerEn": "swing", "answerDe": "schaukel", "answerEs": "columpio", "categoryTr": "dış mekan", "categoryEn": "outdoor", "categoryDe": "draußen", "categoryEs": "al aire libre", "image": "https://aty3825-rgb.github.io/macroscopeimg/salincak.webp" },
+     
       { "id": 393, "answerTr": "şezlong", "answerEn": "sun lounger", "answerDe": "sonnenliege", "answerEs": "tumbona", "categoryTr": "dış mekan", "categoryEn": "outdoor", "categoryDe": "draußen", "categoryEs": "al aire libre", "image": "https://aty3825-rgb.github.io/macroscopeimg/sezlong.webp" },
       { "id": 394, "answerTr": "saksı", "answerEn": "flowerpot", "answerDe": "blumentopf", "answerEs": "maceta", "categoryTr": "bahçe", "categoryEn": "garden", "categoryDe": "garten", "categoryEs": "jardín", "image": "https://aty3825-rgb.github.io/macroscopeimg/saksi.webp" }
     ]
