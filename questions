@@ -363,7 +363,7 @@
     {
       "level": 37,
       "questions": [
-        { "id": 181, "answerTr": "karıncayiyen", "answerEn": "anteater", "answerDe": "ameisenbär", "answerEs": "oso hormiguero", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/karincayiyen.webp" },
+        { "id": 181, "answerTr": "karınca yiyen", "answerEn": "anteater", "answerDe": "ameisenbär", "answerEs": "oso hormiguero", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/karincayiyen.webp" },
         { "id": 182, "answerTr": "tembel hayvan", "answerEn": "sloth", "answerDe": "faultier", "answerEs": "perezoso", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/tembelhayvan.webp" },
         { "id": 183, "answerTr": "müren", "answerEn": "moray eel", "answerDe": "muräne", "answerEs": "morena", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/muren.webp" },
         { "id": 184, "answerTr": "peygamber devesi", "answerEn": "mantis", "answerDe": "gottesanbeterin", "answerEs": "mantis religiosa", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/peygamberdevesi.webp" },
@@ -599,7 +599,7 @@
     "level": 61,
     "questions": [
      
-      { "id": 301, "answerTr": "iplik makarası", "answerEn": "spool of thread", "answerDe": "garnrolle", "answerEs": "carrete de hilo", "categoryTr": "hobi", "categoryEn": "hobby", "categoryDe": "hobby", "categoryEs": "pasatiempo", "image": "https://aty3825-rgb.github.io/macroscopeimg/makara.webp" },
+      { "id": 301, "answerTr": "makara", "answerEn": "spool", "answerDe": "garnrolle", "answerEs": "carrete", "categoryTr": "hobi", "categoryEn": "hobby", "categoryDe": "hobby", "categoryEs": "pasatiempo", "image": "https://aty3825-rgb.github.io/macroscopeimg/makara.webp" },
       { "id": 302, "answerTr": "mezura", "answerEn": "tape measure", "answerDe": "maßband", "answerEs": "cinta métrica", "categoryTr": "araç gereç", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://aty3825-rgb.github.io/macroscopeimg/mezura.webp" },
       { "id": 303, "answerTr": "makas", "answerEn": "scissors", "answerDe": "schere", "answerEs": "tijeras", "categoryTr": "kırtasiye", "categoryEn": "stationery", "categoryDe": "schreibwaren", "categoryEs": "papelería", "image": "https://aty3825-rgb.github.io/macroscopeimg/makas.webp" },
       { "id": 304, "answerTr": "yapıştırıcı", "answerEn": "glue", "answerDe": "klebstoff", "answerEs": "pegamento", "categoryTr": "kırtasiye", "categoryEn": "stationery", "categoryDe": "schreibwaren", "categoryEs": "papelería", "image": "https://aty3825-rgb.github.io/macroscopeimg/yapistirici.webp" }
@@ -689,7 +689,7 @@
       { "id": 345, "answerTr": "ayakkabı çekeceği", "answerEn": "shoehorn", "answerDe": "schuhlöffel", "answerEs": "calzador", "categoryTr": "aksesuar", "categoryEn": "accessories", "categoryDe": "zubehör", "categoryEs": "accesorios", "image": "https://aty3825-rgb.github.io/macroscopeimg/kerata.webp" },
       { "id": 346, "answerTr": "fırça", "answerEn": "brush", "answerDe": "bürste", "answerEs": "cepillo", "categoryTr": "temizlik", "categoryEn": "cleaning", "categoryDe": "reinigung", "categoryEs": "limpieza", "image": "https://aty3825-rgb.github.io/macroscopeimg/firca.webp" },
       { "id": 347, "answerTr": "tüy toplama rulosu", "answerEn": "lint roller", "answerDe": "fusselrolle", "answerEs": "rodillo quitapelusas", "categoryTr": "temizlik", "categoryEn": "cleaning", "categoryDe": "reinigung", "categoryEs": "limpieza", "image": "https://aty3825-rgb.github.io/macroscopeimg/tuytoplamarulosu.webp" },
-      { "id": 348, "answerTr": "faraş", "answerEn": "dustpan", "answerDe": "kehrblech", "answerEs": "recogedor", "categoryTr": "temizlik", "categoryEn": "cleaning", "categoryDe": "reinigung", "categoryEs": "limpieza", "image": "https://aty3825-rgb.github.io/macroscopeimg/faras.webp" },
+      { "id": 348, "answerTr": "faraş", "answerEn": "dustpan", "answerDe": "kehrblech", "answerEs": "recogedor", "categoryTr": "temizlik", "categoryEn": "cleaning", "categoryDe": "reinigung", "categoryEs": "limpieza", "image": "https://aty3825-rgb.github.io/macroscopeimg/faras2.webp" },
       { "id": 349, "answerTr": "süpürge", "answerEn": "broom", "answerDe": "besen", "answerEs": "escoba", "categoryTr": "temizlik", "categoryEn": "cleaning", "categoryDe": "reinigung", "categoryEs": "limpieza", "image": "https://aty3825-rgb.github.io/macroscopeimg/supurge.webp" }
     ]
   },
