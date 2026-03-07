@@ -897,114 +897,206 @@
       { "id": 454, "answerTr": "diş kaşıyıcı", "answerEn": "teether", "answerDe": "beißring", "answerEs": "mordedor", "categoryTr": "bebek", "categoryEn": "baby", "categoryDe": "baby", "categoryEs": "bebé", "image": "https://aty3825-rgb.github.io/macroscopeimg/diskasiyici.webp" }
     ]
   },
-  {
+{
     "level": 92,
     "questions": [
       { "id": 455, "answerTr": "çıngırak", "answerEn": "baby rattle", "answerDe": "rassel", "answerEs": "sonajero", "categoryTr": "bebek", "categoryEn": "baby", "categoryDe": "baby", "categoryEs": "bebé", "image": "https://aty3825-rgb.github.io/macroscopeimg/cingirak.webp" },
       { "id": 456, "answerTr": "ateş ölçer", "answerEn": "thermometer", "answerDe": "fieberthermometer", "answerEs": "termómetro", "categoryTr": "sağlık", "categoryEn": "health", "categoryDe": "gesundheit", "categoryEs": "salud", "image": "https://aty3825-rgb.github.io/macroscopeimg/atesolcer.webp" },
       { "id": 457, "answerTr": "tansiyon aleti", "answerEn": "blood pressure monitor", "answerDe": "blutdruckmessgerät", "answerEs": "tensiómetro", "categoryTr": "sağlık", "categoryEn": "health", "categoryDe": "gesundheit", "categoryEs": "salud", "image": "https://aty3825-rgb.github.io/macroscopeimg/tansiyonaleti.webp" },
       { "id": 458, "answerTr": "hava temizleyici", "answerEn": "air purifier", "answerDe": "luftreiniger", "answerEs": "purificador de aire", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://aty3825-rgb.github.io/macroscopeimg/havatemizleyici.webp" },
-      { "id": 459, "answerTr": "çelik kasa", "answerEn": "steel safe", "answerDe": "stahltresor", "answerEs": "caja fuerte", "categoryTr": "ev eşyası", "categoryEn": "home goods", "categoryDe": "haushaltswaren", "categoryEs": "artículos para el hogar", "image": "https://aty3825-rgb.github.io/macroscopeimg/celikkasa.webp" },
-     { "id": 460, "answerTr": "barkod okuyucu", "answerEn": "barcode scanner", "answerDe": "barcodescanner", "answerEs": "lector de códigos de barras", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://aty3825-rgb.github.io/macroscopeimg/barkodokuyucu.webp" },
+      { "id": 459, "answerTr": "çelik kasa", "answerEn": "steel safe", "answerDe": "stahltresor", "answerEs": "caja fuerte", "categoryTr": "ev eşyası", "categoryEn": "home goods", "categoryDe": "haushaltswaren", "categoryEs": "artículos para el hogar", "image": "https://aty3825-rgb.github.io/macroscopeimg/celikkasa.webp" }
+    ]
+  },
+  {
+    "level": 93,
+    "questions": [
+      { "id": 460, "answerTr": "barkod okuyucu", "answerEn": "barcode scanner", "answerDe": "barcodescanner", "answerEs": "lector de códigos de barras", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://aty3825-rgb.github.io/macroscopeimg/barkodokuyucu.webp" },
       { "id": 461, "answerTr": "para sayma makinesi", "answerEn": "money counter", "answerDe": "geldzählmaschine", "answerEs": "contadora de billetes", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://aty3825-rgb.github.io/macroscopeimg/parasaymamakinesi.webp" },
-	{ "id": 462, "answerTr": "bere", "answerEn": "beanie", "answerDe": "mütze", "answerEs": "gorro", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/bere2.webp" },
-	 { "id": 463, "answerTr": "ceket", "answerEn": "jacket", "answerDe": "jacke", "answerEs": "chaqueta", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/ceket2.webp" },
-	{ "id": 464, "answerTr": "güneş gözlüğü", "answerEn": "sunglasses", "answerDe": "sonnenbrille", "answerEs": "gafas de sol", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/gunesgozlugu2.webp" },
-  	{ "id": 465, "answerTr": "hırka", "answerEn": "cardigan", "answerDe": "strickjacke", "answerEs": "cárdigan", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/hirka2.webp" },
-	{ "id": 466, "answerTr": "kazak", "answerEn": "sweater", "answerDe": "pullover", "answerEs": "suéter", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kazak2.webp" },
- 	{ "id": 467, "answerTr": "mutfak önlüğü", "answerEn": "apron", "answerDe": "schürze", "answerEs": "delantal", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/mutfakonlugu2.webp" },
-	 { "id": 468, "answerTr": "sandalye", "answerEn": "chair", "answerDe": "stuhl", "answerEs": "silla", "categoryTr": "mobilya", "categoryEn": "furniture", "categoryDe": "möbel", "categoryEs": "muebles", "image": "https://aty3825-rgb.github.io/macroscopeimg/sandalye2.webp" },
- 	{ "id": 469, "answerTr": "sırt çantası", "answerEn": "backpack", "answerDe": "rucksack", "answerEs": "mochila", "categoryTr": "aksesuar", "categoryEn": "accessory", "categoryDe": "accessoire", "categoryEs": "accesorio", "image": "https://aty3825-rgb.github.io/macroscopeimg/sirtcantasi2.webp" },
- 	{ "id": 470, "answerTr": "şort", "answerEn": "shorts", "answerDe": "shorts", "answerEs": "pantalones cortos", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/sort2.webp" },
- 	{ "id": 471, "answerTr": "tabak", "answerEn": "plate", "answerDe": "teller", "answerEs": "plato", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/tabak2.webp" },
- 	 { "id": 472, "answerTr": "tişört", "answerEn": "t-shirt", "answerDe": "t-shirt", "answerEs": "camiseta", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/tisort2.webp" },
-	{ "id": 473, "answerTr": "toka", "answerEn": "hair clip", "answerDe": "haarspange", "answerEs": "horquilla", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/toka.webp" },
-	{ "id": 474, "answerTr": "yangın tüpü", "answerEn": "Fire extinguisher", "answerDe": "Feuerlöscher", "answerEs": "Extintor", "categoryTr": "eşya", "categoryEn": "belongings", "categoryDe": "gegenstände", "categoryEs": "objetos", "image": "https://aty3825-rgb.github.io/macroscopeimg/yangintupu.webp" },
+      { "id": 462, "answerTr": "bere", "answerEn": "beanie", "answerDe": "mütze", "answerEs": "gorro", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/bere2.webp" },
+      { "id": 463, "answerTr": "ceket", "answerEn": "jacket", "answerDe": "jacke", "answerEs": "chaqueta", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/ceket2.webp" },
+      { "id": 464, "answerTr": "güneş gözlüğü", "answerEn": "sunglasses", "answerDe": "sonnenbrille", "answerEs": "gafas de sol", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/gunesgozlugu2.webp" }
+    ]
+  },
+  {
+    "level": 94,
+    "questions": [
+      { "id": 465, "answerTr": "hırka", "answerEn": "cardigan", "answerDe": "strickjacke", "answerEs": "cárdigan", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/hirka2.webp" },
+      { "id": 466, "answerTr": "kazak", "answerEn": "sweater", "answerDe": "pullover", "answerEs": "suéter", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/kazak2.webp" },
+      { "id": 467, "answerTr": "mutfak önlüğü", "answerEn": "apron", "answerDe": "schürze", "answerEs": "delantal", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/mutfakonlugu2.webp" },
+      { "id": 468, "answerTr": "sandalye", "answerEn": "chair", "answerDe": "stuhl", "answerEs": "silla", "categoryTr": "mobilya", "categoryEn": "furniture", "categoryDe": "möbel", "categoryEs": "muebles", "image": "https://aty3825-rgb.github.io/macroscopeimg/sandalye2.webp" },
+      { "id": 469, "answerTr": "sırt çantası", "answerEn": "backpack", "answerDe": "rucksack", "answerEs": "mochila", "categoryTr": "aksesuar", "categoryEn": "accessory", "categoryDe": "accessoire", "categoryEs": "accesorio", "image": "https://aty3825-rgb.github.io/macroscopeimg/sirtcantasi2.webp" }
+    ]
+  },
+  {
+    "level": 95,
+    "questions": [
+      { "id": 470, "answerTr": "şort", "answerEn": "shorts", "answerDe": "shorts", "answerEs": "pantalones cortos", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/sort2.webp" },
+      { "id": 471, "answerTr": "tabak", "answerEn": "plate", "answerDe": "teller", "answerEs": "plato", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://aty3825-rgb.github.io/macroscopeimg/tabak2.webp" },
+      { "id": 472, "answerTr": "tişört", "answerEn": "t-shirt", "answerDe": "t-shirt", "answerEs": "camiseta", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/tisort2.webp" },
+      { "id": 473, "answerTr": "toka", "answerEn": "hair clip", "answerDe": "haarspange", "answerEs": "horquilla", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/toka.webp" },
+      { "id": 474, "answerTr": "yangın tüpü", "answerEn": "Fire extinguisher", "answerDe": "Feuerlöscher", "answerEs": "Extintor", "categoryTr": "eşya", "categoryEn": "belongings", "categoryDe": "gegenstände", "categoryEs": "objetos", "image": "https://aty3825-rgb.github.io/macroscopeimg/yangintupu.webp" }
+    ]
+  },
+  {
+    "level": 96,
+    "questions": [
       { "id": 475, "answerTr": "asma kilit", "answerEn": "padlock", "answerDe": "vorhängeschloss", "answerEs": "candado", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://aty3825-rgb.github.io/macroscopeimg/asmakilit.webp" },
       { "id": 476, "answerTr": "gözlük kılıfı", "answerEn": "glasses case", "answerDe": "brillenetui", "answerEs": "funda de gafas", "categoryTr": "aksesuar", "categoryEn": "accessory", "categoryDe": "zubehör", "categoryEs": "accesorio", "image": "https://aty3825-rgb.github.io/macroscopeimg/gozlukkabi.webp" },
       { "id": 477, "answerTr": "sıcak su torbası", "answerEn": "hot water bottle", "answerDe": "wärmflasche", "answerEs": "bolsa de agua caliente", "categoryTr": "sağlık", "categoryEn": "health", "categoryDe": "gesundheit", "categoryEs": "salud", "image": "https://aty3825-rgb.github.io/macroscopeimg/sicaksutorbasi.webp" },
       { "id": 478, "answerTr": "boyunluk", "answerEn": "neck brace", "answerDe": "halskrause", "answerEs": "collarín", "categoryTr": "sağlık", "categoryEn": "health", "categoryDe": "gesundheit", "categoryEs": "salud", "image": "https://aty3825-rgb.github.io/macroscopeimg/boyunluk.webp" },
-      { "id": 479, "answerTr": "korse", "answerEn": "corset", "answerDe": "korsett", "answerEs": "corsé", "categoryTr": "sağlık", "categoryEn": "health", "categoryDe": "gesundheit", "categoryEs": "salud", "image": "https://aty3825-rgb.github.io/macroscopeimg/korse.webp" },
+      { "id": 479, "answerTr": "korse", "answerEn": "corset", "answerDe": "korsett", "answerEs": "corsé", "categoryTr": "sağlık", "categoryEn": "health", "categoryDe": "gesundheit", "categoryEs": "salud", "image": "https://aty3825-rgb.github.io/macroscopeimg/korse.webp" }
+    ]
+  },
+  {
+    "level": 97,
+    "questions": [
       { "id": 480, "answerTr": "koltuk değneği", "answerEn": "crutch", "answerDe": "krücke", "answerEs": "muleta", "categoryTr": "sağlık", "categoryEn": "health", "categoryDe": "gesundheit", "categoryEs": "salud", "image": "https://aty3825-rgb.github.io/macroscopeimg/koltukdegnegi.webp" },
       { "id": 481, "answerTr": "oksijen tüpü", "answerEn": "oxygen tank", "answerDe": "sauerstoffflasche", "answerEs": "tanque de oxígeno", "categoryTr": "sağlık", "categoryEn": "health", "categoryDe": "gesundheit", "categoryEs": "salud", "image": "https://aty3825-rgb.github.io/macroscopeimg/oksijentupu.webp" },
       { "id": 482, "answerTr": "gaz maskesi", "answerEn": "gas mask", "answerDe": "gasmaske", "answerEs": "máscara antigás", "categoryTr": "güvenlik", "categoryEn": "safety", "categoryDe": "sicherheit", "categoryEs": "seguridad", "image": "https://aty3825-rgb.github.io/macroscopeimg/gazmaskesi.webp" },
       { "id": 483, "answerTr": "spatula", "answerEn": "putty knife", "answerDe": "spachtel", "answerEs": "espátula", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://aty3825-rgb.github.io/macroscopeimg/spatula.webp" },
-      { "id": 484, "answerTr": "su terazisi", "answerEn": "spirit level", "answerDe": "wasserwaage", "answerEs": "nivel de burbuja", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://aty3825-rgb.github.io/macroscopeimg/suterazisi.webp" },
+      { "id": 484, "answerTr": "su terazisi", "answerEn": "spirit level", "answerDe": "wasserwaage", "answerEs": "nivel de burbuja", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://aty3825-rgb.github.io/macroscopeimg/suterazisi.webp" }
+    ]
+  },
+  {
+    "level": 98,
+    "questions": [
       { "id": 485, "answerTr": "şerit metre", "answerEn": "tape measure", "answerDe": "maßband", "answerEs": "cinta métrica", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://aty3825-rgb.github.io/macroscopeimg/seritmetre.webp" },
       { "id": 486, "answerTr": "kumpas", "answerEn": "caliper", "answerDe": "messschieber", "answerEs": "calibre", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://aty3825-rgb.github.io/macroscopeimg/kumpas.webp" },
       { "id": 487, "answerTr": "silikon tabancası", "answerEn": "caulking gun", "answerDe": "silikonpistole", "answerEs": "pistola de silicona", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://aty3825-rgb.github.io/macroscopeimg/silikontabancasi.webp" },
       { "id": 488, "answerTr": "matkap", "answerEn": "drill", "answerDe": "bohrmaschine", "answerEs": "taladro", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://aty3825-rgb.github.io/macroscopeimg/matkap.webp" },
-      { "id": 489, "answerTr": "kaynak makinesi", "answerEn": "welding machine", "answerDe": "schweißgerät", "answerEs": "máquina de soldar", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://aty3825-rgb.github.io/macroscopeimg/kaynakmakinesi.webp" },
+      { "id": 489, "answerTr": "kaynak makinesi", "answerEn": "welding machine", "answerDe": "schweißgerät", "answerEs": "máquina de soldar", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://aty3825-rgb.github.io/macroscopeimg/kaynakmakinesi.webp" }
+    ]
+  },
+  {
+    "level": 99,
+    "questions": [
       { "id": 490, "answerTr": "jeneratör", "answerEn": "generator", "answerDe": "generator", "answerEs": "generador", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://aty3825-rgb.github.io/macroscopeimg/jenerator.webp" },
       { "id": 491, "answerTr": "kompresör", "answerEn": "compressor", "answerDe": "kompressor", "answerEs": "compresor", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://aty3825-rgb.github.io/macroscopeimg/kompresor.webp" },
       { "id": 492, "answerTr": "benzin bidonu", "answerEn": "jerrycan", "answerDe": "benzinkanister", "answerEs": "bidón de gasolina", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://aty3825-rgb.github.io/macroscopeimg/benzinbidonu.webp" },
       { "id": 493, "answerTr": "huni", "answerEn": "funnel", "answerDe": "trichter", "answerEs": "embudo", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://aty3825-rgb.github.io/macroscopeimg/huni.webp" },
-      { "id": 494, "answerTr": "cep telefonu", "answerEn": "mobile phone", "answerDe": "handy", "answerEs": "teléfono móvil", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://aty3825-rgb.github.io/macroscopeimg/ceptelefonu.webp" },
+      { "id": 494, "answerTr": "cep telefonu", "answerEn": "mobile phone", "answerDe": "handy", "answerEs": "teléfono móvil", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://aty3825-rgb.github.io/macroscopeimg/ceptelefonu.webp" }
+    ]
+  },
+  {
+    "level": 100,
+    "questions": [
       { "id": 495, "answerTr": "ekmek", "answerEn": "bread", "answerDe": "brot", "answerEs": "pan", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/ekmek.webp" },
       { "id": 496, "answerTr": "çay", "answerEn": "tea", "answerDe": "tee", "answerEs": "té", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/cay.webp" },
       { "id": 497, "answerTr": "yumurta", "answerEn": "egg", "answerDe": "ei", "answerEs": "huevo", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/yumurta.webp" },
       { "id": 498, "answerTr": "süt", "answerEn": "milk", "answerDe": "milch", "answerEs": "leche", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/sut.webp" },
-      { "id": 499, "answerTr": "kesme şeker", "answerEn": "sugar cube", "answerDe": "würfelzucker", "answerEs": "terrón de azúcar", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/seker.webp" },
+      { "id": 499, "answerTr": "kesme şeker", "answerEn": "sugar cube", "answerDe": "würfelzucker", "answerEs": "terrón de azúcar", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/seker.webp" }
+    ]
+  },
+  {
+    "level": 101,
+    "questions": [
       { "id": 500, "answerTr": "tuz", "answerEn": "salt", "answerDe": "salz", "answerEs": "sal", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/tuz.webp" },
       { "id": 501, "answerTr": "domates", "answerEn": "tomato", "answerDe": "tomate", "answerEs": "tomate", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/domates.webp" },
       { "id": 502, "answerTr": "salatalık", "answerEn": "cucumber", "answerDe": "gurke", "answerEs": "pepino", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/salatalik.webp" },
       { "id": 503, "answerTr": "patates", "answerEn": "potato", "answerDe": "kartoffel", "answerEs": "patata", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/patates.webp" },
-      { "id": 504, "answerTr": "kuru soğan", "answerEn": "onion", "answerDe": "zwiebel", "answerEs": "cebolla", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/sogan.webp" },
+      { "id": 504, "answerTr": "kuru soğan", "answerEn": "onion", "answerDe": "zwiebel", "answerEs": "cebolla", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/sogan.webp" }
+    ]
+  },
+  {
+    "level": 102,
+    "questions": [
       { "id": 505, "answerTr": "ayçiçeği", "answerEn": "sunflower", "answerDe": "sonnenblume", "answerEs": "girasol", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/aycicegi.webp" },
       { "id": 506, "answerTr": "zeytin", "answerEn": "olive", "answerDe": "olive", "answerEs": "aceituna", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/zeytin.webp" },
       { "id": 507, "answerTr": "peynir", "answerEn": "cheese", "answerDe": "käse", "answerEs": "queso", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/peynir.webp" },
       { "id": 508, "answerTr": "kıyma", "answerEn": "minced meat", "answerDe": "hackfleisch", "answerEs": "carne picada", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/kiyma.webp" },
-      { "id": 509, "answerTr": "pirinç", "answerEn": "rice", "answerDe": "reis", "answerEs": "arroz", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/pirinc.webp" },
+      { "id": 509, "answerTr": "pirinç", "answerEn": "rice", "answerDe": "reis", "answerEs": "arroz", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/pirinc.webp" }
+    ]
+  },
+  {
+    "level": 103,
+    "questions": [
       { "id": 510, "answerTr": "makarna", "answerEn": "pasta", "answerDe": "nudeln", "answerEs": "pasta", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/makarna.webp" },
       { "id": 511, "answerTr": "elma", "answerEn": "apple", "answerDe": "apfel", "answerEs": "manzana", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/elma.webp" },
       { "id": 512, "answerTr": "muz", "answerEn": "banana", "answerDe": "banane", "answerEs": "plátano", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/muz.webp" },
       { "id": 513, "answerTr": "biber", "answerEn": "pepper", "answerDe": "paprika", "answerEs": "pimiento", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/biber.webp" },
-      { "id": 514, "answerTr": "sarımsak", "answerEn": "garlic", "answerDe": "knoblauch", "answerEs": "ajo", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/sarimsak.webp" },
+      { "id": 514, "answerTr": "sarımsak", "answerEn": "garlic", "answerDe": "knoblauch", "answerEs": "ajo", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/sarimsak.webp" }
+    ]
+  },
+  {
+    "level": 104,
+    "questions": [
       { "id": 515, "answerTr": "salça", "answerEn": "tomato paste", "answerDe": "tomatenmark", "answerEs": "pasta de tomate", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/salca.webp" },
       { "id": 516, "answerTr": "kuru fasulye", "answerEn": "white beans", "answerDe": "weiße bohnen", "answerEs": "alubias blancas", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/kurufasulye.webp" },
       { "id": 517, "answerTr": "mercimek", "answerEn": "lentil", "answerDe": "linse", "answerEs": "lenteja", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/mercimek.webp" },
       { "id": 518, "answerTr": "bal", "answerEn": "honey", "answerDe": "honig", "answerEs": "miel", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/bal.webp" },
-      { "id": 519, "answerTr": "limon", "answerEn": "lemon", "answerDe": "zitrone", "answerEs": "limón", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/limon.webp" },
+      { "id": 519, "answerTr": "limon", "answerEn": "lemon", "answerDe": "zitrone", "answerEs": "limón", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/limon.webp" }
+    ]
+  },
+  {
+    "level": 105,
+    "questions": [
       { "id": 520, "answerTr": "portakal", "answerEn": "orange", "answerDe": "orange", "answerEs": "naranja", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/portakal.webp" },
       { "id": 521, "answerTr": "mandalina", "answerEn": "tangerine", "answerDe": "mandarine", "answerEs": "mandarina", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/mandalina.webp" },
       { "id": 522, "answerTr": "maydanoz", "answerEn": "parsley", "answerDe": "petersilie", "answerEs": "perejil", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/maydanoz.webp" },
       { "id": 523, "answerTr": "nane", "answerEn": "mint", "answerDe": "minze", "answerEs": "menta", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/nane.webp" },
-      { "id": 524, "answerTr": "yeşil soğan", "answerEn": "green onion", "answerDe": "frühlingszwiebel", "answerEs": "cebolleta", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/yesilsogan.webp" },
+      { "id": 524, "answerTr": "yeşil soğan", "answerEn": "green onion", "answerDe": "frühlingszwiebel", "answerEs": "cebolleta", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/yesilsogan.webp" }
+    ]
+  },
+  {
+    "level": 106,
+    "questions": [
       { "id": 525, "answerTr": "marul", "answerEn": "lettuce", "answerDe": "kopfsalat", "answerEs": "lechuga", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/marul.webp" },
       { "id": 526, "answerTr": "patlıcan", "answerEn": "eggplant", "answerDe": "aubergine", "answerEs": "berenjena", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/patlican.webp" },
       { "id": 527, "answerTr": "kabak", "answerEn": "zucchini", "answerDe": "zucchini", "answerEs": "calabacín", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/kabak.webp" },
       { "id": 528, "answerTr": "taze fasulye", "answerEn": "green beans", "answerDe": "grüne bohnen", "answerEs": "judías verdes", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/tazefasulye.webp" },
-      { "id": 529, "answerTr": "ıspanak", "answerEn": "spinach", "answerDe": "spinat", "answerEs": "espinaca", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/ispanak.webp" },
+      { "id": 529, "answerTr": "ıspanak", "answerEn": "spinach", "answerDe": "spinat", "answerEs": "espinaca", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/ispanak.webp" }
+    ]
+  },
+  {
+    "level": 107,
+    "questions": [
       { "id": 530, "answerTr": "bulgur", "answerEn": "bulgur", "answerDe": "bulgur", "answerEs": "bulgur", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/bulgur.webp" },
       { "id": 531, "answerTr": "nohut", "answerEn": "chickpea", "answerDe": "kichererbse", "answerEs": "garbanzo", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/nohut.webp" },
       { "id": 532, "answerTr": "zeytin", "answerEn": "olive", "answerDe": "olive", "answerEs": "aceituna", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/zeytin.webp" },
       { "id": 533, "answerTr": "gofret", "answerEn": "wafer", "answerDe": "waffel", "answerEs": "oblea", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/gofret.webp" },
-      { "id": 534, "answerTr": "çikolata", "answerEn": "chocolate", "answerDe": "schokolade", "answerEs": "chocolate", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/cikolata.webp" },
+      { "id": 534, "answerTr": "çikolata", "answerEn": "chocolate", "answerDe": "schokolade", "answerEs": "chocolate", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/cikolata.webp" }
+    ]
+  },
+  {
+    "level": 108,
+    "questions": [
       { "id": 535, "answerTr": "cips", "answerEn": "chips", "answerDe": "chips", "answerEs": "patatas fritas", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/cips.webp" },
       { "id": 536, "answerTr": "çekirdek", "answerEn": "sunflower seeds", "answerDe": "sonnenblumenkerne", "answerEs": "pipas", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/cekirdek.webp" },
       { "id": 537, "answerTr": "yer fıstığı", "answerEn": "peanut", "answerDe": "erdnuss", "answerEs": "cacahuete", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/yerfistigi.webp" },
       { "id": 538, "answerTr": "ceviz içi", "answerEn": "shelled walnuts", "answerDe": "walnusskerne", "answerEs": "nueces peladas", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/cevizici.webp" },
-      { "id": 539, "answerTr": "ceviz", "answerEn": "walnut", "answerDe": "walnuss", "answerEs": "nuez", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/ceviz.webp" },
+      { "id": 539, "answerTr": "ceviz", "answerEn": "walnut", "answerDe": "walnuss", "answerEs": "nuez", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/ceviz.webp" }
+    ]
+  },
+  {
+    "level": 109,
+    "questions": [
       { "id": 540, "answerTr": "badem", "answerEn": "almond", "answerDe": "mandel", "answerEs": "almendra", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/badem.webp" },
       { "id": 541, "answerTr": "leblebi", "answerEn": "roasted chickpeas", "answerDe": "geröstete kichererbsen", "answerEs": "garbanzos tostados", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/leblebi.webp" },
       { "id": 542, "answerTr": "patlamış mısır", "answerEn": "popcorn", "answerDe": "popcorn", "answerEs": "palomitas de maíz", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/patlamismisir.webp" },
       { "id": 543, "answerTr": "mısır", "answerEn": "corn", "answerDe": "mais", "answerEs": "maíz", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/misir.webp" },
-      { "id": 544, "answerTr": "turşu", "answerEn": "pickles", "answerDe": "gewürzgurke", "answerEs": "pepinillos", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/tursu.webp" },
+      { "id": 544, "answerTr": "turşu", "answerEn": "pickles", "answerDe": "gewürzgurke", "answerEs": "pepinillos", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/tursu.webp" }
+    ]
+  },
+  {
+    "level": 110,
+    "questions": [
       { "id": 545, "answerTr": "salam", "answerEn": "salami", "answerDe": "salami", "answerEs": "salami", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/salam.webp" },
       { "id": 546, "answerTr": "sucuk", "answerEn": "sucuk", "answerDe": "sucuk", "answerEs": "sucuk", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/sucuk.webp" },
       { "id": 547, "answerTr": "sosis", "answerEn": "sausage", "answerDe": "würstchen", "answerEs": "salchicha", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/sosis.webp" },
       { "id": 548, "answerTr": "ton balığı", "answerEn": "canned tuna", "answerDe": "thunfisch", "answerEs": "atún", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/tonbaligi.webp" },
-      { "id": 549, "answerTr": "mantar", "answerEn": "mushroom", "answerDe": "pilz", "answerEs": "champiñón", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/mantar.webp" },
+      { "id": 549, "answerTr": "mantar", "answerEn": "mushroom", "answerDe": "pilz", "answerEs": "champiñón", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/mantar.webp" }
+    ]
+  },
+  {
+    "level": 111,
+    "questions": [
       { "id": 550, "answerTr": "brokoli", "answerEn": "broccoli", "answerDe": "brokkoli", "answerEs": "brócoli", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/brokoli.webp" },
       { "id": 551, "answerTr": "karnabahar", "answerEn": "cauliflower", "answerDe": "blumenkohl", "answerEs": "coliflor", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/karnabahar.webp" },
       { "id": 552, "answerTr": "pırasa", "answerEn": "leek", "answerDe": "lauch", "answerEs": "puerro", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/pirasa.webp" },
       { "id": 553, "answerTr": "kereviz", "answerEn": "celery", "answerDe": "sellerie", "answerEs": "apio", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/kereviz.webp" },
       { "id": 554, "answerTr": "enginar", "answerEn": "artichoke", "answerDe": "artischocke", "answerEs": "alcachofa", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://aty3825-rgb.github.io/macroscopeimg/enginar.webp" }
-
-
     ]
   }
-
 
   ]
 }
