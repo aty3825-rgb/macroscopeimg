@@ -953,7 +953,7 @@
       { "id": 480, "answerTr": "koltuk değneği", "answerEn": "crutch", "answerDe": "krücke", "answerEs": "muleta", "categoryTr": "sağlık", "categoryEn": "health", "categoryDe": "gesundheit", "categoryEs": "salud", "image": "https://aty3825-rgb.github.io/macroscopeimg/koltukdegnegi.webp" },
       { "id": 481, "answerTr": "oksijen tüpü", "answerEn": "oxygen tank", "answerDe": "sauerstoffflasche", "answerEs": "tanque de oxígeno", "categoryTr": "sağlık", "categoryEn": "health", "categoryDe": "gesundheit", "categoryEs": "salud", "image": "https://aty3825-rgb.github.io/macroscopeimg/oksijentupu.webp" },
       { "id": 482, "answerTr": "gaz maskesi", "answerEn": "gas mask", "answerDe": "gasmaske", "answerEs": "máscara antigás", "categoryTr": "güvenlik", "categoryEn": "safety", "categoryDe": "sicherheit", "categoryEs": "seguridad", "image": "https://aty3825-rgb.github.io/macroscopeimg/gazmaskesi.webp" },
-      { "id": 483, "answerTr": "spatula", "answerEn": "putty knife", "answerDe": "spachtel", "answerEs": "espátula", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://aty3825-rgb.github.io/macroscopeimg/spatula.webp" },
+      { "id": 483, "answerTr": "spatula", "answerEn": "putty knife", "answerDe": "spachtel", "answerEs": "espátula", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://aty3825-rgb.github.io/macroscopeimg/spatula2.webp" },
       { "id": 484, "answerTr": "su terazisi", "answerEn": "spirit level", "answerDe": "wasserwaage", "answerEs": "nivel de burbuja", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://aty3825-rgb.github.io/macroscopeimg/suterazisi.webp" }
     ]
   },
@@ -974,7 +974,7 @@
       { "id": 491, "answerTr": "kompresör", "answerEn": "compressor", "answerDe": "kompressor", "answerEs": "compresor", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://aty3825-rgb.github.io/macroscopeimg/kompresor.webp" },
       { "id": 492, "answerTr": "benzin bidonu", "answerEn": "jerrycan", "answerDe": "benzinkanister", "answerEs": "bidón de gasolina", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://aty3825-rgb.github.io/macroscopeimg/benzinbidonu.webp" },
       { "id": 493, "answerTr": "huni", "answerEn": "funnel", "answerDe": "trichter", "answerEs": "embudo", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://aty3825-rgb.github.io/macroscopeimg/huni.webp" },
-      { "id": 494, "answerTr": "cep telefonu", "answerEn": "mobile phone", "answerDe": "handy", "answerEs": "teléfono móvil", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://aty3825-rgb.github.io/macroscopeimg/ceptelefonu.webp" }
+      { "id": 494, "answerTr": "cep telefonu", "answerEn": "mobile phone", "answerDe": "handy", "answerEs": "teléfono móvil", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://aty3825-rgb.github.io/macroscopeimg/ceptelefonu2.webp" }
     ]
   },
   {
