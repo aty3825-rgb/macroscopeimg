@@ -357,7 +357,7 @@
         { "id": 177, "answerTr": "hamam böceği", "answerEn": "cockroach", "answerDe": "kakerlake", "answerEs": "cucaracha", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/hamambocegi.webp" },
         { "id": 178, "answerTr": "uğur böceği", "answerEn": "ladybug", "answerDe": "marienkäfer", "answerEs": "mariquita", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/ugurbocegi.webp" },
         { "id": 179, "answerTr": "kol düğmesi", "answerEn": "cufflink", "answerDe": "manschettenknopf", "answerEs": "gemelo", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/koldugmesi.webp" },
-        { "id": 180, "answerTr": "çekirge", "answerEn": "grasshopper", "answerDe": "heuschrecke", "answerEs": "saltamontes", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/cekirge.webp" }
+        { "id": 180, "answerTr": "çekirge", "answerEn": "grasshopper", "answerDe": "heuschrecke", "answerEs": "saltamontes", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/cekirge2.webp" }
       ]
     },
     {
@@ -366,7 +366,7 @@
         { "id": 181, "answerTr": "karınca yiyen", "answerEn": "anteater", "answerDe": "ameisenbär", "answerEs": "oso hormiguero", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/karincayiyen.webp" },
         { "id": 182, "answerTr": "tembel hayvan", "answerEn": "sloth", "answerDe": "faultier", "answerEs": "perezoso", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/tembelhayvan.webp" },
         { "id": 183, "answerTr": "müren", "answerEn": "moray eel", "answerDe": "muräne", "answerEs": "morena", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/muren.webp" },
-        { "id": 184, "answerTr": "peygamber devesi", "answerEn": "mantis", "answerDe": "gottesanbeterin", "answerEs": "mantis religiosa", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/peygamberdevesi.webp" },
+        { "id": 184, "answerTr": "peygamber devesi", "answerEn": "mantis", "answerDe": "gottesanbeterin", "answerEs": "mantis religiosa", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/cekirge.webp" },
         { "id": 185, "answerTr": "kırkayak", "answerEn": "centipede", "answerDe": "tausendfüßler", "answerEs": "ciempiés", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kirkayak.webp" }
       ]
     },
