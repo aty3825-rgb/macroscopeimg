@@ -563,7 +563,7 @@
     "questions": [
       { "id": 281, "answerTr": "abajur", "answerEn": "lampshade", "answerDe": "lampenschirm", "answerEs": "lámpara", "categoryTr": "aydınlatma", "categoryEn": "lighting", "categoryDe": "beleuchtung", "categoryEs": "iluminación", "image": "https://macroscopeimg.win/abajur.webp" },
       { "id": 282, "answerTr": "lambader", "answerEn": "floor lamp", "answerDe": "stehlampe", "answerEs": "lámpara de pie", "categoryTr": "aydınlatma", "categoryEn": "lighting", "categoryDe": "beleuchtung", "categoryEs": "iluminación", "image": "https://macroscopeimg.win/lambader.webp" },
-      { "id": 284, "answerTr": "ampul", "answerEn": "light bulb", "answerDe": "glühbirne", "answerEs": "bombilla", "categoryTr": "elektrik", "categoryEn": "electric", "categoryDe": "elektrik", "categoryEs": "eléctrico", "image": "https://macroscopeimg.win/ampul.webp" },
+     
       { "id": 285, "answerTr": "vantilatör", "answerEn": "fan", "answerDe": "ventilator", "answerEs": "ventilador", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/vantilator.webp" }
     ]
   },
