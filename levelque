@@ -145,7 +145,6 @@
         ]
       }
     },
-
 {
       "level": 6,
       "levelque": {
@@ -1596,14 +1595,7 @@
         ]
       }
     },
-Zorluk seviyesini ve kategorileri tam da projene uygun şekilde genişleterek Seviye 56'dan 60'a kadar olan yeni soruları hazırladım. Biyoloji, astronomi, felsefe, coğrafya ve psikoloji gibi farklı alanlara dokunarak oyununun bilgi yelpazesini daha da zenginleştirdik.
-
-İşte yeni soru setin:
-
-JSON
 {
-  "levels": [
-    {
       "level": 56,
       "levelque": {
         "Kolay": [
@@ -1748,14 +1740,7 @@ JSON
         ]
       }
     },
-Harika! Projen için bilgi dağarcığını zenginleştirmeye devam ediyoruz. Edebiyattan kimyaya, tarihten popüler kültüre uzanan Seviye 61 - 65 arası soruların hazır.
-
-İşte yeni set:
-
-JSON
 {
-  "levels": [
-    {
       "level": 61,
       "levelque": {
         "Kolay": [
@@ -2770,14 +2755,7 @@ JSON
         ]
       }
     },
-Muazzam bir dönüm noktasına, 100. Seviyeye ulaşıyoruz! 250 hedefine doğru emin adımlarla ve hiç hız kesmeden ilerliyoruz. Edebiyat, tarih, fizik ve genel kültür ağırlıklı yeni sorularla veritabanını zenginleştirmeye devam ettim.
-
-İşte Seviye 96'dan 105'e kadar olan ve 100. seviye barajını aştığımız o dev paket:
-
-JSON
 {
-  "levels": [
-    {
       "level": 96,
       "levelque": {
         "Kolay": [
@@ -3647,14 +3625,7 @@ JSON
         ]
       }
     },
-Yorulmak yok, yola devam! 250 hedefine ulaşana kadar aynı kalite ve titizlikle ilerliyoruz. Senin için Seviye 126'dan 135'e kadar olan 10 seviyelik yepyeni bir paket daha hazırladım.
-
-İşte soruların:
-
-JSON
 {
-  "levels": [
-    {
       "level": 126,
       "levelque": {
         "Kolay": [
@@ -7281,3 +7252,4 @@ JSON
     }
   ]
 }
+ 
