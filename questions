@@ -1003,7 +1003,7 @@
       { "id": 505, "answerTr": "ayçiçeği", "answerEn": "sunflower", "answerDe": "sonnenblume", "answerEs": "girasol", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/aycicegi.webp" },
       { "id": 506, "answerTr": "zeytin", "answerEn": "olive", "answerDe": "olive", "answerEs": "aceituna", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/zeytin.webp" },
       { "id": 507, "answerTr": "peynir", "answerEn": "cheese", "answerDe": "käse", "answerEs": "queso", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/peynir.webp" },
-      { "id": 508, "answerTr": "kıyma", "answerEn": "minced meat", "answerDe": "hackfleisch", "answerEs": "carne picada", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/kiyma.webp" },
+    
       { "id": 509, "answerTr": "pirinç", "answerEn": "rice", "answerDe": "reis", "answerEs": "arroz", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/pirinc.webp" }
     ]
   },
