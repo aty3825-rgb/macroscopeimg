@@ -1,5 +1,35 @@
 {
   "levels": [
+   {
+      "level": 0,
+      "levelque": {
+        "Kolay": [
+          {
+            "tr": { "q": "Hangi vitamin 'Güneş Vitamini' olarak bilinir?", "options": ["A Vitamini", "B Vitamini", "C Vitamini", "D Vitamini"], "a": "D Vitamini" },
+            "en": { "q": "Which vitamin is known as the 'Sunshine Vitamin'?", "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"], "a": "Vitamin D" },
+            "de": { "q": "Welches Vitamin ist als 'Sonnenvitamin' bekannt?", "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"], "a": "Vitamin D" },
+            "es": { "q": "¿Qué vitamina se conoce como la 'vitamina del sol'?", "options": ["Vitamina A", "Vitamina B", "Vitamina C", "Vitamina D"], "a": "Vitamina D" }
+          }
+        ],
+        "Orta": [
+          {
+            "tr": { "q": "Güney Amerika'daki en yüksek dağ olan Aconcagua hangi ülkededir?", "options": ["Şili", "Peru", "Arjantin", "Brezilya"], "a": "Arjantin" },
+            "en": { "q": "In which country is Aconcagua, the highest mountain in South America, located?", "options": ["Chile", "Peru", "Argentina", "Brazil"], "a": "Argentina" },
+            "de": { "q": "In welchem Land liegt der Aconcagua, der höchste Berg Südamerikas?", "options": ["Chile", "Peru", "Argentinien", "Brasilien"], "a": "Argentinien" },
+            "es": { "q": "¿En qué país se encuentra el Aconcagua, la montaña más alta de América del Sur?", "options": ["Chile", "Perú", "Argentina", "Brasil"], "a": "Argentina" }
+          }
+        ],
+        "Zor": [
+          {
+            "tr": { "q": "'Kaybolan Zamanın İzinde' adlı yedi ciltlik dev eserin yazarı kimdir?", "options": ["Marcel Proust", "Gustave Flaubert", "Albert Camus", "Jean-Paul Sartre"], "a": "Marcel Proust" },
+            "en": { "q": "Who is the author of the seven-volume masterpiece 'In Search of Lost Time'?", "options": ["Marcel Proust", "Gustave Flaubert", "Albert Camus", "Jean-Paul Sartre"], "a": "Marcel Proust" },
+            "de": { "q": "Wer ist der Autor des siebtebändigen Meisterwerks 'Auf der Suche nach der verlorenen Zeit'?", "options": ["Marcel Proust", "Gustave Flaubert", "Albert Camus", "Jean-Paul Sartre"], "a": "Marcel Proust" },
+            "es": { "q": "¿Quién es el autor de la obra maestra de siete volúmenes 'En busca del tiempo perdido'?", "options": ["Marcel Proust", "Gustave Flaubert", "Albert Camus", "Jean-Paul Sartre"], "a": "Marcel Proust" }
+          }
+        ]
+      }
+    },
+
     {
       "level": 1,
       "levelque": {
