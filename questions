@@ -46,8 +46,8 @@
         { "id": 21, "answerTr": "diş fırçası", "answerEn": "toothbrush", "answerDe": "zahnbürste", "answerEs": "cepillo de dientes", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/disfircasi.webp" },
         { "id": 22, "answerTr": "ayı", "answerEn": "bear", "answerDe": "bär", "answerEs": "oso", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/ayi.webp" },
         { "id": 23, "answerTr": "güneş gözlüğü", "answerEn": "sunglasses", "answerDe": "sonnenbrille", "answerEs": "gafas de sol", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/gunesgozlugu.webp" },
-        { "id": 24, "answerTr": "kurt", "answerEn": "wolf", "answerDe": "wolf", "answerEs": "lobo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kurt.webp" },
-        { "id": 25, "answerTr": "kol saati", "answerEn": "wristwatch", "answerDe": "armbanduhr", "answerEs": "reloj de pulsera", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/kolsaati.webp" }
+        { "id": 24, "answerTr": "kurt", "answerEn": "wolf", "answerDe": "wolf", "answerEs": "lobo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kurt.webp" }
+       
       ]
     },
     {
