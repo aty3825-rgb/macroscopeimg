@@ -455,11 +455,11 @@
   {
     "level": 46,
     "questions": [
-      { "id": 226, "answerTr": "sürahi", "answerEn": "jug", "answerDe": "krug", "answerEs": "jarra", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/surahi.webp" },
+      { "id": 226, "answerTr": "sürahi", "answerEn": "jug", "answerDe": "krug", "answerEs": "jarra", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/surahi.webp" }
     
     
      
-      { "id": 230, "answerTr": "klozet fırçası", "answerEn": "toilet brush", "answerDe": "klobürste", "answerEs": "escobilla", "categoryTr": "banyo", "categoryEn": "bathroom", "categoryDe": "badezimmer", "categoryEs": "baño", "image": "https://macroscopeimg.win/klozetfircasi.webp" }
+     
     ]
   },
   {
