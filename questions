@@ -166,7 +166,7 @@
         { "id": 81, "answerTr": "anahtarlık", "answerEn": "keychain", "answerDe": "schlüsselanhänger", "answerEs": "llavero", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/anahtarlik.webp" },
         { "id": 82, "answerTr": "baykuş", "answerEn": "owl", "answerDe": "eule", "answerEs": "búho", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/baykus.webp" },
         { "id": 83, "answerTr": "papağan", "answerEn": "parrot", "answerDe": "papagei", "answerEs": "loro", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/papagan.webp" },
-        { "id": 84, "answerTr": "tespih", "answerEn": "prayer beads", "answerDe": "gebetskette", "answerEs": "cuentas de oración", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/tespih.webp" },
+       
         { "id": 85, "answerTr": "kanarya", "answerEn": "canary", "answerDe": "kanarienvogel", "answerEs": "canario", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kanarya.webp" }
       ]
     },
@@ -234,7 +234,7 @@
       "level": 24,
       "questions": [
         { "id": 116, "answerTr": "iguana", "answerEn": "iguana", "answerDe": "leguan", "answerEs": "iguana", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/iguana.webp" },
-        { "id": 117, "answerTr": "küpe", "answerEn": "earring", "answerDe": "ohrring", "answerEs": "pendiente", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/kupe.webp" },
+      
         { "id": 118, "answerTr": "deve kuşu", "answerEn": "ostrich", "answerDe": "strauß", "answerEs": "avestruz", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/devekusu.webp" },
         { "id": 119, "answerTr": "akrep", "answerEn": "scorpion", "answerDe": "skorpion", "answerEs": "escorpión", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/akrep.webp" },
         { "id": 120, "answerTr": "toka", "answerEn": "hair clip", "answerDe": "haarspange", "answerEs": "horquilla", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/toka2.webp" }
@@ -335,7 +335,7 @@
       "questions": [
         { "id": 166, "answerTr": "deniz anası", "answerEn": "jellyfish", "answerDe": "qualle", "answerEs": "medusa", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/denizanasi.webp" },
         { "id": 167, "answerTr": "istiridye", "answerEn": "oyster", "answerDe": "auster", "answerEs": "ostra", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/istiridye.webp" },
-        { "id": 168, "answerTr": "ayna", "answerEn": "mirror", "answerDe": "spiegel", "answerEs": "espejo", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/ayna.webp" },
+      
         { "id": 169, "answerTr": "ıstakoz", "answerEn": "lobster", "answerDe": "hummer", "answerEs": "langosta", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/istakoz.webp" },
         { "id": 170, "answerTr": "deniz kaplumbağası", "answerEn": "sea turtle", "answerDe": "meeresschildkröte", "answerEs": "tortuga marina", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/sukaplumbagsi.webp" }
       ]
