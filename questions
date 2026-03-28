@@ -981,7 +981,7 @@
     "level": 100,
     "questions": [
       { "id": 495, "answerTr": "ekmek", "answerEn": "bread", "answerDe": "brot", "answerEs": "pan", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/ekmek.webp" },
-      { "id": 496, "answerTr": "çay", "answerEn": "tea", "answerDe": "tee", "answerEs": "té", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/cay.webp" },
+     
       { "id": 497, "answerTr": "yumurta", "answerEn": "egg", "answerDe": "ei", "answerEs": "huevo", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/yumurta.webp" },
       { "id": 498, "answerTr": "süt", "answerEn": "milk", "answerDe": "milch", "answerEs": "leche", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/sut.webp" },
       { "id": 499, "answerTr": "kesme şeker", "answerEn": "sugar cube", "answerDe": "würfelzucker", "answerEs": "terrón de azúcar", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/seker.webp" }
