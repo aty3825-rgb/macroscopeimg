@@ -792,7 +792,7 @@
   {
     "level": 81,
     "questions": [
-      { "id": 400, "answerTr": "çim biçme makinesi", "answerEn": "lawnmower", "answerDe": "rasenmäher", "answerEs": "cortacésped", "categoryTr": "bahçe", "categoryEn": "garden", "categoryDe": "garten", "categoryEs": "jardín", "image": "https://macroscopeimg.win/cimbicmemakinesi.webp" },
+      
       { "id": 401, "answerTr": "kamp çadırı", "answerEn": "camping tent", "answerDe": "campingzelt", "answerEs": "tienda de campaña", "categoryTr": "kamp", "categoryEn": "camping", "categoryDe": "camping", "categoryEs": "camping", "image": "https://macroscopeimg.win/kampcadiri.webp" },
       { "id": 402, "answerTr": "uyku tulumu", "answerEn": "sleeping bag", "answerDe": "schlafsack", "answerEs": "saco de dormir", "categoryTr": "kamp", "categoryEn": "camping", "categoryDe": "camping", "categoryEs": "camping", "image": "https://macroscopeimg.win/uykutulumu.webp" },
       { "id": 403, "answerTr": "gaz lambası", "answerEn": "gas lamp", "answerDe": "gaslampe", "answerEs": "lámpara de gas", "categoryTr": "kamp", "categoryEn": "camping", "categoryDe": "camping", "categoryEs": "camping", "image": "https://macroscopeimg.win/gazlambasi.webp" },
@@ -814,7 +814,7 @@
     "questions": [
       { "id": 410, "answerTr": "futbol topu", "answerEn": "soccer ball", "answerDe": "fußball", "answerEs": "balón de fútbol", "categoryTr": "spor", "categoryEn": "sports", "categoryDe": "sport", "categoryEs": "deportes", "image": "https://macroscopeimg.win/futboltopu.webp" },
       { "id": 411, "answerTr": "basketbol topu", "answerEn": "basketball", "answerDe": "basketball", "answerEs": "balón de baloncesto", "categoryTr": "spor", "categoryEn": "sports", "categoryDe": "sport", "categoryEs": "deportes", "image": "https://macroscopeimg.win/basketboltopu.webp" },
-      { "id": 412, "answerTr": "raket", "answerEn": "racket", "answerDe": "schläger", "answerEs": "raqueta", "categoryTr": "spor", "categoryEn": "sports", "categoryDe": "sport", "categoryEs": "deportes", "image": "https://macroscopeimg.win/raket.webp" },
+    
       { "id": 413, "answerTr": "dambıl", "answerEn": "dumbbell", "answerDe": "hantel", "answerEs": "mancuerna", "categoryTr": "spor", "categoryEn": "sports", "categoryDe": "sport", "categoryEs": "deportes", "image": "https://macroscopeimg.win/dambil.webp" },
       { "id": 414, "answerTr": "pilates topu", "answerEn": "exercise ball", "answerDe": "gymnastikball", "answerEs": "pelota de pilates", "categoryTr": "spor", "categoryEn": "sports", "categoryDe": "sport", "categoryEs": "deportes", "image": "https://macroscopeimg.win/pilatestopu.webp" }
     ]
