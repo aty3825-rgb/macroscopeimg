@@ -535,9 +535,7 @@
     "questions": [
       { "id": 266, "answerTr": "kepçe", "answerEn": "ladle", "answerDe": "schöpfkelle", "answerEs": "cucharón", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/kepce.webp" },
       { "id": 267, "answerTr": "spatula", "answerEn": "spatula", "answerDe": "pfannenwender", "answerEs": "espátula", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/spatula.webp" },
-      { "id": 268, "answerTr": "karıştırma kabı", "answerEn": "mixing bowl", "answerDe": "rührschüssel", "answerEs": "bol", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/karistirmakabi.webp" },
-      { "id": 270, "answerTr": "kavanoz", "answerEn": "jar", "answerDe": "glas", "answerEs": "tarro", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/kavanoz.webp" }
-    ]
+      { "id": 268, "answerTr": "karıştırma kabı", "answerEn": "mixing bowl", "answerDe": "rührschüssel", "answerEs": "bol", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/karistirmakabi.webp" }    
   },
   {
     "level": 55,
