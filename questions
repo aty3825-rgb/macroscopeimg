@@ -368,10 +368,8 @@
         { "id": 183, "answerTr": "müren", "answerEn": "moray eel", "answerDe": "muräne", "answerEs": "morena", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/muren.webp" },
         { "id": 184, "answerTr": "peygamber devesi", "answerEn": "mantis", "answerDe": "gottesanbeterin", "answerEs": "mantis religiosa", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/cekirge.webp" },
         { "id": 185, "answerTr": "kırkayak", "answerEn": "centipede", "answerDe": "tausendfüßler", "answerEs": "ciempiés", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kirkayak.webp" }
-      ]
-    },
-
- 
+    ]
+  },
   {
     "level": 38,
     "questions": [
@@ -455,10 +453,7 @@
   {
     "level": 46,
     "questions": [
-      { "id": 226, "answerTr": "sürahi", "answerEn": "jug", "answerDe": "krug", "answerEs": "jarra", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/surahi.webp" }
-    
-    
-     
+      { "id": 226, "answerTr": "sürahi", "answerEn": "jug", "answerDe": "krug", "answerEs": "jarra", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/surahi.webp" }     
      
     ]
   },
@@ -536,6 +531,7 @@
       { "id": 266, "answerTr": "kepçe", "answerEn": "ladle", "answerDe": "schöpfkelle", "answerEs": "cucharón", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/kepce.webp" },
       { "id": 267, "answerTr": "spatula", "answerEn": "spatula", "answerDe": "pfannenwender", "answerEs": "espátula", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/spatula.webp" },
       { "id": 268, "answerTr": "karıştırma kabı", "answerEn": "mixing bowl", "answerDe": "rührschüssel", "answerEs": "bol", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/karistirmakabi.webp" }    
+   ]
   },
   {
     "level": 55,
@@ -582,8 +578,6 @@
       { "id": 294, "answerTr": "tıraş makinesi", "answerEn": "shaver", "answerDe": "rasierer", "answerEs": "afeitadora", "categoryTr": "kişisel bakım", "categoryEn": "personal care", "categoryDe": "körperpflege", "categoryEs": "cuidado personal", "image": "https://macroscopeimg.win/tirasmakinesi.webp" }
     ]
   },
-
- 
   {
     "level": 60,
     "questions": [
@@ -895,7 +889,7 @@
       { "id": 454, "answerTr": "diş kaşıyıcı", "answerEn": "teether", "answerDe": "beißring", "answerEs": "mordedor", "categoryTr": "bebek", "categoryEn": "baby", "categoryDe": "baby", "categoryEs": "bebé", "image": "https://macroscopeimg.win/diskasiyici.webp" }
     ]
   },
-{
+  {
     "level": 92,
     "questions": [
       { "id": 455, "answerTr": "çıngırak", "answerEn": "baby rattle", "answerDe": "rassel", "answerEs": "sonajero", "categoryTr": "bebek", "categoryEn": "baby", "categoryDe": "baby", "categoryEs": "bebé", "image": "https://macroscopeimg.win/cingirak.webp" },
@@ -1095,7 +1089,7 @@
       { "id": 554, "answerTr": "enginar", "answerEn": "artichoke", "answerDe": "artischocke", "answerEs": "alcachofa", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/enginar.webp" }
     ]
   },
-{
+  {
     "level": 112,
     "questions": [
       { "id": 555, "answerTr": "lahana", "answerEn": "cabbage", "answerDe": "kohl", "answerEs": "repollo", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/lahana.webp" },
