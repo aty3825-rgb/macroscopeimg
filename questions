@@ -6,7 +6,7 @@
         { "id": 1, "answerTr": "kedi", "answerEn": "cat", "answerDe": "katze", "answerEs": "gato", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kedi.webp" },
         { "id": 2, "answerTr": "tarak", "answerEn": "comb", "answerDe": "kamm", "answerEs": "peine", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/tarak.webp" },
         { "id": 3, "answerTr": "köpek", "answerEn": "dog", "answerDe": "hund", "answerEs": "perro", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kopek.webp" },
-        { "id": 4, "answerTrf": "havlu", "answerEn": "towel", "answerDe": "handtuch", "answerEs": "toalla", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/havlu.webp" },
+        { "id": 4, "answerTr": "havlu", "answerEn": "towel", "answerDe": "handtuch", "answerEs": "toalla", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/havlu.webp" },
         { "id": 5, "answerTr": "at", "answerEn": "horse", "answerDe": "pferd", "answerEs": "caballo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/at.webp" }
       ]
     },
