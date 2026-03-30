@@ -4,7 +4,7 @@
     "level": 101,
     "questions": [
     
-      { "id": 501, "answerTr": "domates", "answerEn": "tomato", "answerDe": "tomate", "answerEs": "tomate", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/domates1.jpeg" }
+      { "id": 501, "answerTr": "domates", "answerEn": "tomato", "answerDe": "tomate", "answerEs": "tomate", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/domates1.jpg" }
     ]
   }
 ]
