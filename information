@@ -319,10 +319,10 @@
     {
       "level": 36,
       "information": [
-        { "id": 1, "tr": "\"Wi-Fi\" kelimesinin teknik bir anlamı yoktur, sadece kulağa hoş geldiği için seçilmiştir.", "image": "https://macroscopeimg.win/modeminf.webp" },
-        { "id": 2, "en": "The word \"Wi-Fi\" has no technical meaning; it was chosen just because it sounds catchy.", "image": "https://macroscopeimg.win/modeminf.webp" },
-        { "id": 3, "de": "Das Wort \"Wi-Fi\" hat keine technische Bedeutung, es wurde nur gewählt, weil es gut klingt." , "image": "https://macroscopeimg.win/modeminf.webp"},
-        { "id": 4, "es": "La palabra \"Wi-Fi\" no tiene ningún significado técnico; fue elegida solo porque suena pegadiza.", "image": "https://macroscopeimg.win/modeminf.webp" }
+        { "id": 1, "tr": "Wi-Fi kelimesinin teknik bir anlamı yoktur, sadece kulağa hoş geldiği için seçilmiştir.", "image": "https://macroscopeimg.win/modeminf.webp" },
+        { "id": 2, "en": "The word Wi-Fi has no technical meaning; it was chosen just because it sounds catchy.", "image": "https://macroscopeimg.win/modeminf.webp" },
+        { "id": 3, "de": "Das Wort Wi-Fi hat keine technische Bedeutung, es wurde nur gewählt, weil es gut klingt." , "image": "https://macroscopeimg.win/modeminf.webp"},
+        { "id": 4, "es": "La palabra Wi-Fi no tiene ningún significado técnico; fue elegida solo porque suena pegadiza.", "image": "https://macroscopeimg.win/modeminf.webp" }
       ]
     },
     {
