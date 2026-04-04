@@ -90,7 +90,7 @@
         { "id": 4, "es": "El pequeño bolsillo de los vaqueros fue diseñado en realidad para relojes de bolsillo.", "image": "https://macroscopeimg.win/pantoloninf.webp" }
       ]
     },
-{
+   {
       "level": 11,
       "information": [
         { "id": 1, "tr": "Filler zıplayamayan tek memeli hayvandır.", "image": "https://macroscopeimg.win/filinf.webp" },
@@ -135,7 +135,7 @@
         { "id": 4, "es": "Los hornos microondas fueron descubiertos por accidente mientras se trabajaba en un proyecto de radar.", "image": "https://macroscopeimg.win/mikrodalgafirininf.webp" }
       ]
     },
- {
+    {
       "level": 16,
       "information": [
         { "id": 1, "tr": "Fareler gıdıklandıklarında insanların duyamayacağı frekansta kıkırdarlar.", "image": "https://macroscopeimg.win/fareinf.webp" },
@@ -203,9 +203,9 @@
       "level": 23,
       "information": [
         { "id": 1, "tr": "Kaplanların sadece tüyleri değil, derileri de çizgilidir.", "image": "https://macroscopeimg.win/kaplaninf.webp" },
-        { "id": 2, "en": "Not only tigers' fur, but also their skin is striped.", "image": "https://macroscopeimg.win/ucakinf.webp" },
-        { "id": 3, "de": "Nicht nur das Fell von Tigern, sondern auch ihre Haut ist gestreift." , "image": "https://macroscopeimg.win/ucakinf.webp"},
-        { "id": 4, "es": "No solo el pelaje de los tigres, sino también su piel es rayada.", "image": "https://macroscopeimg.win/ucakinf.webp" }
+        { "id": 2, "en": "Not only tigers' fur, but also their skin is striped.", "image": "https://macroscopeimg.win/kaplaninf.webp" },
+        { "id": 3, "de": "Nicht nur das Fell von Tigern, sondern auch ihre Haut ist gestreift." , "image": "https://macroscopeimg.win/kaplaninf.webp" 
+        { "id": 4, "es": "No solo el pelaje de los tigres, sino también su piel es rayada.", "image": "https://macroscopeimg.win/kaplaninf.webp" }
       ]
     },
     {
@@ -319,10 +319,10 @@
     {
       "level": 36,
       "information": [
-        { "id": 1, "tr": "Wi-Fi kelimesinin teknik bir anlamı yoktur, sadece kulağa hoş geldiği için seçilmiştir.", "image": "https://macroscopeimg.win/modeminf.webp" },
-        { "id": 2, "en": "The word Wi-Fi has no technical meaning; it was chosen just because it sounds catchy.", "image": "https://macroscopeimg.win/modeminf.webp" },
-        { "id": 3, "de": "Das Wort Wi-Fi hat keine technische Bedeutung, es wurde nur gewählt, weil es gut klingt." , "image": "https://macroscopeimg.win/modeminf.webp"},
-        { "id": 4, "es": "La palabra Wi-Fi no tiene ningún significado técnico; fue elegida solo porque suena pegadiza.", "image": "https://macroscopeimg.win/modeminf.webp" }
+        { "id": 1, "tr": "\"Wi-Fi\" kelimesinin teknik bir anlamı yoktur, sadece kulağa hoş geldiği için seçilmiştir.", "image": "https://macroscopeimg.win/modeminf.webp" },
+        { "id": 2, "en": "The word \"Wi-Fi\" has no technical meaning; it was chosen just because it sounds catchy.", "image": "https://macroscopeimg.win/modeminf.webp" },
+        { "id": 3, "de": "Das Wort \"Wi-Fi\" hat keine technische Bedeutung, es wurde nur gewählt, weil es gut klingt." , "image": "https://macroscopeimg.win/modeminf.webp"},
+        { "id": 4, "es": "La palabra \"Wi-Fi\" no tiene ningún significado técnico; fue elegida solo porque suena pegadiza.", "image": "https://macroscopeimg.win/modeminf.webp" }
       ]
     },
     {
@@ -347,7 +347,7 @@
       "level": 39,
       "information": [
         { "id": 1, "tr": "Karideslerin kalbi kafalarının içindedir.", "image": "https://macroscopeimg.win/karidesinf.webp" },
-        { "id": 2, "en": "A shrimp's heart is located in its head." }, "image": "https://macroscopeimg.win/karidesinf.webp"
+        { "id": 2, "en": "A shrimp's heart is located in its head." }, "image": "https://macroscopeimg.win/karidesinf.webp"},
         { "id": 3, "de": "Das Herz einer Garnele befindet sich in ihrem Kopf." , "image": "https://macroscopeimg.win/karidesinf.webp"},
         { "id": 4, "es": "El corazón de un camarón se encuentra en su cabeza." , "image": "https://macroscopeimg.win/karidesinf.webp"}
       ]
@@ -361,7 +361,7 @@
         { "id": 4, "es": "Los primeros relojes despertadores solo podían sonar a las 4 de la mañana." , "image": "https://macroscopeimg.win/alarminf.webp"}
       ]
     },
-{
+     {
       "level": 41,
       "information": [
         { "id": 1, "tr": "Çitalar havada asılı kalarak koşarlar; bir an gelir ki 4 ayağı da yere değmez." , "image": "https://macroscopeimg.win/citainf.webp"},
