@@ -146,7 +146,7 @@
         { "id": 71, "answerTr": "boxer", "answerEn": "boxer shorts", "answerDe": "boxershorts", "answerEs": "bóxers", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/bokser.webp" },
         { "id": 72, "answerTr": "kirpi", "answerEn": "hedgehog", "answerDe": "igel", "answerEs": "erizo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kirpi.webp" },
         { "id": 73, "answerTr": "geyik", "answerEn": "deer", "answerDe": "hirsch", "answerEs": "ciervo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/geyik.webp" },
-        { "id": 74, "answerTr": "külot", "answerEn": "panties", "answerDe": "höschen", "answerEs": "bragas", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/kulot.webp" },
+       
         { "id": 75, "answerTr": "leopar", "answerEn": "leopard", "answerDe": "leopard", "answerEs": "leopardo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/leopar.webp" }
       ]
     },
