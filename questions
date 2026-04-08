@@ -700,8 +700,8 @@
     "questions": [
       { "id": 355, "answerTr": "duş başlığı", "answerEn": "showerhead", "answerDe": "duschkopf", "answerEs": "alcachofa de ducha", "categoryTr": "banyo", "categoryEn": "bathroom", "categoryDe": "badezimmer", "categoryEs": "baño", "image": "https://macroscopeimg.win/dusbasligi.webp" },
       { "id": 356, "answerTr": "ecza dolabı", "answerEn": "medicine cabinet", "answerDe": "medikamentenschrank", "answerEs": "botiquín", "categoryTr": "banyo", "categoryEn": "bathroom", "categoryDe": "badezimmer", "categoryEs": "baño", "image": "https://macroscopeimg.win/eczadolabi.webp" },
-      { "id": 358, "answerTr": "saç düzleştirici", "answerEn": "hair straightener", "answerDe": "haarglätter", "answerEs": "plancha de pelo", "categoryTr": "kişisel bakım", "categoryEn": "personal care", "categoryDe": "körperpflege", "categoryEs": "cuidado personal", "image": "https://macroscopeimg.win/sacduzlestirici.webp" },
-      { "id": 359, "answerTr": "kadeh", "answerEn": "wine glass", "answerDe": "weinglas", "answerEs": "copa", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/kadeh.webp" }
+      { "id": 358, "answerTr": "saç düzleştirici", "answerEn": "hair straightener", "answerDe": "haarglätter", "answerEs": "plancha de pelo", "categoryTr": "kişisel bakım", "categoryEn": "personal care", "categoryDe": "körperpflege", "categoryEs": "cuidado personal", "image": "https://macroscopeimg.win/sacduzlestirici.webp" }
+    
     ]
   },
   {
