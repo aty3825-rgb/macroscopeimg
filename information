@@ -204,7 +204,7 @@
       "information": [
         { "id": 1, "tr": "Kaplanların sadece tüyleri değil, derileri de çizgilidir.", "image": "https://macroscopeimg.win/kaplaninf.webp" },
         { "id": 2, "en": "Not only tigers' fur, but also their skin is striped.", "image": "https://macroscopeimg.win/kaplaninf.webp" },
-        { "id": 3, "de": "Nicht nur das Fell von Tigern, sondern auch ihre Haut ist gestreift." , "image": "https://macroscopeimg.win/kaplaninf.webp" 
+        { "id": 3, "de": "Nicht nur das Fell von Tigern, sondern auch ihre Haut ist gestreift." , "image": "https://macroscopeimg.win/kaplaninf.webp" },
         { "id": 4, "es": "No solo el pelaje de los tigres, sino también su piel es rayada.", "image": "https://macroscopeimg.win/kaplaninf.webp" }
       ]
     },
