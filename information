@@ -90,7 +90,7 @@
         { "id": 4, "es": "El pequeño bolsillo de los vaqueros fue diseñado en realidad para relojes de bolsillo.", "image": "https://macroscopeimg.win/pantoloninf.webp" }
       ]
     },
-   {
+    {
       "level": 11,
       "information": [
         { "id": 1, "tr": "Filler zıplayamayan tek memeli hayvandır.", "image": "https://macroscopeimg.win/filinf.webp" },
@@ -144,7 +144,6 @@
         { "id": 4, "es": "Las ratas se ríen a una frecuencia que los humanos no pueden escuchar cuando les hacen cosquillas.", "image": "https://macroscopeimg.win/fareinf.webp" }
       ]
     },
-    
     {
       "level": 17,
       "information": [
@@ -204,7 +203,7 @@
       "information": [
         { "id": 1, "tr": "Kaplanların sadece tüyleri değil, derileri de çizgilidir.", "image": "https://macroscopeimg.win/kaplaninf.webp" },
         { "id": 2, "en": "Not only tigers' fur, but also their skin is striped.", "image": "https://macroscopeimg.win/kaplaninf.webp" },
-        { "id": 3, "de": "Nicht nur das Fell von Tigern, sondern auch ihre Haut ist gestreift." , "image": "https://macroscopeimg.win/kaplaninf.webp" },
+        { "id": 3, "de": "Nicht nur das Fell von Tigern, sondern auch ihre Haut ist gestreift.", "image": "https://macroscopeimg.win/kaplaninf.webp" },
         { "id": 4, "es": "No solo el pelaje de los tigres, sino también su piel es rayada.", "image": "https://macroscopeimg.win/kaplaninf.webp" }
       ]
     },
@@ -347,7 +346,7 @@
       "level": 39,
       "information": [
         { "id": 1, "tr": "Karideslerin kalbi kafalarının içindedir.", "image": "https://macroscopeimg.win/karidesinf.webp" },
-        { "id": 2, "en": "A shrimp's heart is located in its head." }, "image": "https://macroscopeimg.win/karidesinf.webp"},
+        { "id": 2, "en": "A shrimp's heart is located in its head.", "image": "https://macroscopeimg.win/karidesinf.webp" },
         { "id": 3, "de": "Das Herz einer Garnele befindet sich in ihrem Kopf." , "image": "https://macroscopeimg.win/karidesinf.webp"},
         { "id": 4, "es": "El corazón de un camarón se encuentra en su cabeza." , "image": "https://macroscopeimg.win/karidesinf.webp"}
       ]
