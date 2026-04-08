@@ -1055,7 +1055,7 @@
       { "id": 535, "answerTr": "cips", "answerEn": "chips", "answerDe": "chips", "answerEs": "patatas fritas", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/cips.webp" },
       { "id": 536, "answerTr": "çekirdek", "answerEn": "sunflower seeds", "answerDe": "sonnenblumenkerne", "answerEs": "pipas", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/cekirdek.webp" },
       { "id": 537, "answerTr": "yer fıstığı", "answerEn": "peanut", "answerDe": "erdnuss", "answerEs": "cacahuete", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/yerfistigi.webp" },
-      { "id": 538, "answerTr": "ceviz içi", "answerEn": "shelled walnuts", "answerDe": "walnusskerne", "answerEs": "nueces peladas", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/cevizici.webp" },
+    
       { "id": 539, "answerTr": "ceviz", "answerEn": "walnut", "answerDe": "walnuss", "answerEs": "nuez", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/ceviz.webp" }
     ]
   },
