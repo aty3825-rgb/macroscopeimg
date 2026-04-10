@@ -1034,7 +1034,7 @@
     "questions": [
       { "id": 525, "answerTr": "marul", "answerEn": "lettuce", "answerDe": "kopfsalat", "answerEs": "lechuga", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/marul.webp" },
       { "id": 526, "answerTr": "patlıcan", "answerEn": "eggplant", "answerDe": "aubergine", "answerEs": "berenjena", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/patlican.webp" },
-      { "id": 527, "answerTr": "kabak", "answerEn": "zucchini", "answerDe": "zucchini", "answerEs": "calabacín", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/kabak.webp" },
+    
       { "id": 528, "answerTr": "taze fasulye", "answerEn": "green beans", "answerDe": "grüne bohnen", "answerEs": "judías verdes", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/tazefasulye.webp" },
       { "id": 529, "answerTr": "ıspanak", "answerEn": "spinach", "answerDe": "spinat", "answerEs": "espinaca", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/ispanak.webp" }
     ]
