@@ -350,6 +350,8 @@
         { "id": 175, "answerTr": "komodo ejderi", "answerEn": "komodo dragon", "answerDe": "komodowaran", "answerEs": "dragón de komodo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/komodoejderi.webp" }
       ]
     },
+
+
     {
       "level": 36,
       "questions": [
@@ -1165,7 +1167,6 @@
       { "id": 590, "answerTr": "börülce", "answerEn": "black-eyed pea", "answerDe": "augenbohne", "answerEs": "carilla", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/borulce.webp" },
       { "id": 591, "answerTr": "mercimek", "answerEn": "lentil", "answerDe": "linse", "answerEs": "lenteja", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/mercimek.webp" },
       { "id": 592, "answerTr": "kadayıf", "answerEn": "kadayif", "answerDe": "kadaif", "answerEs": "kadayif", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/kadayif.webp" },
-      { "id": 593, "answerTr": "yufka", "answerEn": "yufka", "answerDe": "yufka", "answerEs": "yufka", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/yufka.webp" },
       { "id": 594, "answerTr": "kruvasan", "answerEn": "croissant", "answerDe": "croissant", "answerEs": "cruasán", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/kruvasan.webp" }
     ]
   },
