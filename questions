@@ -825,7 +825,7 @@
     "level": 85,
     "questions": [
       { "id": 420, "answerTr": "tavla", "answerEn": "backgammon", "answerDe": "backgammon", "answerEs": "backgammon", "categoryTr": "oyun", "categoryEn": "games", "categoryDe": "spiele", "categoryEs": "juegos", "image": "https://macroscopeimg.win/tavla.webp" },
-      { "id": 421, "answerTr": "okey takımı", "answerEn": "okey game set", "answerDe": "okey-spielset", "answerEs": "juego de okey", "categoryTr": "oyun", "categoryEn": "games", "categoryDe": "spiele", "categoryEs": "juegos", "image": "https://macroscopeimg.win/okeytakimi.webp" },
+
       { "id": 422, "answerTr": "iskambil kağıdı", "answerEn": "playing cards", "answerDe": "spielkarten", "answerEs": "cartas", "categoryTr": "oyun", "categoryEn": "games", "categoryDe": "spiele", "categoryEs": "juegos", "image": "https://macroscopeimg.win/iskanbilkagidi.webp" },
       { "id": 423, "answerTr": "yapboz", "answerEn": "jigsaw puzzle", "answerDe": "puzzle", "answerEs": "rompecabezas", "categoryTr": "oyun", "categoryEn": "games", "categoryDe": "spiele", "categoryEs": "juegos", "image": "https://macroscopeimg.win/yapboz.webp" },
       { "id": 424, "answerTr": "lego", "answerEn": "lego", "answerDe": "lego", "answerEs": "lego", "categoryTr": "oyun", "categoryEn": "games", "categoryDe": "spiele", "categoryEs": "juegos", "image": "https://macroscopeimg.win/lego.webp" }
@@ -1302,7 +1302,7 @@
     "level": 133,
     "questions": [
       { "id": 660, "answerTr": "bilardo ıstakası", "answerEn": "billiard cue", "answerDe": "billardqueue", "answerEs": "taco de billar", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/bilardoistakasi.webp" },
-      { "id": 661, "answerTr": "okey taşı", "answerEn": "rummikub tile", "answerDe": "rummikub-stein", "answerEs": "ficha de rummikub", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/okeytasi.webp" },
+  
       { "id": 662, "answerTr": "domino taşı", "answerEn": "domino", "answerDe": "dominostein", "answerEs": "dominó", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/dominotasi.webp" },
       { "id": 663, "answerTr": "yapboz", "answerEn": "jigsaw puzzle", "answerDe": "puzzle", "answerEs": "rompecabezas", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/yapboz2.webp" },
       { "id": 664, "answerTr": "oyuncak araba", "answerEn": "toy car", "answerDe": "spielzeugauto", "answerEs": "coche de juguete", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/oyuncakaraba.webp" }
