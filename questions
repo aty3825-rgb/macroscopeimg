@@ -952,7 +952,7 @@
   {
     "level": 98,
     "questions": [
-      { "id": 485, "answerTr": "şerit metre", "answerEn": "tape measure", "answerDe": "maßband", "answerEs": "cinta métrica", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://macroscopeimg.win/seritmetre.webp" },
+     
       { "id": 486, "answerTr": "kumpas", "answerEn": "caliper", "answerDe": "messschieber", "answerEs": "calibre", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://macroscopeimg.win/kumpas.webp" },
       { "id": 487, "answerTr": "silikon tabancası", "answerEn": "caulking gun", "answerDe": "silikonpistole", "answerEs": "pistola de silicona", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://macroscopeimg.win/silikontabancasi.webp" },
       { "id": 488, "answerTr": "matkap", "answerEn": "drill", "answerDe": "bohrmaschine", "answerEs": "taladro", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://macroscopeimg.win/matkap.webp" },
