@@ -3,11 +3,1417 @@
     {
       "level": 1,
       "questions": [
-    
-        { "id": 2, "answerTr": "köpek2", "answerEn": "comb", "answerDe": "kamm", "answerEs": "peine", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/kopek2.webp" },
-        { "id": 3, "answerTr": "köpek", "answerEn": "dog", "answerDe": "hund", "answerEs": "perro", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kopek.webp" } 
+        { "id": 1, "answerTr": "kedi", "answerEn": "cat", "answerDe": "katze", "answerEs": "gato", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kedi.webp" },
+        { "id": 2, "answerTr": "tarak", "answerEn": "comb", "answerDe": "kamm", "answerEs": "peine", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/tarak.webp" },
+        { "id": 3, "answerTr": "köpek", "answerEn": "dog", "answerDe": "hund", "answerEs": "perro", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kopek.webp" },
+        { "id": 4, "answerTr": "havlu", "answerEn": "towel", "answerDe": "handtuch", "answerEs": "toalla", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/havlu.webp" },
+        { "id": 5, "answerTr": "at", "answerEn": "horse", "answerDe": "pferd", "answerEs": "caballo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/at.webp" }
       ]
-    }
+    },
+    {
+      "level": 2,
+      "questions": [
+        { "id": 6, "answerTr": "anahtar", "answerEn": "key", "answerDe": "schlüssel", "answerEs": "llave", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/anahtar.webp" },
+        { "id": 7, "answerTr": "inek", "answerEn": "cow", "answerDe": "kuh", "answerEs": "vaca", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/inek.webp" },
+        { "id": 8, "answerTr": "kemer", "answerEn": "belt", "answerDe": "gürtel", "answerEs": "cinturón", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/kemer.webp" },
+        { "id": 9, "answerTr": "koyun", "answerEn": "sheep", "answerDe": "schaf", "answerEs": "oveja", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/koyun.webp" },
+        { "id": 10, "answerTr": "mont", "answerEn": "coat", "answerDe": "mantel", "answerEs": "abrigo", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/mont.webp" }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        { "id": 11, "answerTr": "boğa", "answerEn": "bull", "answerDe": "stier", "answerEs": "toro", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/boga.webp" },
+        { "id": 12, "answerTr": "gözlük", "answerEn": "glasses", "answerDe": "brille", "answerEs": "gafas", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/gozluk.webp" },
+        { "id": 13, "answerTr": "eşek", "answerEn": "donkey", "answerDe": "esel", "answerEs": "burro", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/esek.webp" },
+        { "id": 14, "answerTr": "çanta", "answerEn": "bag", "answerDe": "tasche", "answerEs": "bolsa", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/canta.webp" },
+        { "id": 15, "answerTr": "keçi", "answerEn": "goat", "answerDe": "ziege", "answerEs": "cabra", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/keci.webp" }
+      ]
+    },
+    {
+      "level": 4,
+      "questions": [
+        { "id": 16, "answerTr": "domuz", "answerEn": "pig", "answerDe": "schwein", "answerEs": "cerdo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/domuz.webp" },
+        { "id": 17, "answerTr": "şemsiye", "answerEn": "umbrella", "answerDe": "regenschirm", "answerEs": "paraguas", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/semsiye.webp" },
+        { "id": 18, "answerTr": "fare", "answerEn": "mouse", "answerDe": "maus", "answerEs": "ratón", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/fare.webp" },
+        { "id": 19, "answerTr": "cüzdan", "answerEn": "wallet", "answerDe": "geldbörse", "answerEs": "billetera", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/cuzdan.webp" },
+        { "id": 20, "answerTr": "tavşan", "answerEn": "rabbit", "answerDe": "kaninchen", "answerEs": "conejo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/tavsan.webp" }
+      ]
+    },
+    {
+      "level": 5,
+      "questions": [
+        { "id": 21, "answerTr": "diş fırçası", "answerEn": "toothbrush", "answerDe": "zahnbürste", "answerEs": "cepillo de dientes", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/disfircasi.webp" },
+        { "id": 22, "answerTr": "ayı", "answerEn": "bear", "answerDe": "bär", "answerEs": "oso", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/ayi.webp" },
+        { "id": 23, "answerTr": "güneş gözlüğü", "answerEn": "sunglasses", "answerDe": "sonnenbrille", "answerEs": "gafas de sol", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/gunesgozlugu.webp" },
+        { "id": 24, "answerTr": "kurt", "answerEn": "wolf", "answerDe": "wolf", "answerEs": "lobo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kurt.webp" }
+       
+      ]
+    },
+    {
+      "level": 6,
+      "questions": [
+        { "id": 26, "answerTr": "tilki", "answerEn": "fox", "answerDe": "fuchs", "answerEs": "zorro", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/tilki.webp" },
+        { "id": 27, "answerTr": "pantolon", "answerEn": "pants", "answerDe": "hose", "answerEs": "pantalones", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/pantolon.webp" },
+        { "id": 28, "answerTr": "aslan", "answerEn": "lion", "answerDe": "löwe", "answerEs": "león", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/aslan.webp" },
+        
+        { "id": 30, "answerTr": "kaplan", "answerEn": "tiger", "answerDe": "tiger", "answerEs": "tigre", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kaplan.webp" }
+      ]
+    },
+    {
+      "level": 7,
+      "questions": [
+        { "id": 31, "answerTr": "ayakkabı", "answerEn": "shoes", "answerDe": "schuhe", "answerEs": "zapatos", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/ayakkabi.webp" },
+        { "id": 32, "answerTr": "fil", "answerEn": "elephant", "answerDe": "elefant", "answerEs": "elefante", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/fil.webp" },
+        { "id": 33, "answerTr": "zebra", "answerEn": "zebra", "answerDe": "zebra", "answerEs": "cebra", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/zebra.webp" },
+        { "id": 34, "answerTr": "eşofman", "answerEn": "tracksuit", "answerDe": "trainingsanzug", "answerEs": "chándal", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/esofman.webp" },
+        { "id": 35, "answerTr": "maymun", "answerEn": "monkey", "answerDe": "affe", "answerEs": "mono", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/maymun.webp" }
+      ]
+    },
+    {
+      "level": 8,
+      "questions": [
+        { "id": 36, "answerTr": "hırka", "answerEn": "cardigan", "answerDe": "strickjacke", "answerEs": "cárdigan", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/hirka.webp" },
+        { "id": 37, "answerTr": "panda", "answerEn": "panda", "answerDe": "panda", "answerEs": "panda", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/panda.webp" },
+        { "id": 38, "answerTr": "koala", "answerEn": "koala", "answerDe": "koala", "answerEs": "koala", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/koala.webp" },
+        { "id": 39, "answerTr": "kazak", "answerEn": "sweater", "answerDe": "pullover", "answerEs": "suéter", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/kazak.webp" },
+        { "id": 40, "answerTr": "goril", "answerEn": "gorilla", "answerDe": "gorilla", "answerEs": "gorila", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/goril.webp" }
+      ]
+    },
+    {
+      "level": 9,
+      "questions": [
+        { "id": 41, "answerTr": "şort", "answerEn": "shorts", "answerDe": "shorts", "answerEs": "pantalones cortos", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/sort.webp" },
+        { "id": 42, "answerTr": "deve", "answerEn": "camel", "answerDe": "kamel", "answerEs": "camello", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/deve.webp" },
+        { "id": 43, "answerTr": "lama", "answerEn": "llama", "answerDe": "lama", "answerEs": "llama", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/lama.webp" },
+        { "id": 44, "answerTr": "tayt", "answerEn": "tights", "answerDe": "strumpfhose", "answerEs": "medias", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/tayt.webp" },
+        { "id": 45, "answerTr": "ördek", "answerEn": "duck", "answerDe": "ente", "answerEs": "pato", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/ordek.webp" }
+      ]
+    },
+    {
+      "level": 10,
+      "questions": [
+        { "id": 46, "answerTr": "kaz", "answerEn": "goose", "answerDe": "gans", "answerEs": "ganso", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kaz.webp" },
+        { "id": 47, "answerTr": "bere", "answerEn": "beanie", "answerDe": "mütze", "answerEs": "gorro", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/bere.webp" },
+        { "id": 48, "answerTr": "tavuk", "answerEn": "chicken", "answerDe": "huhn", "answerEs": "pollo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/tavuk.webp" },
+        { "id": 49, "answerTr": "askı", "answerEn": "hanger", "answerDe": "kleiderbügel", "answerEs": "percha", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/aski.webp" },
+        { "id": 50, "answerTr": "horoz", "answerEn": "rooster", "answerDe": "hahn", "answerEs": "gallo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/horoz.webp" }
+      ]
+    },
+    {
+      "level": 11,
+      "questions": [
+        { "id": 51, "answerTr": "tişört", "answerEn": "t-shirt", "answerDe": "t-shirt", "answerEs": "camiseta", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/tisort.webp" },
+        { "id": 52, "answerTr": "yılan", "answerEn": "snake", "answerDe": "schlange", "answerEs": "serpiente", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/yilan.webp" },
+       
+        { "id": 54, "answerTr": "gömlek", "answerEn": "shirt", "answerDe": "hemd", "answerEs": "camisa", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/gomlek.webp" },
+        { "id": 55, "answerTr": "arı", "answerEn": "bee", "answerDe": "biene", "answerEs": "abeja", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/ari.webp" }
+      ]
+    },
+    {
+      "level": 12,
+      "questions": [
+        { "id": 56, "answerTr": "sinek", "answerEn": "fly", "answerDe": "fliege", "answerEs": "mosca", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/sinek.webp" },
+        { "id": 57, "answerTr": "ceket", "answerEn": "jacket", "answerDe": "jacke", "answerEs": "chaqueta", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/ceket.webp" },
+        { "id": 58, "answerTr": "balina", "answerEn": "whale", "answerDe": "wal", "answerEs": "ballena", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/balina.webp" },
+        { "id": 59, "answerTr": "yunus", "answerEn": "dolphin", "answerDe": "delfin", "answerEs": "delfín", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/yunusbaligi.webp" },
+        { "id": 60, "answerTr": "şapka", "answerEn": "hat", "answerDe": "hut", "answerEs": "sombrero", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/sapka.webp" }
+      ]
+    },
+    {
+      "level": 13,
+      "questions": [
+        { "id": 61, "answerTr": "etek", "answerEn": "skirt", "answerDe": "rock", "answerEs": "falda", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/etek.webp" },
+        { "id": 62, "answerTr": "karınca", "answerEn": "ant", "answerDe": "ameise", "answerEs": "hormiga", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/karinca.webp" },
+        { "id": 63, "answerTr": "kurbağa", "answerEn": "frog", "answerDe": "frosch", "answerEs": "rana", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kurbaga.webp" },
+        { "id": 64, "answerTr": "elbise", "answerEn": "dress", "answerDe": "kleid", "answerEs": "vestido", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/elbise.webp" },
+        { "id": 65, "answerTr": "zürafa", "answerEn": "giraffe", "answerDe": "giraffe", "answerEs": "jirafa", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/zurafa.webp" }
+      ]
+    },
+    {
+      "level": 14,
+      "questions": [
+        { "id": 66, "answerTr": "kanguru", "answerEn": "kangaroo", "answerDe": "känguru", "answerEs": "canguro", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kanguru.webp" },
+        { "id": 67, "answerTr": "pijama", "answerEn": "pajamas", "answerDe": "schlafanzug", "answerEs": "pijama", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/pijama.webp" },
+        { "id": 68, "answerTr": "sırtlan", "answerEn": "hyena", "answerDe": "hyäne", "answerEs": "hiena", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/sirtlan.webp" },
+        { "id": 69, "answerTr": "atlet", "answerEn": "undershirt", "answerDe": "unterhemd", "answerEs": "camiseta interior", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/atlet.webp" },
+        { "id": 70, "answerTr": "kunduz", "answerEn": "beaver", "answerDe": "biber", "answerEs": "castor", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kunduz.webp" }
+      ]
+    },
+    {
+      "level": 15,
+      "questions": [
+        { "id": 71, "answerTr": "boxer", "answerEn": "boxer shorts", "answerDe": "boxershorts", "answerEs": "bóxers", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/bokser.webp" },
+        { "id": 72, "answerTr": "kirpi", "answerEn": "hedgehog", "answerDe": "igel", "answerEs": "erizo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kirpi.webp" },
+        { "id": 73, "answerTr": "geyik", "answerEn": "deer", "answerDe": "hirsch", "answerEs": "ciervo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/geyik.webp" },
+       
+        { "id": 75, "answerTr": "leopar", "answerEn": "leopard", "answerDe": "leopard", "answerEs": "leopardo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/leopar.webp" }
+      ]
+    },
+    {
+      "level": 16,
+      "questions": [
+        { "id": 76, "answerTr": "çita", "answerEn": "cheetah", "answerDe": "gepard", "answerEs": "guepardo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/cita.webp" },
+        { "id": 77, "answerTr": "sütyen", "answerEn": "bra", "answerDe": "bh", "answerEs": "sujetador", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/sutyen.webp" },
+        { "id": 78, "answerTr": "kartal", "answerEn": "eagle", "answerDe": "adler", "answerEs": "águila", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kartal.webp" },
+        { "id": 79, "answerTr": "yağmurluk", "answerEn": "raincoat", "answerDe": "regenmantel", "answerEs": "impermeable", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/yagmurluk.webp" },
+        { "id": 80, "answerTr": "şahin", "answerEn": "hawk", "answerDe": "falke", "answerEs": "halcón", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/sahin.webp" }
+      ]
+    },
+    {
+      "level": 17,
+      "questions": [
+        { "id": 81, "answerTr": "anahtarlık", "answerEn": "keychain", "answerDe": "schlüsselanhänger", "answerEs": "llavero", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/anahtarlik.webp" },
+        { "id": 82, "answerTr": "baykuş", "answerEn": "owl", "answerDe": "eule", "answerEs": "búho", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/baykus.webp" },
+        { "id": 83, "answerTr": "papağan", "answerEn": "parrot", "answerDe": "papagei", "answerEs": "loro", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/papagan.webp" },
+       
+        { "id": 85, "answerTr": "kanarya", "answerEn": "canary", "answerDe": "kanarienvogel", "answerEs": "canario", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kanarya.webp" }
+      ]
+    },
+    {
+      "level": 18,
+      "questions": [
+        { "id": 86, "answerTr": "serçe", "answerEn": "sparrow", "answerDe": "spatz", "answerEs": "gorrión", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/serce.webp" },
+       
+        { "id": 88, "answerTr": "güvercin", "answerEn": "pigeon", "answerDe": "taube", "answerEs": "paloma", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/guvercin.webp" },
+        { "id": 89, "answerTr": "karga", "answerEn": "crow", "answerDe": "krähe", "answerEs": "cuervo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/karga.webp" },
+        { "id": 90, "answerTr": "çorap", "answerEn": "socks", "answerDe": "socken", "answerEs": "calcetines", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/corap.webp" }
+      ]
+    },
+    {
+      "level": 19,
+      "questions": [
+        { "id": 91, "answerTr": "eldiven", "answerEn": "gloves", "answerDe": "handschuhe", "answerEs": "guantes", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/eldiven.webp" },
+        { "id": 92, "answerTr": "martı", "answerEn": "seagull", "answerDe": "möwe", "answerEs": "gaviota", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/marti.webp" },
+        { "id": 93, "answerTr": "atkı", "answerEn": "scarf", "answerDe": "schal", "answerEs": "bufanda", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/atki.webp" },
+        { "id": 94, "answerTr": "pelikan", "answerEn": "pelican", "answerDe": "pelikan", "answerEs": "pelícano", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/pelikan.webp" },
+        { "id": 95, "answerTr": "flamingo", "answerEn": "flamingo", "answerDe": "flamingo", "answerEs": "flamenco", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/flemingo.webp" }
+      ]
+    },
+    {
+      "level": 20,
+      "questions": [
+        { "id": 96, "answerTr": "civciv", "answerEn": "chick", "answerDe": "küken", "answerEs": "pollito", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/civciv.webp" },
+        { "id": 97, "answerTr": "kravat", "answerEn": "tie", "answerDe": "krawatte", "answerEs": "corbata", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/kravat.webp" },
+        { "id": 98, "answerTr": "hindi", "answerEn": "turkey", "answerDe": "truthahn", "answerEs": "pavo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/hindi.webp" },
+        { "id": 99, "answerTr": "penguen", "answerEn": "penguin", "answerDe": "pinguin", "answerEs": "pingüino", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/penguen.webp" },
+        { "id": 100, "answerTr": "mayo", "answerEn": "swimsuit", "answerDe": "badeanzug", "answerEs": "traje de baño", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/mayo.webp" }
+      ]
+    },
+    {
+      "level": 21,
+      "questions": [
+        { "id": 101, "answerTr": "kulaklık", "answerEn": "headphones", "answerDe": "kopfhörer", "answerEs": "auriculares", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/kulaklik.webp" },
+        { "id": 102, "answerTr": "leylek", "answerEn": "stork", "answerDe": "storch", "answerEs": "cigüeña", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/leylek.webp" },
+        { "id": 103, "answerTr": "köpek balığı", "answerEn": "shark", "answerDe": "hai", "answerEs": "tiburón", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kopekbaligi.webp" },
+        { "id": 104, "answerTr": "mendil", "answerEn": "handkerchief", "answerDe": "taschentuch", "answerEs": "pañuelo", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/mendil.webp" },
+        { "id": 105, "answerTr": "vatoz", "answerEn": "stingray", "answerDe": "rochen", "answerEs": "raya", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/vatoz.webp" }
+      ]
+    },
+    {
+      "level": 22,
+      "questions": [
+        { "id": 106, "answerTr": "ahtapot", "answerEn": "octopus", "answerDe": "oktopus", "answerEs": "pulpo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/ahtapot.webp" },
+        { "id": 107, "answerTr": "papyon", "answerEn": "bow tie", "answerDe": "fliege", "answerEs": "pajarita", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/papyon.webp" },
+        { "id": 108, "answerTr": "yengeç", "answerEn": "crab", "answerDe": "krabbe", "answerEs": "cangrejo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/yengec.webp" },
+        { "id": 109, "answerTr": "terlik", "answerEn": "slippers", "answerDe": "hausschuhe", "answerEs": "pantuflas", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/terlik.webp" },
+        { "id": 110, "answerTr": "midye", "answerEn": "mussel", "answerDe": "muschel", "answerEs": "mejillón", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/midye.webp" }
+      ]
+    },
+    {
+      "level": 23,
+      "questions": [
+        { "id": 111, "answerTr": "bot", "answerEn": "boots", "answerDe": "stiefel", "answerEs": "botas", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/bot.webp" },
+        { "id": 112, "answerTr": "karides", "answerEn": "shrimp", "answerDe": "garnele", "answerEs": "gamba", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/karides.webp" },
+        { "id": 113, "answerTr": "timsah", "answerEn": "crocodile", "answerDe": "krokodil", "answerEs": "cocodrilo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/timsah.webp" },
+        
+        { "id": 115, "answerTr": "kaplumbağa", "answerEn": "turtle", "answerDe": "schildkröte", "answerEs": "tortuga", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kaplumbaga.webp" }
+      ]
+    },
+    {
+      "level": 24,
+      "questions": [
+        { "id": 116, "answerTr": "iguana", "answerEn": "iguana", "answerDe": "leguan", "answerEs": "iguana", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/iguana.webp" },
+      
+        { "id": 118, "answerTr": "deve kuşu", "answerEn": "ostrich", "answerDe": "strauß", "answerEs": "avestruz", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/devekusu.webp" },
+        { "id": 119, "answerTr": "akrep", "answerEn": "scorpion", "answerDe": "skorpion", "answerEs": "escorpión", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/akrep.webp" },
+        { "id": 120, "answerTr": "toka", "answerEn": "hair clip", "answerDe": "haarspange", "answerEs": "horquilla", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/toka2.webp" }
+      ]
+    },
+    {
+      "level": 25,
+      "questions": [
+        { "id": 121, "answerTr": "örümcek", "answerEn": "spider", "answerDe": "spinne", "answerEs": "araña", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/orumcek.webp" },
+        { "id": 122, "answerTr": "salyangoz", "answerEn": "snail", "answerDe": "schnecke", "answerEs": "caracol", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/salyangoz.webp" },
+        { "id": 123, "answerTr": "bornoz", "answerEn": "bathrobe", "answerDe": "bademantel", "answerEs": "albornoz", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/bornoz.webp" },
+        { "id": 124, "answerTr": "kene", "answerEn": "tick", "answerDe": "zecke", "answerEs": "garrapata", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kene.webp" },
+        { "id": 125, "answerTr": "valiz", "answerEn": "suitcase", "answerDe": "koffer", "answerEs": "maleta", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/valiz.webp" }
+      ]
+    },
+    {
+      "level": 26,
+      "questions": [
+        { "id": 126, "answerTr": "sivrisinek", "answerEn": "mosquito", "answerDe": "mücke", "answerEs": "mosquito", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/sivrisinek.webp" },
+        { "id": 127, "answerTr": "yelpaze", "answerEn": "fan", "answerDe": "fächer", "answerEs": "abanico", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/yelpaze.webp" },
+        { "id": 128, "answerTr": "yusufçuk", "answerEn": "dragonfly", "answerDe": "libelle", "answerEs": "libélula", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/yusufcuk.webp" },
+        { "id": 129, "answerTr": "su aygırı", "answerEn": "hippo", "answerDe": "nilpferd", "answerEs": "hipopótamo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/suaygiri.webp" }
+       
+      ]
+    },
+    {
+      "level": 27,
+      "questions": [
+        { "id": 131, "answerTr": "sabun", "answerEn": "soap", "answerDe": "seife", "answerEs": "jabón", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/sabun.webp" },
+        { "id": 132, "answerTr": "gergedan", "answerEn": "rhinoceros", "answerDe": "nashorn", "answerEs": "rinoceronte", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/gergedan.webp" },
+        { "id": 133, "answerTr": "kutup ayısı", "answerEn": "polar bear", "answerDe": "eisbär", "answerEs": "oso polar", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kutupayisi.webp" },
+       
+        { "id": 135, "answerTr": "sincap", "answerEn": "squirrel", "answerDe": "eichhörnchen", "answerEs": "ardilla", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/sincap.webp" }
+      ]
+    },
+    {
+      "level": 28,
+      "questions": [
+        { "id": 136, "answerTr": "su samuru", "answerEn": "otter", "answerDe": "otter", "answerEs": "nutria", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/susamuru.webp" },
+        { "id": 137, "answerTr": "parfüm", "answerEn": "perfume", "answerDe": "parfüm", "answerEs": "perfume", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/parfum.webp" },
+        { "id": 138, "answerTr": "porsuk", "answerEn": "badger", "answerDe": "dachs", "answerEs": "tejón", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/porsuk.webp" },
+        { "id": 139, "answerTr": "mors", "answerEn": "walrus", "answerDe": "walross", "answerEs": "morsa", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/mors.webp" }
+       
+      ]
+    },
+    {
+      "level": 29,
+      "questions": [
+        { "id": 141, "answerTr": "fok balığı", "answerEn": "seal", "answerDe": "robbe", "answerEs": "foca", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/fok.webp" },
+        { "id": 142, "answerTr": "broş", "answerEn": "brooch", "answerDe": "brosche", "answerEs": "broche", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/bros.webp" },
+        { "id": 143, "answerTr": "yarasa", "answerEn": "bat", "answerDe": "fledermaus", "answerEs": "murciélago", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/yarasa.webp" },
+        { "id": 144, "answerTr": "antilop", "answerEn": "antelope", "answerDe": "antilope", "answerEs": "antílope", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/antilop.webp" }
+        
+      ]
+    },
+    {
+      "level": 30,
+      "questions": [
+        { "id": 146, "answerTr": "vaşak", "answerEn": "lynx", "answerDe": "luchs", "answerEs": "lince", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/vasak.webp" },
+        { "id": 147, "answerTr": "tıraş bıçağı", "answerEn": "razor", "answerDe": "rasierklinge", "answerEs": "cuchilla de afeitar", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/tirasbicagi.webp" },
+        { "id": 148, "answerTr": "rakun", "answerEn": "raccoon", "answerDe": "waschbär", "answerEs": "mapache", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/rakun.webp" },
+        { "id": 149, "answerTr": "kokarca", "answerEn": "skunk", "answerDe": "stinktier", "answerEs": "zorrillo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kokarca.webp" }
+       
+      ]
+    },
+    {
+      "level": 31,
+      "questions": [
+        { "id": 151, "answerTr": "köstebek", "answerEn": "mole", "answerDe": "maulwurf", "answerEs": "topo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kostebek.webp" },
+      
+        { "id": 153, "answerTr": "akbaba", "answerEn": "vulture", "answerDe": "geier", "answerEs": "buitre", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/akbaba.webp" },
+        { "id": 154, "answerTr": "muhabbet kuşu", "answerEn": "parakeet", "answerDe": "wellensittich", "answerEs": "periquito", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/muhabbetkusu.webp" }
+      
+      ]
+    },
+    {
+      "level": 32,
+      "questions": [
+        { "id": 156, "answerTr": "tavus kuşu", "answerEn": "peacock", "answerDe": "pfau", "answerEs": "pavo real", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/tavuskusu.webp" },
+        { "id": 157, "answerTr": "ağaçkakan", "answerEn": "woodpecker", "answerDe": "specht", "answerEs": "carpintero", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/agackakan.webp" },
+        { "id": 158, "answerTr": "tırnak makası", "answerEn": "nail clippers", "answerDe": "nagelknipser", "answerEs": "cortauñas", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/tirnakmakasi.webp" },
+        { "id": 159, "answerTr": "keklik", "answerEn": "partridge", "answerDe": "rebhuhn", "answerEs": "perdiz", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/keklik.webp" },
+        { "id": 160, "answerTr": "bıldırcın", "answerEn": "quail", "answerDe": "wachtel", "answerEs": "codorniz", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/bildircin.webp" }
+      ]
+    },
+    {
+      "level": 33,
+      "questions": [
+        { "id": 161, "answerTr": "kalamar", "answerEn": "squid", "answerDe": "tintenfisch", "answerEs": "calamar", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kalamar.webp" },
+        { "id": 162, "answerTr": "törpü", "answerEn": "nail file", "answerDe": "nagelfeile", "answerEs": "lima de uñas", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/torpu.webp" },
+        { "id": 163, "answerTr": "deniz yıldızı", "answerEn": "starfish", "answerDe": "seestern", "answerEs": "estrella de mar", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/denizyildizi.webp" },
+        { "id": 164, "answerTr": "deniz atı", "answerEn": "seahorse", "answerDe": "seepferdchen", "answerEs": "caballito de mar", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/denizati.webp" },
+        { "id": 165, "answerTr": "cımbız", "answerEn": "tweezers", "answerDe": "pinzette", "answerEs": "pinzas", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/cimbiz.webp" }
+      ]
+    },
+    {
+      "level": 34,
+      "questions": [
+        { "id": 166, "answerTr": "deniz anası", "answerEn": "jellyfish", "answerDe": "qualle", "answerEs": "medusa", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/denizanasi.webp" },
+        { "id": 167, "answerTr": "istiridye", "answerEn": "oyster", "answerDe": "auster", "answerEs": "ostra", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/istiridye.webp" },
+      
+        { "id": 169, "answerTr": "ıstakoz", "answerEn": "lobster", "answerDe": "hummer", "answerEs": "langosta", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/istakoz.webp" },
+        { "id": 170, "answerTr": "deniz kaplumbağası", "answerEn": "sea turtle", "answerDe": "meeresschildkröte", "answerEs": "tortuga marina", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/sukaplumbagsi.webp" }
+      ]
+    },
+    {
+      "level": 35,
+      "questions": [
+        { "id": 171, "answerTr": "çakı", "answerEn": "pocket knife", "answerDe": "taschenmesser", "answerEs": "navaja", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/caki.webp" },
+        { "id": 172, "answerTr": "bukalemun", "answerEn": "chameleon", "answerDe": "chamäleon", "answerEs": "camaleón", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/bukalemun.webp" },
+        { "id": 173, "answerTr": "kertenkele", "answerEn": "lizard", "answerDe": "eidechse", "answerEs": "lagarto", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kertenkele.webp" },
+        { "id": 174, "answerTr": "çakmak", "answerEn": "lighter", "answerDe": "feuerzeug", "answerEs": "encendedor", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/cakmak.webp" },
+        { "id": 175, "answerTr": "komodo ejderi", "answerEn": "komodo dragon", "answerDe": "komodowaran", "answerEs": "dragón de komodo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/komodoejderi.webp" }
+      ]
+    },
+    {
+      "level": 36,
+      "questions": [
+        { "id": 176, "answerTr": "kelebek", "answerEn": "butterfly", "answerDe": "schmetterling", "answerEs": "mariposa", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kelebek.webp" },
+        { "id": 177, "answerTr": "hamam böceği", "answerEn": "cockroach", "answerDe": "kakerlake", "answerEs": "cucaracha", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/hamambocegi.webp" },
+        { "id": 178, "answerTr": "uğur böceği", "answerEn": "ladybug", "answerDe": "marienkäfer", "answerEs": "mariquita", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/ugurbocegi.webp" },
+        { "id": 179, "answerTr": "kol düğmesi", "answerEn": "cufflink", "answerDe": "manschettenknopf", "answerEs": "gemelo", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/koldugmesi.webp" },
+        { "id": 180, "answerTr": "çekirge", "answerEn": "grasshopper", "answerDe": "heuschrecke", "answerEs": "saltamontes", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/cekirge2.webp" }
+      ]
+    },
+    {
+      "level": 37,
+      "questions": [
+        { "id": 181, "answerTr": "karınca yiyen", "answerEn": "anteater", "answerDe": "ameisenbär", "answerEs": "oso hormiguero", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/karincayiyen.webp" },
+        { "id": 182, "answerTr": "tembel hayvan", "answerEn": "sloth", "answerDe": "faultier", "answerEs": "perezoso", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/tembelhayvan.webp" },
+        { "id": 183, "answerTr": "müren", "answerEn": "moray eel", "answerDe": "muräne", "answerEs": "morena", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/muren.webp" },
+        { "id": 184, "answerTr": "peygamber devesi", "answerEn": "mantis", "answerDe": "gottesanbeterin", "answerEs": "mantis religiosa", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/cekirge.webp" },
+        { "id": 185, "answerTr": "kırkayak", "answerEn": "centipede", "answerDe": "tausendfüßler", "answerEs": "ciempiés", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://macroscopeimg.win/kirkayak.webp" }
+    ]
+  },
+  {
+    "level": 38,
+    "questions": [
+     
+      { "id": 187, "answerTr": "yastık", "answerEn": "pillow", "answerDe": "kissen", "answerEs": "almohada", "categoryTr": "yatak odası", "categoryEn": "bedroom", "categoryDe": "schlafzimmer", "categoryEs": "dormitorio", "image": "https://macroscopeimg.win/yastik.webp" },
+      { "id": 188, "answerTr": "cep telefonu", "answerEn": "mobile phone", "answerDe": "handy", "answerEs": "teléfono móvil", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/ceptelefonu.webp" },
+      { "id": 189, "answerTr": "telefon", "answerEn": "telephone", "answerDe": "telefon", "answerEs": "teléfono", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/telefon.webp" }
+    
+    ]
+  },
+  {
+    "level": 39,
+    "questions": [
+      { "id": 191, "answerTr": "sandalye", "answerEn": "chair", "answerDe": "stuhl", "answerEs": "silla", "categoryTr": "mobilya", "categoryEn": "furniture", "categoryDe": "möbel", "categoryEs": "muebles", "image": "https://macroscopeimg.win/sandalye.webp" },
+      { "id": 192, "answerTr": "masa", "answerEn": "table", "answerDe": "tisch", "answerEs": "mesa", "categoryTr": "mobilya", "categoryEn": "furniture", "categoryDe": "möbel", "categoryEs": "muebles", "image": "https://macroscopeimg.win/masa.webp" },
+      { "id": 193, "answerTr": "klozet", "answerEn": "toilet", "answerDe": "toilette", "answerEs": "inodoro", "categoryTr": "banyo", "categoryEn": "bathroom", "categoryDe": "badezimmer", "categoryEs": "baño", "image": "https://macroscopeimg.win/klozet.webp" },
+      { "id": 194, "answerTr": "musluk", "answerEn": "faucet", "answerDe": "wasserhahn", "answerEs": "grifo", "categoryTr": "tesisat", "categoryEn": "plumbing", "categoryDe": "sanitär", "categoryEs": "fontanería", "image": "https://macroscopeimg.win/musluk.webp" },
+      { "id": 195, "answerTr": "sabun", "answerEn": "soap", "answerDe": "seife", "answerEs": "jabón", "categoryTr": "banyo", "categoryEn": "bathroom", "categoryDe": "badezimmer", "categoryEs": "baño", "image": "https://macroscopeimg.win/sabun2.webp" }
+    ]
+  },
+  {
+    "level": 40,
+    "questions": [
+      { "id": 196, "answerTr": "havlu", "answerEn": "towel", "answerDe": "handtuch", "answerEs": "toalla", "categoryTr": "banyo", "categoryEn": "bathroom", "categoryDe": "badezimmer", "categoryEs": "baño", "image": "https://macroscopeimg.win/havlu2.webp" }
+     
+     
+      
+     
+    ]
+  },
+  {
+    "level": 41,
+    "questions": [
+      { "id": 201, "answerTr": "bardak", "answerEn": "glass", "answerDe": "glas", "answerEs": "vaso", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/bardak.webp" },
+      { "id": 202, "answerTr": "tabak", "answerEn": "plate", "answerDe": "teller", "answerEs": "plato", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/tabak.webp" },
+      { "id": 203, "answerTr": "çatal", "answerEn": "fork", "answerDe": "gabel", "answerEs": "tenedor", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/catal.webp" },
+      { "id": 204, "answerTr": "kaşık", "answerEn": "spoon", "answerDe": "löffel", "answerEs": "cuchara", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/kasik.webp" },
+      { "id": 205, "answerTr": "bıçak", "answerEn": "knife", "answerDe": "messer", "answerEs": "cuchillo", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/bicak.webp" }
+    ]
+  },
+  {
+    "level": 42,
+    "questions": [
+      { "id": 206, "answerTr": "buzdolabı", "answerEn": "refrigerator", "answerDe": "kühlschrank", "answerEs": "refrigerador", "categoryTr": "beyaz eşya", "categoryEn": "appliances", "categoryDe": "haushaltsgeräte", "categoryEs": "electrodomésticos", "image": "https://macroscopeimg.win/buzdolabi.webp" },
+     
+      { "id": 208, "answerTr": "uzaktan kumanda", "answerEn": "remote control", "answerDe": "fernbedienung", "answerEs": "mando a distancia", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/kumanda.webp" },
+      { "id": 209, "answerTr": "televizyon", "answerEn": "television", "answerDe": "fernseher", "answerEs": "televisión", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/televizyon.webp" }
+     
+    ]
+  },
+  {
+    "level": 43,
+    "questions": [
+      { "id": 211, "answerTr": "priz", "answerEn": "socket", "answerDe": "steckdose", "answerEs": "enchufe", "categoryTr": "elektrik", "categoryEn": "electric", "categoryDe": "elektrik", "categoryEs": "eléctrico", "image": "https://macroscopeimg.win/priz.webp" },
+      { "id": 212, "answerTr": "halı", "answerEn": "carpet", "answerDe": "teppich", "answerEs": "alfombra", "categoryTr": "dekorasyon", "categoryEn": "decoration", "categoryDe": "dekoration", "categoryEs": "decoración", "image": "https://macroscopeimg.win/hali.webp" },
+      { "id": 213, "answerTr": "perde", "answerEn": "curtain", "answerDe": "vorhang", "answerEs": "cortina", "categoryTr": "dekorasyon", "categoryEn": "decoration", "categoryDe": "dekoration", "categoryEs": "decoración", "image": "https://macroscopeimg.win/perde.webp" },
+      { "id": 214, "answerTr": "gardırop", "answerEn": "wardrobe", "answerDe": "kleiderschrank", "answerEs": "armario", "categoryTr": "mobilya", "categoryEn": "furniture", "categoryDe": "möbel", "categoryEs": "muebles", "image": "https://macroscopeimg.win/gardirop.webp" }
+     
+    ]
+  },
+  {
+    "level": 44,
+    "questions": [
+      
+     
+      { "id": 218, "answerTr": "çöp kovası", "answerEn": "trash can", "answerDe": "mülleimer", "answerEs": "basura", "categoryTr": "temizlik", "categoryEn": "cleaning", "categoryDe": "reinigung", "categoryEs": "limpieza", "image": "https://macroscopeimg.win/copkovasi.webp" },
+      { "id": 219, "answerTr": "ocak", "answerEn": "stove", "answerDe": "herd", "answerEs": "estufa", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/ocak.webp" },
+      { "id": 220, "answerTr": "tencere", "answerEn": "pot", "answerDe": "topf", "answerEs": "olla", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/tencere.webp" }
+    ]
+  },
+  {
+    "level": 45,
+    "questions": [
+      { "id": 221, "answerTr": "tava", "answerEn": "pan", "answerDe": "pfanne", "answerEs": "sartén", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/tava.webp" },
+      { "id": 222, "answerTr": "bulaşık süngeri", "answerEn": "sponge", "answerDe": "spülschwamm", "answerEs": "esponja", "categoryTr": "temizlik", "categoryEn": "cleaning", "categoryDe": "reinigung", "categoryEs": "limpieza", "image": "https://macroscopeimg.win/bulasiksungeri.webp" },
+      { "id": 223, "answerTr": "mutfak önlüğü", "answerEn": "apron", "answerDe": "schürze", "answerEs": "delantal", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/mutfakonlugu.webp" },
+      { "id": 224, "answerTr": "tuzluk", "answerEn": "salt shaker", "answerDe": "salzstreuer", "answerEs": "salero", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/tuzluk.webp" }
+     
+    ]
+  },
+  {
+    "level": 46,
+    "questions": [
+      { "id": 226, "answerTr": "sürahi", "answerEn": "jug", "answerDe": "krug", "answerEs": "jarra", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/surahi.webp" }     
+     
+    ]
+  },
+  {
+    "level": 47,
+    "questions": [
+     
+      { "id": 232, "answerTr": "kulp", "answerEn": "handle", "answerDe": "griff", "answerEs": "tirador", "categoryTr": "ev parçası", "categoryEn": "home parts", "categoryDe": "hausteile", "categoryEs": "partes de casa", "image": "https://macroscopeimg.win/kulp.webp" },
+      { "id": 233, "answerTr": "laptop", "answerEn": "laptop", "answerDe": "laptop", "answerEs": "portátil", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/laptop.webp" },
+      { "id": 234, "answerTr": "mouse", "answerEn": "mouse", "answerDe": "maus", "answerEs": "ratón", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/mouse.webp" },
+      { "id": 235, "answerTr": "klavye", "answerEn": "keyboard", "answerDe": "tastatur", "answerEs": "teclado", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/klavye.webp" }
+    ]
+  },
+  {
+    "level": 48,
+    "questions": [
+     
+      { "id": 237, "answerTr": "masa lambası", "answerEn": "desk lamp", "answerDe": "schreibtischlampe", "answerEs": "lámpara", "categoryTr": "aydınlatma", "categoryEn": "lighting", "categoryDe": "beleuchtung", "categoryEs": "iluminación", "image": "https://macroscopeimg.win/masalambasi.webp" },
+    
+      { "id": 239, "answerTr": "şarj kablosu", "answerEn": "charging cable", "answerDe": "ladekabel", "answerEs": "cable de carga", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/sarjkablosu.webp" },
+      { "id": 240, "answerTr": "powerbank", "answerEn": "power bank", "answerDe": "powerbank", "answerEs": "batería externa", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/powerbank.webp" }
+    ]
+  },
+  {
+    "level": 49,
+    "questions": [
+      { "id": 241, "answerTr": "duvar saati", "answerEn": "wall clock", "answerDe": "wanduhr", "answerEs": "reloj de pared", "categoryTr": "dekorasyon", "categoryEn": "decoration", "categoryDe": "dekoration", "categoryEs": "decoración", "image": "https://macroscopeimg.win/saat.webp" },
+      { "id": 242, "answerTr": "sehpa", "answerEn": "coffee table", "answerDe": "couchtisch", "answerEs": "mesa de centro", "categoryTr": "mobilya", "categoryEn": "furniture", "categoryDe": "möbel", "categoryEs": "muebles", "image": "https://macroscopeimg.win/sehpa.webp" },
+      { "id": 243, "answerTr": "kitaplık", "answerEn": "bookshelf", "answerDe": "bücherregal", "answerEs": "estantería", "categoryTr": "mobilya", "categoryEn": "furniture", "categoryDe": "möbel", "categoryEs": "muebles", "image": "https://macroscopeimg.win/kitaplik.webp" },
+      { "id": 244, "answerTr": "kitap", "answerEn": "book", "answerDe": "buch", "answerEs": "libro", "categoryTr": "hobi", "categoryEn": "hobby", "categoryDe": "hobby", "categoryEs": "pasatiempo", "image": "https://macroscopeimg.win/kitap.webp" },
+      { "id": 245, "answerTr": "defter", "answerEn": "notebook", "answerDe": "heft", "answerEs": "cuaderno", "categoryTr": "kırtasiye", "categoryEn": "stationery", "categoryDe": "schreibwaren", "categoryEs": "papelería", "image": "https://macroscopeimg.win/defter.webp" }
+    ]
+  },
+  {
+    "level": 50,
+    "questions": [
+      { "id": 246, "answerTr": "kalem", "answerEn": "pen", "answerDe": "stift", "answerEs": "bolígrafo", "categoryTr": "kırtasiye", "categoryEn": "stationery", "categoryDe": "schreibwaren", "categoryEs": "papelería", "image": "https://macroscopeimg.win/kalem.webp" },
+      { "id": 248, "answerTr": "tarak", "answerEn": "comb", "answerDe": "kamm", "answerEs": "peine", "categoryTr": "kişisel bakım", "categoryEn": "personal care", "categoryDe": "körperpflege", "categoryEs": "cuidado personal", "image": "https://macroscopeimg.win/tarak2.webp" },
+      { "id": 249, "answerTr": "saç kurutma makinesi", "answerEn": "hair dryer", "answerDe": "föhn", "answerEs": "secador de pelo", "categoryTr": "kişisel bakım", "categoryEn": "personal care", "categoryDe": "körperpflege", "categoryEs": "cuidado personal", "image": "https://macroscopeimg.win/sackurutmamakinesi.webp" },
+      { "id": 250, "answerTr": "çamaşır makinesi", "answerEn": "washing machine", "answerDe": "waschmaschine", "answerEs": "lavadora", "categoryTr": "beyaz eşya", "categoryEn": "appliances", "categoryDe": "haushaltsgeräte", "categoryEs": "electrodomésticos", "image": "https://macroscopeimg.win/camasirmakinesi.webp" }
+    ]
+  },
+  {
+    "level": 51,
+    "questions": [
+      { "id": 251, "answerTr": "bulaşık makinesi", "answerEn": "dishwasher", "answerDe": "spülmaschine", "answerEs": "lavavajillas", "categoryTr": "beyaz eşya", "categoryEn": "appliances", "categoryDe": "haushaltsgeräte", "categoryEs": "electrodomésticos", "image": "https://macroscopeimg.win/bulasikmakinesi.webp" },
+      { "id": 252, "answerTr": "çamaşır sepeti", "answerEn": "laundry basket", "answerDe": "wäschekorb", "answerEs": "cesta de ropa", "categoryTr": "banyo", "categoryEn": "bathroom", "categoryDe": "badezimmer", "categoryEs": "baño", "image": "https://macroscopeimg.win/camasirsepeti.webp" },
+      { "id": 254, "answerTr": "mandal", "answerEn": "clothespin", "answerDe": "wäscheklammer", "answerEs": "pinza", "categoryTr": "ev gereçleri", "categoryEn": "home utilities", "categoryDe": "haushaltshelfer", "categoryEs": "utensilios", "image": "https://macroscopeimg.win/mandal.webp" },
+      { "id": 255, "answerTr": "ütü", "answerEn": "iron", "answerDe": "bügeleisen", "answerEs": "plancha", "categoryTr": "ev gereçleri", "categoryEn": "home utilities", "categoryDe": "haushaltshelfer", "categoryEs": "utensilios", "image": "https://macroscopeimg.win/utu.webp" }
+    ]
+  },
+  {
+    "level": 52,
+    "questions": [
+      { "id": 256, "answerTr": "ütü masası", "answerEn": "ironing board", "answerDe": "bügelbrett", "answerEs": "tabla de planchar", "categoryTr": "ev gereçleri", "categoryEn": "home utilities", "categoryDe": "haushaltshelfer", "categoryEs": "utensilios", "image": "https://macroscopeimg.win/utumasasi.webp" },
+      { "id": 257, "answerTr": "elektrikli süpürge", "answerEn": "vacuum cleaner", "answerDe": "staubsauger", "answerEs": "aspiradora", "categoryTr": "temizlik", "categoryEn": "cleaning", "categoryDe": "reinigung", "categoryEs": "limpieza", "image": "https://macroscopeimg.win/elektriklisupurge.webp" },
+      { "id": 258, "answerTr": "robot süpürge", "answerEn": "robot vacuum", "answerDe": "saugroboter", "answerEs": "robot aspirador", "categoryTr": "temizlik", "categoryEn": "cleaning", "categoryDe": "reinigung", "categoryEs": "limpieza", "image": "https://macroscopeimg.win/robotsupurge.webp" },
+      { "id": 259, "answerTr": "mikrodalga fırın", "answerEn": "microwave", "answerDe": "mikrowelle", "answerEs": "microondas", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/mikrodalgafirin.webp" },
+      { "id": 260, "answerTr": "tost makinesi", "answerEn": "sandwich maker", "answerDe": "sandwichmaker", "answerEs": "tostadora", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/tostmakinesi.webp" }
+    ]
+  },
+  {
+    "level": 53,
+    "questions": [
+      { "id": 261, "answerTr": "kahve makinesi", "answerEn": "coffee machine", "answerDe": "kaffeemaschine", "answerEs": "cafetera", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/kahvemakinesi.webp" },
+      { "id": 262, "answerTr": "çaydanlık", "answerEn": "teapot", "answerDe": "teekanne", "answerEs": "tetera", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/caydanlik.webp" },
+      { "id": 263, "answerTr": "süzgeç", "answerEn": "strainer", "answerDe": "sieb", "answerEs": "colador", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/suzgec.webp" },
+      { "id": 264, "answerTr": "rende", "answerEn": "grater", "answerDe": "reibe", "answerEs": "rallador", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/rende.webp" },
+      { "id": 265, "answerTr": "kesme tahtası", "answerEn": "cutting board", "answerDe": "schneidebrett", "answerEs": "tabla de cortar", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/kesmetahtasi.webp" }
+    ]
+  },
+  {
+    "level": 54,
+    "questions": [
+      { "id": 266, "answerTr": "kepçe", "answerEn": "ladle", "answerDe": "schöpfkelle", "answerEs": "cucharón", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/kepce.webp" },
+      { "id": 267, "answerTr": "spatula", "answerEn": "spatula", "answerDe": "pfannenwender", "answerEs": "espátula", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/spatula.webp" },
+      { "id": 268, "answerTr": "karıştırma kabı", "answerEn": "mixing bowl", "answerDe": "rührschüssel", "answerEs": "bol", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/karistirmakabi.webp" }    
+   ]
+  },
+  {
+    "level": 55,
+    "questions": [
+      { "id": 271, "answerTr": "ekmek kızartma makinesi", "answerEn": "toaster", "answerDe": "toaster", "answerEs": "tostadora", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/ekmekkizartmamakinesi.webp" },
+      { "id": 273, "answerTr": "mikser", "answerEn": "mixer", "answerDe": "handmixer", "answerEs": "batidora", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/mikser2.webp" },
+      { "id": 274, "answerTr": "fırın", "answerEn": "oven", "answerDe": "backofen", "answerEs": "horno", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/firin.webp" },
+      { "id": 275, "answerTr": "tepsi", "answerEn": "tray", "answerDe": "tablett", "answerEs": "bandeja", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/tepsi.webp" }
+    ]
+  },
+  {
+    "level": 56,
+    "questions": [
+      { "id": 276, "answerTr": "vazo", "answerEn": "vase", "answerDe": "vase", "answerEs": "jarrón", "categoryTr": "dekorasyon", "categoryEn": "decoration", "categoryDe": "dekoration", "categoryEs": "decoración", "image": "https://macroscopeimg.win/vazo.webp" },
+      { "id": 277, "answerTr": "biblo", "answerEn": "trinket", "answerDe": "nippes", "answerEs": "adorno", "categoryTr": "dekorasyon", "categoryEn": "decoration", "categoryDe": "dekoration", "categoryEs": "decoración", "image": "https://macroscopeimg.win/biblo.webp" },
+      { "id": 278, "answerTr": "şamdan", "answerEn": "Candlestick", "answerDe": "Der Kerzenständer", "answerEs": "El candelabro", "categoryTr": "dekorasyon", "categoryEn": "decoration", "categoryDe": "dekoration", "categoryEs": "decoración", "image": "https://macroscopeimg.win/samdan.webp" },
+      { "id": 279, "answerTr": "mum", "answerEn": "candle", "answerDe": "kerze", "answerEs": "vela", "categoryTr": "dekorasyon", "categoryEn": "decoration", "categoryDe": "dekoration", "categoryEs": "decoración", "image": "https://macroscopeimg.win/mum.webp" },
+      { "id": 280, "answerTr": "kül tablası", "answerEn": "ashtray", "answerDe": "aschenbecher", "answerEs": "cenicero", "categoryTr": "aksesuar", "categoryEn": "accessory", "categoryDe": "accessoire", "categoryEs": "accesorio", "image": "https://macroscopeimg.win/kultablasi.webp" }
+    ]
+  },
+  {
+    "level": 57,
+    "questions": [
+      { "id": 281, "answerTr": "abajur", "answerEn": "lampshade", "answerDe": "lampenschirm", "answerEs": "lámpara", "categoryTr": "aydınlatma", "categoryEn": "lighting", "categoryDe": "beleuchtung", "categoryEs": "iluminación", "image": "https://macroscopeimg.win/abajur.webp" },
+      { "id": 282, "answerTr": "lambader", "answerEn": "floor lamp", "answerDe": "stehlampe", "answerEs": "lámpara de pie", "categoryTr": "aydınlatma", "categoryEn": "lighting", "categoryDe": "beleuchtung", "categoryEs": "iluminación", "image": "https://macroscopeimg.win/lambader.webp" },
+     
+      { "id": 285, "answerTr": "vantilatör", "answerEn": "fan", "answerDe": "ventilator", "answerEs": "ventilador", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/vantilator.webp" }
+    ]
+  },
+  {
+    "level": 58,
+    "questions": [
+      { "id": 286, "answerTr": "klima", "answerEn": "air conditioner", "answerDe": "klimaanlage", "answerEs": "aire acondicionado", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/klima.webp" },
+      { "id": 289, "answerTr": "valiz", "answerEn": "suitcase", "answerDe": "koffer", "answerEs": "maleta", "categoryTr": "aksesuar", "categoryEn": "accessory", "categoryDe": "accessoire", "categoryEs": "accesorio", "image": "https://macroscopeimg.win/valiz2.webp" },
+      { "id": 290, "answerTr": "sırt çantası", "answerEn": "backpack", "answerDe": "rucksack", "answerEs": "mochila", "categoryTr": "aksesuar", "categoryEn": "accessory", "categoryDe": "accessoire", "categoryEs": "accesorio", "image": "https://macroscopeimg.win/sirtcantasi.webp" }
+    ]
+  },
+  {
+    "level": 59,
+    "questions": [
+      { "id": 291, "answerTr": "el feneri", "answerEn": "flashlight", "answerDe": "taschenlampe", "answerEs": "linterna", "categoryTr": "araç gereç", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://macroscopeimg.win/elfeneri.webp" },
+      { "id": 292, "answerTr": "tartı", "answerEn": "scale", "answerDe": "waage", "answerEs": "báscula", "categoryTr": "banyo", "categoryEn": "bathroom", "categoryDe": "badezimmer", "categoryEs": "baño", "image": "https://macroscopeimg.win/tarti.webp" },
+      { "id": 293, "answerTr": "tırnak makası", "answerEn": "nail clippers", "answerDe": "nagelknipser", "answerEs": "cortauñas", "categoryTr": "kişisel bakım", "categoryEn": "personal care", "categoryDe": "körperpflege", "categoryEs": "cuidado personal", "image": "https://macroscopeimg.win/tirnakmakasi2.webp" },
+      { "id": 294, "answerTr": "tıraş makinesi", "answerEn": "shaver", "answerDe": "rasierer", "answerEs": "afeitadora", "categoryTr": "kişisel bakım", "categoryEn": "personal care", "categoryDe": "körperpflege", "categoryEs": "cuidado personal", "image": "https://macroscopeimg.win/tirasmakinesi.webp" }
+    ]
+  },
+  {
+    "level": 60,
+    "questions": [
+      { "id": 295, "answerTr": "cımbız", "answerEn": "tweezers", "answerDe": "pinzette", "answerEs": "pinzas", "categoryTr": "kişisel bakım", "categoryEn": "personal care", "categoryDe": "körperpflege", "categoryEs": "cuidado personal", "image": "https://macroscopeimg.win/cimbiz.webp" },
+      { "id": 297, "answerTr": "yara bandı", "answerEn": "band-aid", "answerDe": "pflaster", "answerEs": "tirita", "categoryTr": "sağlık", "categoryEn": "health", "categoryDe": "gesundheit", "categoryEs": "salud", "image": "https://macroscopeimg.win/yarabandi.webp" },
+      { "id": 298, "answerTr": "ilk yardım çantası", "answerEn": "first aid kit", "answerDe": "erste-hilfe-kasten", "answerEs": "botiquín de primeros auxilios", "categoryTr": "sağlık", "categoryEn": "health", "categoryDe": "gesundheit", "categoryEs": "salud", "image": "https://macroscopeimg.win/ilkyardimcantasi.webp" },
+      { "id": 299, "answerTr": "kumbara", "answerEn": "piggy bank", "answerDe": "sparschwein", "answerEs": "hucha", "categoryTr": "ev eşyası", "categoryEn": "home goods", "categoryDe": "haushaltswaren", "categoryEs": "artículos para el hogar", "image": "https://macroscopeimg.win/kumbara.webp" }
+    ]
+  },
+  {
+    "level": 61,
+    "questions": [
+     
+      { "id": 301, "answerTr": "makara", "answerEn": "spool", "answerDe": "garnrolle", "answerEs": "carrete", "categoryTr": "hobi", "categoryEn": "hobby", "categoryDe": "hobby", "categoryEs": "pasatiempo", "image": "https://macroscopeimg.win/makara.webp" },
+      { "id": 302, "answerTr": "mezura", "answerEn": "tape measure", "answerDe": "maßband", "answerEs": "cinta métrica", "categoryTr": "araç gereç", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://macroscopeimg.win/mezura.webp" },
+      { "id": 303, "answerTr": "makas", "answerEn": "scissors", "answerDe": "schere", "answerEs": "tijeras", "categoryTr": "kırtasiye", "categoryEn": "stationery", "categoryDe": "schreibwaren", "categoryEs": "papelería", "image": "https://macroscopeimg.win/makas.webp" },
+      { "id": 304, "answerTr": "yapıştırıcı", "answerEn": "glue", "answerDe": "klebstoff", "answerEs": "pegamento", "categoryTr": "kırtasiye", "categoryEn": "stationery", "categoryDe": "schreibwaren", "categoryEs": "papelería", "image": "https://macroscopeimg.win/yapistirici.webp" }
+    ]
+  },
+  {
+    "level": 62,
+    "questions": [
+      { "id": 305, "answerTr": "bant", "answerEn": "tape", "answerDe": "klebeband", "answerEs": "cinta adhesiva", "categoryTr": "kırtasiye", "categoryEn": "stationery", "categoryDe": "schreibwaren", "categoryEs": "papelería", "image": "https://macroscopeimg.win/bant.webp" },
+      { "id": 306, "answerTr": "pil", "answerEn": "battery", "answerDe": "batterie", "answerEs": "pila", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/pil.webp" },
+      { "id": 307, "answerTr": "üçlü priz", "answerEn": "power strip", "answerDe": "mehrfachsteckdose", "answerEs": "regleta", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/uclupriz.webp" },
+      { "id": 308, "answerTr": "tornavida", "answerEn": "screwdriver", "answerDe": "schraubenzieher", "answerEs": "destornillador", "categoryTr": "araç gereç", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://macroscopeimg.win/tornavida.webp" },
+      { "id": 309, "answerTr": "çekiç", "answerEn": "hammer", "answerDe": "hammer", "answerEs": "martillo", "categoryTr": "araç gereç", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://macroscopeimg.win/cekic.webp" }
+    ]
+  },
+  {
+    "level": 63,
+    "questions": [
+      { "id": 310, "answerTr": "kerpeten", "answerEn": "pincers", "answerDe": "kneifzange", "answerEs": "tenazas", "categoryTr": "araç gereç", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://macroscopeimg.win/kerpeten.webp" },
+      { "id": 311, "answerTr": "merdiven", "answerEn": "ladder", "answerDe": "leiter", "answerEs": "escalera", "categoryTr": "araç gereç", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://macroscopeimg.win/merdiven.webp" },
+      { "id": 312, "answerTr": "tabure", "answerEn": "stool", "answerDe": "hocker", "answerEs": "taburete", "categoryTr": "mobilya", "categoryEn": "furniture", "categoryDe": "möbel", "categoryEs": "muebles", "image": "https://macroscopeimg.win/tabure.webp" },
+      { "id": 313, "answerTr": "puf", "answerEn": "pouf", "answerDe": "sitzpuff", "answerEs": "puf", "categoryTr": "mobilya", "categoryEn": "furniture", "categoryDe": "möbel", "categoryEs": "muebles", "image": "https://macroscopeimg.win/puf.webp" },
+      { "id": 314, "answerTr": "sallanan sandalye", "answerEn": "rocking chair", "answerDe": "schaukelstuhl", "answerEs": "mecedora", "categoryTr": "mobilya", "categoryEn": "furniture", "categoryDe": "möbel", "categoryEs": "muebles", "image": "https://macroscopeimg.win/sallanansandalye.webp" }
+    ]
+  },
+  {
+    "level": 64,
+    "questions": [
+      { "id": 315, "answerTr": "berjer", "answerEn": "armchair", "answerDe": "sessel", "answerEs": "sillón", "categoryTr": "mobilya", "categoryEn": "furniture", "categoryDe": "möbel", "categoryEs": "muebles", "image": "https://macroscopeimg.win/berjer.webp" },
+      { "id": 316, "answerTr": "battaniye", "answerEn": "blanket", "answerDe": "decke", "answerEs": "manta", "categoryTr": "ev eşyası", "categoryEn": "home goods", "categoryDe": "haushaltswaren", "categoryEs": "artículos para el hogar", "image": "https://macroscopeimg.win/battaniye.webp" },
+      { "id": 319, "answerTr": "kapı zili", "answerEn": "doorbell", "answerDe": "türklingel", "answerEs": "timbre", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/zil.webp" }
+    ]
+  },
+  {
+    "level": 65,
+    "questions": [
+      { "id": 320, "answerTr": "görüntülü diyafon", "answerEn": "video intercom", "answerDe": "video-türsprechanlage", "answerEs": "videoportero", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/diyafon.webp" },
+      { "id": 321, "answerTr": "güvenlik kamerası", "answerEn": "security camera", "answerDe": "überwachungskamera", "answerEs": "cámara de seguridad", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/guvenlikkamerasi.webp" },
+      { "id": 322, "answerTr": "modem", "answerEn": "modem", "answerDe": "modem", "answerEs": "módem", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/modem.webp" },
+      { "id": 323, "answerTr": "hoparlör", "answerEn": "speaker", "answerDe": "lautsprecher", "answerEs": "altavoz", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/hoparlor.webp" },
+      { "id": 324, "answerTr": "oyun konsolu", "answerEn": "game console", "answerDe": "spielkonsole", "answerEs": "consola de videojuegos", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/oyunkonsolu.webp" }
+    ]
+  },
+  {
+    "level": 66,
+    "questions": [
+    
+      { "id": 326, "answerTr": "radyo", "answerEn": "radio", "answerDe": "radio", "answerEs": "radio", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/radyo.webp" },
+      { "id": 327, "answerTr": "mp3 çalar", "answerEn": "mp3 player", "answerDe": "mp3-player", "answerEs": "reproductor mp3", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/mp3calar.webp" },
+      { "id": 328, "answerTr": "pikap", "answerEn": "record player", "answerDe": "plattenspieler", "answerEs": "tocadiscos", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/pikap.webp" },
+      { "id": 329, "answerTr": "plak", "answerEn": "vinyl record", "answerDe": "schallplatte", "answerEs": "disco de vinilo", "categoryTr": "müzik", "categoryEn": "music", "categoryDe": "musik", "categoryEs": "música", "image": "https://macroscopeimg.win/plak.webp" }
+    ]
+  },
+  {
+    "level": 67,
+    "questions": [
+      { "id": 330, "answerTr": "dvd oynatıcı", "answerEn": "dvd player", "answerDe": "dvd-player", "answerEs": "reproductor de dvd", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/dvdoynatici.webp" },
+      { "id": 331, "answerTr": "projeksiyon cihazı", "answerEn": "projector", "answerDe": "projektor", "answerEs": "proyector", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/projeksiyoncihazi.webp" },
+      { "id": 332, "answerTr": "hesap makinesi", "answerEn": "calculator", "answerDe": "taschenrechner", "answerEs": "calculadora", "categoryTr": "kırtasiye", "categoryEn": "stationery", "categoryDe": "schreibwaren", "categoryEs": "papelería", "image": "https://macroscopeimg.win/hesapmakinesi.webp" },
+      { "id": 333, "answerTr": "zımba", "answerEn": "stapler", "answerDe": "tacker", "answerEs": "grapadora", "categoryTr": "kırtasiye", "categoryEn": "stationery", "categoryDe": "schreibwaren", "categoryEs": "papelería", "image": "https://macroscopeimg.win/zimba.webp" },
+      { "id": 334, "answerTr": "delgeç", "answerEn": "hole punch", "answerDe": "locher", "answerEs": "perforadora", "categoryTr": "kırtasiye", "categoryEn": "stationery", "categoryDe": "schreibwaren", "categoryEs": "papelería", "image": "https://macroscopeimg.win/delgec.webp" }
+    ]
+  },
+  {
+    "level": 68,
+    "questions": [
+      { "id": 335, "answerTr": "ataç", "answerEn": "paperclip", "answerDe": "büroklammer", "answerEs": "clip", "categoryTr": "kırtasiye", "categoryEn": "stationery", "categoryDe": "schreibwaren", "categoryEs": "papelería", "image": "https://macroscopeimg.win/atac.webp" },
+      { "id": 336, "answerTr": "şeffaf dosya", "answerEn": "clear folder", "answerDe": "klarsichthülle", "answerEs": "funda transparente", "categoryTr": "kırtasiye", "categoryEn": "stationery", "categoryDe": "schreibwaren", "categoryEs": "papelería", "image": "https://macroscopeimg.win/seffafdosya.webp" },
+      { "id": 337, "answerTr": "maket bıçağı", "answerEn": "utility knife", "answerDe": "cuttermesser", "answerEs": "cúter", "categoryTr": "kırtasiye", "categoryEn": "stationery", "categoryDe": "schreibwaren", "categoryEs": "papelería", "image": "https://macroscopeimg.win/maketbicagi.webp" },
+      { "id": 338, "answerTr": "koli", "answerEn": "cardboard box", "answerDe": "karton", "answerEs": "caja de cartón", "categoryTr": "ev eşyası", "categoryEn": "home goods", "categoryDe": "haushaltswaren", "categoryEs": "artículos para el hogar", "image": "https://macroscopeimg.win/koli.webp" },
+      { "id": 339, "answerTr": "şemsiye", "answerEn": "umbrella", "answerDe": "regenschirm", "answerEs": "paraguas", "categoryTr": "aksesuar", "categoryEn": "accessories", "categoryDe": "zubehör", "categoryEs": "accesorios", "image": "https://macroscopeimg.win/semsiye2.webp" }
+    ]
+  },
+  {
+    "level": 69,
+    "questions": [
+      { "id": 340, "answerTr": "yağmurluk", "answerEn": "raincoat", "answerDe": "regenmantel", "answerEs": "impermeable", "categoryTr": "giyim", "categoryEn": "clothing", "categoryDe": "kleidung", "categoryEs": "ropa", "image": "https://macroscopeimg.win/yagmurluk2.webp" },
+      { "id": 341, "answerTr": "çizme", "answerEn": "boots", "answerDe": "stiefel", "answerEs": "botas", "categoryTr": "giyim", "categoryEn": "clothing", "categoryDe": "kleidung", "categoryEs": "ropa", "image": "https://macroscopeimg.win/cizme.webp" },
+      { "id": 342, "answerTr": "bot", "answerEn": "boots", "answerDe": "stiefeletten", "answerEs": "botines", "categoryTr": "giyim", "categoryEn": "clothing", "categoryDe": "kleidung", "categoryEs": "ropa", "image": "https://macroscopeimg.win/bot2.webp" },
+      { "id": 343, "answerTr": "sandalet", "answerEn": "sandals", "answerDe": "sandalen", "answerEs": "sandalias", "categoryTr": "giyim", "categoryEn": "clothing", "categoryDe": "kleidung", "categoryEs": "ropa", "image": "https://macroscopeimg.win/sandalet.webp" },
+      { "id": 344, "answerTr": "topuklu ayakkabı", "answerEn": "high heels", "answerDe": "stöckelschuhe", "answerEs": "zapatos de tacón", "categoryTr": "giyim", "categoryEn": "clothing", "categoryDe": "kleidung", "categoryEs": "ropa", "image": "https://macroscopeimg.win/topukluayakkabi.webp" }
+    ]
+  },
+  {
+    "level": 70,
+    "questions": [
+      { "id": 345, "answerTr": "ayakkabı çekeceği", "answerEn": "shoehorn", "answerDe": "schuhlöffel", "answerEs": "calzador", "categoryTr": "aksesuar", "categoryEn": "accessories", "categoryDe": "zubehör", "categoryEs": "accesorios", "image": "https://macroscopeimg.win/kerata.webp" },
+      { "id": 346, "answerTr": "fırça", "answerEn": "brush", "answerDe": "bürste", "answerEs": "cepillo", "categoryTr": "temizlik", "categoryEn": "cleaning", "categoryDe": "reinigung", "categoryEs": "limpieza", "image": "https://macroscopeimg.win/firca.webp" },
+      { "id": 347, "answerTr": "tüy toplama rulosu", "answerEn": "lint roller", "answerDe": "fusselrolle", "answerEs": "rodillo quitapelusas", "categoryTr": "temizlik", "categoryEn": "cleaning", "categoryDe": "reinigung", "categoryEs": "limpieza", "image": "https://macroscopeimg.win/tuytoplamarulosu.webp" },
+      { "id": 348, "answerTr": "faraş", "answerEn": "dustpan", "answerDe": "kehrblech", "answerEs": "recogedor", "categoryTr": "temizlik", "categoryEn": "cleaning", "categoryDe": "reinigung", "categoryEs": "limpieza", "image": "https://macroscopeimg.win/faras2.webp" },
+      { "id": 349, "answerTr": "süpürge", "answerEn": "broom", "answerDe": "besen", "answerEs": "escoba", "categoryTr": "temizlik", "categoryEn": "cleaning", "categoryDe": "reinigung", "categoryEs": "limpieza", "image": "https://macroscopeimg.win/supurge.webp" }
+    ]
+  },
+  {
+    "level": 71,
+    "questions": [
+      { "id": 350, "answerTr": "vileda kovası", "answerEn": "mop bucket", "answerDe": "wischeimer", "answerEs": "cubo de fregar", "categoryTr": "temizlik", "categoryEn": "cleaning", "categoryDe": "reinigung", "categoryEs": "limpieza", "image": "https://macroscopeimg.win/viledakovasi.webp" },
+      { "id": 351, "answerTr": "mop", "answerEn": "mop", "answerDe": "wischmopp", "answerEs": "fregona", "categoryTr": "temizlik", "categoryEn": "cleaning", "categoryDe": "reinigung", "categoryEs": "limpieza", "image": "https://macroscopeimg.win/mop.webp" },
+      { "id": 352, "answerTr": "çekpas", "answerEn": "squeegee", "answerDe": "abzieher", "answerEs": "escurridor", "categoryTr": "temizlik", "categoryEn": "cleaning", "categoryDe": "reinigung", "categoryEs": "limpieza", "image": "https://macroscopeimg.win/cekpas.webp" },
+      { "id": 353, "answerTr": "bulaşık teli", "answerEn": "steel wool", "answerDe": "stahlwolle", "answerEs": "estropajo", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/bulasikteli.webp" },
+      { "id": 354, "answerTr": "lavabo pompası", "answerEn": "plunger", "answerDe": "pümpel", "answerEs": "desatascador", "categoryTr": "banyo", "categoryEn": "bathroom", "categoryDe": "badezimmer", "categoryEs": "baño", "image": "https://macroscopeimg.win/lavabopompasi.webp" }
+    ]
+  },
+  {
+    "level": 72,
+    "questions": [
+      { "id": 355, "answerTr": "duş başlığı", "answerEn": "showerhead", "answerDe": "duschkopf", "answerEs": "alcachofa de ducha", "categoryTr": "banyo", "categoryEn": "bathroom", "categoryDe": "badezimmer", "categoryEs": "baño", "image": "https://macroscopeimg.win/dusbasligi.webp" },
+      { "id": 356, "answerTr": "ecza dolabı", "answerEn": "medicine cabinet", "answerDe": "medikamentenschrank", "answerEs": "botiquín", "categoryTr": "banyo", "categoryEn": "bathroom", "categoryDe": "badezimmer", "categoryEs": "baño", "image": "https://macroscopeimg.win/eczadolabi.webp" },
+      { "id": 358, "answerTr": "saç düzleştirici", "answerEn": "hair straightener", "answerDe": "haarglätter", "answerEs": "plancha de pelo", "categoryTr": "kişisel bakım", "categoryEn": "personal care", "categoryDe": "körperpflege", "categoryEs": "cuidado personal", "image": "https://macroscopeimg.win/sacduzlestirici.webp" }
+    
+    ]
+  },
+  {
+    "level": 73,
+    "questions": [
+      { "id": 360, "answerTr": "kahve fincanı", "answerEn": "coffee cup", "answerDe": "kaffeetasse", "answerEs": "taza de café", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/fincan.webp" },
+      { "id": 361, "answerTr": "çay bardağı", "answerEn": "tea glass", "answerDe": "teeglas", "answerEs": "vaso de té", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/caybardagi2.webp" },
+      { "id": 362, "answerTr": "çay kaşığı", "answerEn": "teaspoon", "answerDe": "teelöffel", "answerEs": "cucharadita", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/caykasigi.webp" },
+      { "id": 364, "answerTr": "soyacak", "answerEn": "peeler", "answerDe": "schäler", "answerEs": "pelador", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/soyacak.webp" }
+    ]
+  },
+  {
+    "level": 74,
+    "questions": [
+      { "id": 365, "answerTr": "sarımsak ezici", "answerEn": "garlic press", "answerDe": "knoblauchpresse", "answerEs": "prensa de ajo", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/sarimsakezecegi.webp" },
+      { "id": 366, "answerTr": "fındık kıracağı", "answerEn": "nutcracker", "answerDe": "nussknacker", "answerEs": "cascanueces", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/findikkiracagi.webp" },
+      { "id": 367, "answerTr": "konserve açacağı", "answerEn": "can opener", "answerDe": "dosenöffner", "answerEs": "abrelatas", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/konserveacacagi.webp" },
+      { "id": 368, "answerTr": "tirbuşon", "answerEn": "corkscrew", "answerDe": "korkenzieher", "answerEs": "sacacorchos", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/tirbuson.webp" },
+      { "id": 369, "answerTr": "merdane", "answerEn": "rolling pin", "answerDe": "nudelholz", "answerEs": "rodillo de amasar", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/merdane.webp" }
+    ]
+  },
+  {
+    "level": 75,
+    "questions": [
+      
+      { "id": 371, "answerTr": "çırpma teli", "answerEn": "whisk", "answerDe": "schneebesen", "answerEs": "batidor de varillas", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/cirpmateli.webp" },
+      { "id": 373, "answerTr": "kek kalıbı", "answerEn": "cake pan", "answerDe": "kuchenform", "answerEs": "molde para pasteles", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/kekkalibi.webp" }
+    ]
+  },
+  {
+    "level": 76,
+    "questions": [
+      { "id": 375, "answerTr": "güveç", "answerEn": "clay pot", "answerDe": "tontopf", "answerEs": "cazuela de barro", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/guvec.webp" },
+      { "id": 376, "answerTr": "düdüklü tencere", "answerEn": "pressure cooker", "answerDe": "schnellkochtopf", "answerEs": "olla a presión", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/duduklutencere.webp" },
+      { "id": 377, "answerTr": "cezve", "answerEn": "turkish coffee pot", "answerDe": "mokkakanne", "answerEs": "cafetera turca", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/cezve.webp" },
+      { "id": 378, "answerTr": "narenciye sıkacağı", "answerEn": "citrus juicer", "answerDe": "zitruspresse", "answerEs": "exprimidor", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/narenciyesikacagi.webp" },
+      { "id": 379, "answerTr": "rondo", "answerEn": "food chopper", "answerDe": "zerkleinerer", "answerEs": "picadora", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/rondo.webp" }
+    ]
+  },
+  {
+    "level": 77,
+    "questions": [
+    
+      { "id": 381, "answerTr": "kıyma makinesi", "answerEn": "meat grinder", "answerDe": "fleischwolf", "answerEs": "picadora de carne", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/kiymamakinesi.webp" },
+      { "id": 382, "answerTr": "fritöz", "answerEn": "deep fryer", "answerDe": "fritteuse", "answerEs": "freidora", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/fritoz.webp" },
+      { "id": 383, "answerTr": "airfryer", "answerEn": "air fryer", "answerDe": "heißluftfritteuse", "answerEs": "freidora de aire", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/airfryer.webp" },
+      { "id": 384, "answerTr": "sebil", "answerEn": "water dispenser", "answerDe": "wasserspender", "answerEs": "dispensador de agua", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/sebil.webp" }
+    ]
+  },
+  {
+    "level": 78,
+    "questions": [
+      { "id": 385, "answerTr": "termos", "answerEn": "thermos", "answerDe": "thermoskanne", "answerEs": "termo", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/termos.webp" },
+      { "id": 386, "answerTr": "piknik sepeti", "answerEn": "picnic basket", "answerDe": "picknickkorb", "answerEs": "cesta de picnic", "categoryTr": "dış mekan", "categoryEn": "outdoor", "categoryDe": "draußen", "categoryEs": "al aire libre", "image": "https://macroscopeimg.win/pikniksepeti.webp" },
+      { "id": 387, "answerTr": "mangal", "answerEn": "barbecue", "answerDe": "grill", "answerEs": "barbacoa", "categoryTr": "dış mekan", "categoryEn": "outdoor", "categoryDe": "draußen", "categoryEs": "al aire libre", "image": "https://macroscopeimg.win/mangal.webp" },
+      { "id": 388, "answerTr": "mangal kömürü", "answerEn": "charcoal", "answerDe": "holzkohle", "answerEs": "carbón vegetal", "categoryTr": "dış mekan", "categoryEn": "outdoor", "categoryDe": "draußen", "categoryEs": "al aire libre", "image": "https://macroscopeimg.win/komur.webp" },
+      { "id": 389, "answerTr": "semaver", "answerEn": "samovar", "answerDe": "samowar", "answerEs": "samovar", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/semaver.webp" }
+    ]
+  },
+  {
+    "level": 79,
+    "questions": [
+      { "id": 390, "answerTr": "nargile", "answerEn": "hookah", "answerDe": "shisha", "answerEs": "cachimba", "categoryTr": "eğlence", "categoryEn": "entertainment", "categoryDe": "unterhaltung", "categoryEs": "entretenimiento", "image": "https://macroscopeimg.win/nargile.webp" },
+      { "id": 391, "answerTr": "hamak", "answerEn": "hammock", "answerDe": "hängematte", "answerEs": "hamaca", "categoryTr": "dış mekan", "categoryEn": "outdoor", "categoryDe": "draußen", "categoryEs": "al aire libre", "image": "https://macroscopeimg.win/hamak.webp" },
+     
+      { "id": 393, "answerTr": "şezlong", "answerEn": "sun lounger", "answerDe": "sonnenliege", "answerEs": "tumbona", "categoryTr": "dış mekan", "categoryEn": "outdoor", "categoryDe": "draußen", "categoryEs": "al aire libre", "image": "https://macroscopeimg.win/sezlong.webp" },
+      { "id": 394, "answerTr": "saksı", "answerEn": "flowerpot", "answerDe": "blumentopf", "answerEs": "maceta", "categoryTr": "bahçe", "categoryEn": "garden", "categoryDe": "garten", "categoryEs": "jardín", "image": "https://macroscopeimg.win/saksi.webp" }
+    ]
+  },
+  {
+    "level": 80,
+    "questions": [
+      { "id": 395, "answerTr": "bahçe hortumu", "answerEn": "garden hose", "answerDe": "gartenschlauch", "answerEs": "manguera de jardín", "categoryTr": "bahçe", "categoryEn": "garden", "categoryDe": "garten", "categoryEs": "jardín", "image": "https://macroscopeimg.win/bahcehortumu.webp" },
+      { "id": 396, "answerTr": "fıskiye", "answerEn": "sprinkler", "answerDe": "rasensprenger", "answerEs": "aspersor", "categoryTr": "bahçe", "categoryEn": "garden", "categoryDe": "garten", "categoryEs": "jardín", "image": "https://macroscopeimg.win/fiskiye.webp" },
+      { "id": 397, "answerTr": "kürek", "answerEn": "shovel", "answerDe": "schaufel", "answerEs": "pala", "categoryTr": "bahçe", "categoryEn": "garden", "categoryDe": "garten", "categoryEs": "jardín", "image": "https://macroscopeimg.win/kurek.webp" },
+      { "id": 398, "answerTr": "tırmık", "answerEn": "rake", "answerDe": "rechen", "answerEs": "rastrillo", "categoryTr": "bahçe", "categoryEn": "garden", "categoryDe": "garten", "categoryEs": "jardín", "image": "https://macroscopeimg.win/tirmik.webp" },
+      { "id": 399, "answerTr": "çapa", "answerEn": "Ship anchor", "answerDe": "Schiffsanker", "answerEs": "Ancla de barco", "categoryTr": "deniz", "categoryEn": "sea", "categoryDe": "Meer", "categoryEs": "Mar", "image": "https://macroscopeimg.win/capa.webp" }
+    ]
+  },
+  {
+    "level": 81,
+    "questions": [
+      
+      { "id": 401, "answerTr": "kamp çadırı", "answerEn": "camping tent", "answerDe": "campingzelt", "answerEs": "tienda de campaña", "categoryTr": "kamp", "categoryEn": "camping", "categoryDe": "camping", "categoryEs": "camping", "image": "https://macroscopeimg.win/kampcadiri.webp" },
+      { "id": 402, "answerTr": "uyku tulumu", "answerEn": "sleeping bag", "answerDe": "schlafsack", "answerEs": "saco de dormir", "categoryTr": "kamp", "categoryEn": "camping", "categoryDe": "camping", "categoryEs": "camping", "image": "https://macroscopeimg.win/uykutulumu.webp" },
+      { "id": 403, "answerTr": "gaz lambası", "answerEn": "gas lamp", "answerDe": "gaslampe", "answerEs": "lámpara de gas", "categoryTr": "kamp", "categoryEn": "camping", "categoryDe": "camping", "categoryEs": "camping", "image": "https://macroscopeimg.win/gazlambasi.webp" },
+      { "id": 404, "answerTr": "olta", "answerEn": "fishing rod", "answerDe": "angelrute", "answerEs": "caña de pescar", "categoryTr": "hobi", "categoryEn": "hobby", "categoryDe": "hobby", "categoryEs": "pasatiempo", "image": "https://macroscopeimg.win/olta.webp" }
+    ]
+  },
+  {
+    "level": 82,
+    "questions": [
+      { "id": 405, "answerTr": "kaykay", "answerEn": "skateboard", "answerDe": "skateboard", "answerEs": "monopatín", "categoryTr": "spor", "categoryEn": "sports", "categoryDe": "sport", "categoryEs": "deportes", "image": "https://macroscopeimg.win/kaykay.webp" },
+      { "id": 406, "answerTr": "paten", "answerEn": "roller skates", "answerDe": "rollschuhe", "answerEs": "patines", "categoryTr": "spor", "categoryEn": "sports", "categoryDe": "sport", "categoryEs": "deportes", "image": "https://macroscopeimg.win/paten.webp" },
+      { "id": 407, "answerTr": "bisiklet", "answerEn": "bicycle", "answerDe": "fahrrad", "answerEs": "bicicleta", "categoryTr": "spor", "categoryEn": "sports", "categoryDe": "sport", "categoryEs": "deportes", "image": "https://macroscopeimg.win/bisiklet.webp" },
+      { "id": 408, "answerTr": "kask", "answerEn": "helmet", "answerDe": "helm", "answerEs": "casco", "categoryTr": "spor", "categoryEn": "sports", "categoryDe": "sport", "categoryEs": "deportes", "image": "https://macroscopeimg.win/kask.webp" },
+      { "id": 409, "answerTr": "dizlik", "answerEn": "knee pads", "answerDe": "knieschützer", "answerEs": "rodilleras", "categoryTr": "spor", "categoryEn": "sports", "categoryDe": "sport", "categoryEs": "deportes", "image": "https://macroscopeimg.win/dizlik.webp" }
+    ]
+  },
+  {
+    "level": 83,
+    "questions": [
+      { "id": 410, "answerTr": "futbol topu", "answerEn": "soccer ball", "answerDe": "fußball", "answerEs": "balón de fútbol", "categoryTr": "spor", "categoryEn": "sports", "categoryDe": "sport", "categoryEs": "deportes", "image": "https://macroscopeimg.win/futboltopu.webp" },
+      { "id": 411, "answerTr": "basketbol topu", "answerEn": "basketball", "answerDe": "basketball", "answerEs": "balón de baloncesto", "categoryTr": "spor", "categoryEn": "sports", "categoryDe": "sport", "categoryEs": "deportes", "image": "https://macroscopeimg.win/basketboltopu.webp" },
+    
+      { "id": 413, "answerTr": "dambıl", "answerEn": "dumbbell", "answerDe": "hantel", "answerEs": "mancuerna", "categoryTr": "spor", "categoryEn": "sports", "categoryDe": "sport", "categoryEs": "deportes", "image": "https://macroscopeimg.win/dambil.webp" },
+      { "id": 414, "answerTr": "pilates topu", "answerEn": "exercise ball", "answerDe": "gymnastikball", "answerEs": "pelota de pilates", "categoryTr": "spor", "categoryEn": "sports", "categoryDe": "sport", "categoryEs": "deportes", "image": "https://macroscopeimg.win/pilatestopu.webp" }
+    ]
+  },
+  {
+    "level": 84,
+    "questions": [
+      { "id": 415, "answerTr": "koşu bandı", "answerEn": "treadmill", "answerDe": "laufband", "answerEs": "cinta de correr", "categoryTr": "spor", "categoryEn": "sports", "categoryDe": "sport", "categoryEs": "deportes", "image": "https://macroscopeimg.win/kosubandi.webp" },
+      { "id": 416, "answerTr": "kondisyon bisikleti", "answerEn": "exercise bike", "answerDe": "heimtrainer", "answerEs": "bicicleta estática", "categoryTr": "spor", "categoryEn": "sports", "categoryDe": "sport", "categoryEs": "deportes", "image": "https://macroscopeimg.win/kondisyonbisikleti.webp" },
+      { "id": 417, "answerTr": "kum torbası", "answerEn": "punching bag", "answerDe": "boxsack", "answerEs": "saco de boxeo", "categoryTr": "spor", "categoryEn": "sports", "categoryDe": "sport", "categoryEs": "deportes", "image": "https://macroscopeimg.win/bokstorbasi.webp" },
+      { "id": 418, "answerTr": "boks eldiveni", "answerEn": "boxing gloves", "answerDe": "boxhandschuhe", "answerEs": "guantes de boxeo", "categoryTr": "spor", "categoryEn": "sports", "categoryDe": "sport", "categoryEs": "deportes", "image": "https://macroscopeimg.win/bokseldiveni.webp" },
+      { "id": 419, "answerTr": "satranç takımı", "answerEn": "chess set", "answerDe": "schachspiel", "answerEs": "juego de ajedrez", "categoryTr": "oyun", "categoryEn": "games", "categoryDe": "spiele", "categoryEs": "juegos", "image": "https://macroscopeimg.win/satranctakimi.webp" }
+    ]
+  },
+  {
+    "level": 85,
+    "questions": [
+      { "id": 420, "answerTr": "tavla", "answerEn": "backgammon", "answerDe": "backgammon", "answerEs": "backgammon", "categoryTr": "oyun", "categoryEn": "games", "categoryDe": "spiele", "categoryEs": "juegos", "image": "https://macroscopeimg.win/tavla.webp" },
+
+      { "id": 422, "answerTr": "iskambil kağıdı", "answerEn": "playing cards", "answerDe": "spielkarten", "answerEs": "cartas", "categoryTr": "oyun", "categoryEn": "games", "categoryDe": "spiele", "categoryEs": "juegos", "image": "https://macroscopeimg.win/iskanbilkagidi.webp" },
+      { "id": 423, "answerTr": "yapboz", "answerEn": "jigsaw puzzle", "answerDe": "puzzle", "answerEs": "rompecabezas", "categoryTr": "oyun", "categoryEn": "games", "categoryDe": "spiele", "categoryEs": "juegos", "image": "https://macroscopeimg.win/yapboz.webp" },
+      { "id": 424, "answerTr": "lego", "answerEn": "lego", "answerDe": "lego", "answerEs": "lego", "categoryTr": "oyun", "categoryEn": "games", "categoryDe": "spiele", "categoryEs": "juegos", "image": "https://macroscopeimg.win/lego.webp" }
+    ]
+  },
+  {
+    "level": 86,
+    "questions": [
+      { "id": 425, "answerTr": "araba", "answerEn": "car", "answerDe": "auto", "answerEs": "coche", "categoryTr": "oyuncak", "categoryEn": "toys", "categoryDe": "spielzeug", "categoryEs": "juguetes", "image": "https://macroscopeimg.win/araba.webp" },
+      { "id": 426, "answerTr": "peluş ayı", "answerEn": "teddy bear", "answerDe": "teddybär", "answerEs": "oso de peluche", "categoryTr": "oyuncak", "categoryEn": "toys", "categoryDe": "spielzeug", "categoryEs": "juguetes", "image": "https://macroscopeimg.win/pelusayi.webp" },
+      { "id": 427, "answerTr": "oyun hamuru", "answerEn": "play-dough", "answerDe": "knetmasse", "answerEs": "plastilina", "categoryTr": "oyuncak", "categoryEn": "toys", "categoryDe": "spielzeug", "categoryEs": "juguetes", "image": "https://macroscopeimg.win/oyunhamuru.webp" },
+      { "id": 428, "answerTr": "boyama kitabı", "answerEn": "coloring book", "answerDe": "malbuch", "answerEs": "libro para colorear", "categoryTr": "oyuncak", "categoryEn": "toys", "categoryDe": "spielzeug", "categoryEs": "juguetes", "image": "https://macroscopeimg.win/boyamakitabi.webp" },
+      { "id": 429, "answerTr": "sulu boya", "answerEn": "watercolor", "answerDe": "Aquarell", "answerEs": "acuarelas", "categoryTr": "sanat", "categoryEn": "art", "categoryDe": "kunst", "categoryEs": "arte", "image": "https://macroscopeimg.win/suluboya.webp" }
+    ]
+  },
+  {
+    "level": 87,
+    "questions": [
+     
+   
+      { "id": 432, "answerTr": "palet", "answerEn": "palette", "answerDe": "palette", "answerEs": "paleta", "categoryTr": "sanat", "categoryEn": "art", "categoryDe": "kunst", "categoryEs": "arte", "image": "https://macroscopeimg.win/palet.webp" },
+      { "id": 433, "answerTr": "gitar", "answerEn": "guitar", "answerDe": "gitarre", "answerEs": "guitarra", "categoryTr": "müzik", "categoryEn": "music", "categoryDe": "musik", "categoryEs": "música", "image": "https://macroscopeimg.win/gitar.webp" },
+      { "id": 434, "answerTr": "bağlama", "answerEn": "baglama", "answerDe": "baglama", "answerEs": "baglama", "categoryTr": "müzik", "categoryEn": "music", "categoryDe": "musik", "categoryEs": "música", "image": "https://macroscopeimg.win/baglama.webp" }
+    ]
+  },
+  {
+    "level": 88,
+    "questions": [
+      { "id": 435, "answerTr": "keman", "answerEn": "violin", "answerDe": "geige", "answerEs": "violín", "categoryTr": "müzik", "categoryEn": "music", "categoryDe": "musik", "categoryEs": "música", "image": "https://macroscopeimg.win/keman.webp" },
+      { "id": 436, "answerTr": "org", "answerEn": "electronic keyboard", "answerDe": "keyboard", "answerEs": "teclado", "categoryTr": "müzik", "categoryEn": "music", "categoryDe": "musik", "categoryEs": "música", "image": "https://macroscopeimg.win/org.webp" },
+      { "id": 437, "answerTr": "piyano", "answerEn": "piano", "answerDe": "klavier", "answerEs": "piano", "categoryTr": "müzik", "categoryEn": "music", "categoryDe": "musik", "categoryEs": "música", "image": "https://macroscopeimg.win/piyano.webp" },
+      { "id": 439, "answerTr": "mızıka", "answerEn": "harmonica", "answerDe": "mundharmonika", "answerEs": "armónica", "categoryTr": "müzik", "categoryEn": "music", "categoryDe": "musik", "categoryEs": "música", "image": "https://macroscopeimg.win/mizika.webp" }
+    ]
+  },
+  {
+    "level": 89,
+    "questions": [
+      { "id": 440, "answerTr": "darbuka", "answerEn": "darbuka", "answerDe": "darbuka", "answerEs": "darbuka", "categoryTr": "müzik", "categoryEn": "music", "categoryDe": "musik", "categoryEs": "música", "image": "https://macroscopeimg.win/darbuka.webp" },
+      { "id": 441, "answerTr": "akvaryum", "answerEn": "aquarium", "answerDe": "aquarium", "answerEs": "acuario", "categoryTr": "evcil hayvan", "categoryEn": "pets", "categoryDe": "haustiere", "categoryEs": "mascotas", "image": "https://macroscopeimg.win/akvaryum.webp" },
+      { "id": 442, "answerTr": "kuş kafesi", "answerEn": "birdcage", "answerDe": "vogelkäfig", "answerEs": "jaula de pájaros", "categoryTr": "evcil hayvan", "categoryEn": "pets", "categoryDe": "haustiere", "categoryEs": "mascotas", "image": "https://macroscopeimg.win/kuskafesi.webp" },
+      { "id": 443, "answerTr": "kedi evi", "answerEn": "cat house", "answerDe": "katzenhaus", "answerEs": "casa para gatos", "categoryTr": "evcil hayvan", "categoryEn": "pets", "categoryDe": "haustiere", "categoryEs": "mascotas", "image": "https://macroscopeimg.win/kedievi.webp" },
+      { "id": 444, "answerTr": "köpek kulübesi", "answerEn": "doghouse", "answerDe": "hundehütte", "answerEs": "caseta de perro", "categoryTr": "evcil hayvan", "categoryEn": "pets", "categoryDe": "haustiere", "categoryEs": "mascotas", "image": "https://macroscopeimg.win/kopekkulubesi.webp" }
+    ]
+  },
+  {
+    "level": 90,
+    "questions": [
+      { "id": 445, "answerTr": "tasma", "answerEn": "collar", "answerDe": "halsband", "answerEs": "collar", "categoryTr": "evcil hayvan", "categoryEn": "pets", "categoryDe": "haustiere", "categoryEs": "mascotas", "image": "https://macroscopeimg.win/tasma.webp" },
+      { "id": 446, "answerTr": "mama kabı", "answerEn": "pet food bowl", "answerDe": "futternapf", "answerEs": "comedero", "categoryTr": "evcil hayvan", "categoryEn": "pets", "categoryDe": "haustiere", "categoryEs": "mascotas", "image": "https://macroscopeimg.win/mamakabi.webp" },
+      { "id": 447, "answerTr": "bebek arabası", "answerEn": "baby stroller", "answerDe": "kinderwagen", "answerEs": "cochecito de bebé", "categoryTr": "bebek", "categoryEn": "baby", "categoryDe": "baby", "categoryEs": "bebé", "image": "https://macroscopeimg.win/bebekarabasi.webp" },
+      { "id": 449, "answerTr": "mama sandalyesi", "answerEn": "high chair", "answerDe": "hochstuhl", "answerEs": "trona", "categoryTr": "bebek", "categoryEn": "baby", "categoryDe": "baby", "categoryEs": "bebé", "image": "https://macroscopeimg.win/mamasandalyesi.webp" }
+    ]
+  },
+  {
+    "level": 91,
+    "questions": [
+      { "id": 450, "answerTr": "emzik", "answerEn": "pacifier", "answerDe": "schnuller", "answerEs": "chupete", "categoryTr": "bebek", "categoryEn": "baby", "categoryDe": "baby", "categoryEs": "bebé", "image": "https://macroscopeimg.win/emzik.webp" },
+      { "id": 451, "answerTr": "biberon", "answerEn": "baby bottle", "answerDe": "babyflasche", "answerEs": "biberón", "categoryTr": "bebek", "categoryEn": "baby", "categoryDe": "baby", "categoryEs": "bebé", "image": "https://macroscopeimg.win/biberon.webp" },
+      { "id": 452, "answerTr": "süt sağma pompası", "answerEn": "breast pump", "answerDe": "brustpumpe", "answerEs": "sacaleches", "categoryTr": "bebek", "categoryEn": "baby", "categoryDe": "baby", "categoryEs": "bebé", "image": "https://macroscopeimg.win/sutsagmamakinesi.webp" },
+      { "id": 453, "answerTr": "yürüteç", "answerEn": "baby walker", "answerDe": "lauflernhilfe", "answerEs": "andador", "categoryTr": "bebek", "categoryEn": "baby", "categoryDe": "baby", "categoryEs": "bebé", "image": "https://macroscopeimg.win/yurutec.webp" },
+      { "id": 454, "answerTr": "diş kaşıyıcı", "answerEn": "teether", "answerDe": "beißring", "answerEs": "mordedor", "categoryTr": "bebek", "categoryEn": "baby", "categoryDe": "baby", "categoryEs": "bebé", "image": "https://macroscopeimg.win/diskasiyici.webp" }
+    ]
+  },
+  {
+    "level": 92,
+    "questions": [
+      { "id": 455, "answerTr": "çıngırak", "answerEn": "baby rattle", "answerDe": "rassel", "answerEs": "sonajero", "categoryTr": "bebek", "categoryEn": "baby", "categoryDe": "baby", "categoryEs": "bebé", "image": "https://macroscopeimg.win/cingirak.webp" },
+      { "id": 456, "answerTr": "ateş ölçer", "answerEn": "thermometer", "answerDe": "fieberthermometer", "answerEs": "termómetro", "categoryTr": "sağlık", "categoryEn": "health", "categoryDe": "gesundheit", "categoryEs": "salud", "image": "https://macroscopeimg.win/atesolcer.webp" },
+      { "id": 457, "answerTr": "tansiyon aleti", "answerEn": "blood pressure monitor", "answerDe": "blutdruckmessgerät", "answerEs": "tensiómetro", "categoryTr": "sağlık", "categoryEn": "health", "categoryDe": "gesundheit", "categoryEs": "salud", "image": "https://macroscopeimg.win/tansiyonaleti.webp" },
+      { "id": 458, "answerTr": "hava temizleyici", "answerEn": "air purifier", "answerDe": "luftreiniger", "answerEs": "purificador de aire", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/havatemizleyici.webp" },
+      { "id": 459, "answerTr": "çelik kasa", "answerEn": "steel safe", "answerDe": "stahltresor", "answerEs": "caja fuerte", "categoryTr": "ev eşyası", "categoryEn": "home goods", "categoryDe": "haushaltswaren", "categoryEs": "artículos para el hogar", "image": "https://macroscopeimg.win/celikkasa.webp" }
+    ]
+  },
+  {
+    "level": 93,
+    "questions": [
+      { "id": 460, "answerTr": "barkod okuyucu", "answerEn": "barcode scanner", "answerDe": "barcodescanner", "answerEs": "lector de códigos de barras", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/barkodokuyucu.webp" },
+      { "id": 461, "answerTr": "para sayma makinesi", "answerEn": "money counter", "answerDe": "geldzählmaschine", "answerEs": "contadora de billetes", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/parasaymamakinesi.webp" },
+      { "id": 462, "answerTr": "bere", "answerEn": "beanie", "answerDe": "mütze", "answerEs": "gorro", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/bere2.webp" },
+      { "id": 463, "answerTr": "ceket", "answerEn": "jacket", "answerDe": "jacke", "answerEs": "chaqueta", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/ceket2.webp" },
+      { "id": 464, "answerTr": "güneş gözlüğü", "answerEn": "sunglasses", "answerDe": "sonnenbrille", "answerEs": "gafas de sol", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/gunesgozlugu2.webp" }
+    ]
+  },
+  {
+    "level": 94,
+    "questions": [
+      { "id": 465, "answerTr": "hırka", "answerEn": "cardigan", "answerDe": "strickjacke", "answerEs": "cárdigan", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/hirka2.webp" },
+      { "id": 466, "answerTr": "kazak", "answerEn": "sweater", "answerDe": "pullover", "answerEs": "suéter", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/kazak2.webp" },
+      { "id": 467, "answerTr": "mutfak önlüğü", "answerEn": "apron", "answerDe": "schürze", "answerEs": "delantal", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/mutfakonlugu2.webp" },
+      { "id": 468, "answerTr": "sandalye", "answerEn": "chair", "answerDe": "stuhl", "answerEs": "silla", "categoryTr": "mobilya", "categoryEn": "furniture", "categoryDe": "möbel", "categoryEs": "muebles", "image": "https://macroscopeimg.win/sandalye2.webp" },
+      { "id": 469, "answerTr": "sırt çantası", "answerEn": "backpack", "answerDe": "rucksack", "answerEs": "mochila", "categoryTr": "aksesuar", "categoryEn": "accessory", "categoryDe": "accessoire", "categoryEs": "accesorio", "image": "https://macroscopeimg.win/sirtcantasi2.webp" }
+    ]
+  },
+  {
+    "level": 95,
+    "questions": [
+      { "id": 470, "answerTr": "şort", "answerEn": "shorts", "answerDe": "shorts", "answerEs": "pantalones cortos", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/sort2.webp" },
+      { "id": 471, "answerTr": "tabak", "answerEn": "plate", "answerDe": "teller", "answerEs": "plato", "categoryTr": "mutfak", "categoryEn": "kitchen", "categoryDe": "küche", "categoryEs": "cocina", "image": "https://macroscopeimg.win/tabak2.webp" },
+      { "id": 472, "answerTr": "tişört", "answerEn": "t-shirt", "answerDe": "t-shirt", "answerEs": "camiseta", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/tisort2.webp" },
+      { "id": 473, "answerTr": "toka", "answerEn": "hair clip", "answerDe": "haarspange", "answerEs": "horquilla", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://macroscopeimg.win/toka.webp" },
+      { "id": 474, "answerTr": "yangın tüpü", "answerEn": "Fire extinguisher", "answerDe": "Feuerlöscher", "answerEs": "Extintor", "categoryTr": "eşya", "categoryEn": "belongings", "categoryDe": "gegenstände", "categoryEs": "objetos", "image": "https://macroscopeimg.win/yangintupu.webp" }
+    ]
+  },
+  {
+    "level": 96,
+    "questions": [
+      { "id": 475, "answerTr": "asma kilit", "answerEn": "padlock", "answerDe": "vorhängeschloss", "answerEs": "candado", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://macroscopeimg.win/asmakilit.webp" },
+      { "id": 476, "answerTr": "gözlük kılıfı", "answerEn": "glasses case", "answerDe": "brillenetui", "answerEs": "funda de gafas", "categoryTr": "aksesuar", "categoryEn": "accessory", "categoryDe": "zubehör", "categoryEs": "accesorio", "image": "https://macroscopeimg.win/gozlukkabi.webp" },
+      { "id": 477, "answerTr": "sıcak su torbası", "answerEn": "hot water bottle", "answerDe": "wärmflasche", "answerEs": "bolsa de agua caliente", "categoryTr": "sağlık", "categoryEn": "health", "categoryDe": "gesundheit", "categoryEs": "salud", "image": "https://macroscopeimg.win/sicaksutorbasi.webp" },
+      { "id": 478, "answerTr": "boyunluk", "answerEn": "neck brace", "answerDe": "halskrause", "answerEs": "collarín", "categoryTr": "sağlık", "categoryEn": "health", "categoryDe": "gesundheit", "categoryEs": "salud", "image": "https://macroscopeimg.win/boyunluk.webp" },
+      { "id": 479, "answerTr": "korse", "answerEn": "corset", "answerDe": "korsett", "answerEs": "corsé", "categoryTr": "sağlık", "categoryEn": "health", "categoryDe": "gesundheit", "categoryEs": "salud", "image": "https://macroscopeimg.win/korse.webp" }
+    ]
+  },
+  {
+    "level": 97,
+    "questions": [
+      { "id": 480, "answerTr": "koltuk değneği", "answerEn": "crutch", "answerDe": "krücke", "answerEs": "muleta", "categoryTr": "sağlık", "categoryEn": "health", "categoryDe": "gesundheit", "categoryEs": "salud", "image": "https://macroscopeimg.win/koltukdegnegi.webp" },
+      { "id": 481, "answerTr": "oksijen tüpü", "answerEn": "oxygen tank", "answerDe": "sauerstoffflasche", "answerEs": "tanque de oxígeno", "categoryTr": "sağlık", "categoryEn": "health", "categoryDe": "gesundheit", "categoryEs": "salud", "image": "https://macroscopeimg.win/oksijentupu.webp" },
+      { "id": 482, "answerTr": "gaz maskesi", "answerEn": "gas mask", "answerDe": "gasmaske", "answerEs": "máscara antigás", "categoryTr": "güvenlik", "categoryEn": "safety", "categoryDe": "sicherheit", "categoryEs": "seguridad", "image": "https://macroscopeimg.win/gazmaskesi.webp" },
+      { "id": 483, "answerTr": "spatula", "answerEn": "putty knife", "answerDe": "spachtel", "answerEs": "espátula", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://macroscopeimg.win/spatula2.webp" },
+      { "id": 484, "answerTr": "su terazisi", "answerEn": "spirit level", "answerDe": "wasserwaage", "answerEs": "nivel de burbuja", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://macroscopeimg.win/suterazisi.webp" }
+    ]
+  },
+  {
+    "level": 98,
+    "questions": [
+     
+      { "id": 486, "answerTr": "kumpas", "answerEn": "caliper", "answerDe": "messschieber", "answerEs": "calibre", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://macroscopeimg.win/kumpas.webp" },
+      { "id": 487, "answerTr": "silikon tabancası", "answerEn": "caulking gun", "answerDe": "silikonpistole", "answerEs": "pistola de silicona", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://macroscopeimg.win/silikontabancasi.webp" },
+      { "id": 488, "answerTr": "matkap", "answerEn": "drill", "answerDe": "bohrmaschine", "answerEs": "taladro", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://macroscopeimg.win/matkap.webp" },
+      { "id": 489, "answerTr": "kaynak makinesi", "answerEn": "welding machine", "answerDe": "schweißgerät", "answerEs": "máquina de soldar", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://macroscopeimg.win/kaynakmakinesi.webp" }
+    ]
+  },
+  {
+    "level": 99,
+    "questions": [
+      { "id": 490, "answerTr": "jeneratör", "answerEn": "generator", "answerDe": "generator", "answerEs": "generador", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://macroscopeimg.win/jenerator.webp" },
+      { "id": 491, "answerTr": "kompresör", "answerEn": "compressor", "answerDe": "kompressor", "answerEs": "compresor", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://macroscopeimg.win/kompresor.webp" },
+      { "id": 492, "answerTr": "benzin bidonu", "answerEn": "jerrycan", "answerDe": "benzinkanister", "answerEs": "bidón de gasolina", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://macroscopeimg.win/benzinbidonu.webp" },
+      { "id": 493, "answerTr": "huni", "answerEn": "funnel", "answerDe": "trichter", "answerEs": "embudo", "categoryTr": "aletler", "categoryEn": "tools", "categoryDe": "werkzeuge", "categoryEs": "herramientas", "image": "https://macroscopeimg.win/huni.webp" },
+      { "id": 494, "answerTr": "cep telefonu", "answerEn": "mobile phone", "answerDe": "handy", "answerEs": "teléfono móvil", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/ceptelefonu2.webp" }
+    ]
+  },
+  {
+    "level": 100,
+    "questions": [
+      { "id": 495, "answerTr": "ekmek", "answerEn": "bread", "answerDe": "brot", "answerEs": "pan", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/ekmek.webp" },
+     
+      { "id": 497, "answerTr": "yumurta", "answerEn": "egg", "answerDe": "ei", "answerEs": "huevo", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/yumurta.webp" },
+   
+      { "id": 499, "answerTr": "kesme şeker", "answerEn": "sugar cube", "answerDe": "würfelzucker", "answerEs": "terrón de azúcar", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/seker.webp" }
+    ]
+  },
+  {
+    "level": 101,
+    "questions": [
+      { "id": 500, "answerTr": "tuz", "answerEn": "salt", "answerDe": "salz", "answerEs": "sal", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/tuz.webp" },
+      { "id": 501, "answerTr": "domates", "answerEn": "tomato", "answerDe": "tomate", "answerEs": "tomate", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/domates.webp" },
+      { "id": 502, "answerTr": "salatalık", "answerEn": "cucumber", "answerDe": "gurke", "answerEs": "pepino", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/salatalik.webp" },
+      { "id": 503, "answerTr": "patates", "answerEn": "potato", "answerDe": "kartoffel", "answerEs": "patata", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/patates.webp" },
+      { "id": 504, "answerTr": "kuru soğan", "answerEn": "onion", "answerDe": "zwiebel", "answerEs": "cebolla", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/sogan.webp" }
+    ]
+  },
+  {
+    "level": 102,
+    "questions": [
+      { "id": 505, "answerTr": "ayçiçeği", "answerEn": "sunflower", "answerDe": "sonnenblume", "answerEs": "girasol", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/aycicegi.webp" },
+      { "id": 506, "answerTr": "zeytin", "answerEn": "olive", "answerDe": "olive", "answerEs": "aceituna", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/zeytin.webp" },
+      { "id": 507, "answerTr": "peynir", "answerEn": "cheese", "answerDe": "käse", "answerEs": "queso", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/peynir.webp" },
+    
+      { "id": 509, "answerTr": "pirinç", "answerEn": "rice", "answerDe": "reis", "answerEs": "arroz", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/pirinc.webp" }
+    ]
+  },
+  {
+    "level": 103,
+    "questions": [
+      { "id": 510, "answerTr": "makarna", "answerEn": "pasta", "answerDe": "nudeln", "answerEs": "pasta", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/makarna.webp" },
+      { "id": 511, "answerTr": "elma", "answerEn": "apple", "answerDe": "apfel", "answerEs": "manzana", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/elma.webp" },
+      { "id": 512, "answerTr": "muz", "answerEn": "banana", "answerDe": "banane", "answerEs": "plátano", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/muz.webp" },
+      { "id": 513, "answerTr": "biber", "answerEn": "pepper", "answerDe": "paprika", "answerEs": "pimiento", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/biber.webp" },
+      { "id": 514, "answerTr": "sarımsak", "answerEn": "garlic", "answerDe": "knoblauch", "answerEs": "ajo", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/sarimsak.webp" }
+    ]
+  },
+  {
+    "level": 104,
+    "questions": [
+     
+    
+      { "id": 517, "answerTr": "mercimek", "answerEn": "lentil", "answerDe": "linse", "answerEs": "lenteja", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/mercimek.webp" },
+      { "id": 518, "answerTr": "bal", "answerEn": "honey", "answerDe": "honig", "answerEs": "miel", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/bal.webp" },
+      { "id": 519, "answerTr": "limon", "answerEn": "lemon", "answerDe": "zitrone", "answerEs": "limón", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/limon.webp" }
+    ]
+  },
+  {
+    "level": 105,
+    "questions": [
+      { "id": 520, "answerTr": "portakal", "answerEn": "orange", "answerDe": "orange", "answerEs": "naranja", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/portakal.webp" },
+      { "id": 521, "answerTr": "mandalina", "answerEn": "tangerine", "answerDe": "mandarine", "answerEs": "mandarina", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/mandalina.webp" },
+      { "id": 522, "answerTr": "maydanoz", "answerEn": "parsley", "answerDe": "petersilie", "answerEs": "perejil", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/maydanoz.webp" },
+      { "id": 523, "answerTr": "nane", "answerEn": "mint", "answerDe": "minze", "answerEs": "menta", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/nane.webp" },
+      { "id": 524, "answerTr": "yeşil soğan", "answerEn": "green onion", "answerDe": "frühlingszwiebel", "answerEs": "cebolleta", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/yesilsogan.webp" }
+    ]
+  },
+  {
+    "level": 106,
+    "questions": [
+      { "id": 525, "answerTr": "marul", "answerEn": "lettuce", "answerDe": "kopfsalat", "answerEs": "lechuga", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/marul.webp" },
+      { "id": 526, "answerTr": "patlıcan", "answerEn": "eggplant", "answerDe": "aubergine", "answerEs": "berenjena", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/patlican.webp" },
+    
+      { "id": 528, "answerTr": "taze fasulye", "answerEn": "green beans", "answerDe": "grüne bohnen", "answerEs": "judías verdes", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/tazefasulye.webp" },
+      { "id": 529, "answerTr": "ıspanak", "answerEn": "spinach", "answerDe": "spinat", "answerEs": "espinaca", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/ispanak.webp" }
+    ]
+  },
+  {
+    "level": 107,
+    "questions": [
+      { "id": 530, "answerTr": "bulgur", "answerEn": "bulgur", "answerDe": "bulgur", "answerEs": "bulgur", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/bulgur.webp" },
+      { "id": 531, "answerTr": "nohut", "answerEn": "chickpea", "answerDe": "kichererbse", "answerEs": "garbanzo", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/nohut.webp" },
+      { "id": 532, "answerTr": "zeytin", "answerEn": "olive", "answerDe": "olive", "answerEs": "aceituna", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/zeytin.webp" },
+      { "id": 533, "answerTr": "gofret", "answerEn": "wafer", "answerDe": "waffel", "answerEs": "oblea", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/gofret.webp" },
+      { "id": 534, "answerTr": "çikolata", "answerEn": "chocolate", "answerDe": "schokolade", "answerEs": "chocolate", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/cikolata.webp" }
+    ]
+  },
+  {
+    "level": 108,
+    "questions": [
+      { "id": 535, "answerTr": "cips", "answerEn": "chips", "answerDe": "chips", "answerEs": "patatas fritas", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/cips.webp" },
+      { "id": 536, "answerTr": "çekirdek", "answerEn": "sunflower seeds", "answerDe": "sonnenblumenkerne", "answerEs": "pipas", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/cekirdek.webp" },
+      { "id": 537, "answerTr": "yer fıstığı", "answerEn": "peanut", "answerDe": "erdnuss", "answerEs": "cacahuete", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/yerfistigi.webp" },
+    
+      { "id": 539, "answerTr": "ceviz", "answerEn": "walnut", "answerDe": "walnuss", "answerEs": "nuez", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/ceviz.webp" }
+    ]
+  },
+  {
+    "level": 109,
+    "questions": [
+      { "id": 540, "answerTr": "badem", "answerEn": "almond", "answerDe": "mandel", "answerEs": "almendra", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/badem.webp" },
+      { "id": 541, "answerTr": "leblebi", "answerEn": "roasted chickpeas", "answerDe": "geröstete kichererbsen", "answerEs": "garbanzos tostados", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/leblebi.webp" },
+      { "id": 542, "answerTr": "patlamış mısır", "answerEn": "popcorn", "answerDe": "popcorn", "answerEs": "palomitas de maíz", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/patlamismisir.webp" },
+      { "id": 543, "answerTr": "mısır", "answerEn": "corn", "answerDe": "mais", "answerEs": "maíz", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/misir.webp" },
+      { "id": 544, "answerTr": "turşu", "answerEn": "pickles", "answerDe": "gewürzgurke", "answerEs": "pepinillos", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/tursu.webp" }
+    ]
+  },
+  {
+    "level": 110,
+    "questions": [
+      { "id": 545, "answerTr": "salam", "answerEn": "salami", "answerDe": "salami", "answerEs": "salami", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/salam.webp" },
+      { "id": 546, "answerTr": "sucuk", "answerEn": "sucuk", "answerDe": "sucuk", "answerEs": "sucuk", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/sucuk.webp" },
+      { "id": 547, "answerTr": "sosis", "answerEn": "sausage", "answerDe": "würstchen", "answerEs": "salchicha", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/sosis.webp" },
+      { "id": 548, "answerTr": "ton balığı", "answerEn": "canned tuna", "answerDe": "thunfisch", "answerEs": "atún", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/tonbaligi.webp" },
+      { "id": 549, "answerTr": "mantar", "answerEn": "mushroom", "answerDe": "pilz", "answerEs": "champiñón", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/mantar.webp" }
+    ]
+  },
+  {
+    "level": 111,
+    "questions": [
+      { "id": 550, "answerTr": "brokoli", "answerEn": "broccoli", "answerDe": "brokkoli", "answerEs": "brócoli", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/brokoli.webp" },
+      { "id": 551, "answerTr": "karnabahar", "answerEn": "cauliflower", "answerDe": "blumenkohl", "answerEs": "coliflor", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/karnabahar.webp" },
+      { "id": 552, "answerTr": "pırasa", "answerEn": "leek", "answerDe": "lauch", "answerEs": "puerro", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/pirasa.webp" },
+      { "id": 553, "answerTr": "kereviz", "answerEn": "celery", "answerDe": "sellerie", "answerEs": "apio", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/kereviz.webp" },
+      { "id": 554, "answerTr": "enginar", "answerEn": "artichoke", "answerDe": "artischocke", "answerEs": "alcachofa", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/enginar.webp" }
+    ]
+  },
+  {
+    "level": 112,
+    "questions": [
+      { "id": 555, "answerTr": "lahana", "answerEn": "cabbage", "answerDe": "kohl", "answerEs": "repollo", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/lahana.webp" },
+      { "id": 556, "answerTr": "roka", "answerEn": "arugula", "answerDe": "rucola", "answerEs": "rúcula", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/roka.webp" },
+      { "id": 557, "answerTr": "fesleğen", "answerEn": "basil", "answerDe": "basilikum", "answerEs": "albahaca", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/feslegen.webp" },
+      { "id": 558, "answerTr": "çilek", "answerEn": "strawberry", "answerDe": "erdbeere", "answerEs": "fresa", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/cilek.webp" },
+      { "id": 559, "answerTr": "üzüm", "answerEn": "grape", "answerDe": "traube", "answerEs": "uva", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/uzum.webp" }
+    ]
+  },
+  {
+    "level": 113,
+    "questions": [
+      { "id": 560, "answerTr": "kavun", "answerEn": "melon", "answerDe": "melone", "answerEs": "melón", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/kavun.webp" },
+      { "id": 561, "answerTr": "karpuz", "answerEn": "watermelon", "answerDe": "wassermelone", "answerEs": "sandía", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/karpuz.webp" },
+      { "id": 562, "answerTr": "şeftali", "answerEn": "peach", "answerDe": "pfirsich", "answerEs": "melocotón", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/seftali.webp" },
+      { "id": 563, "answerTr": "kayısı", "answerEn": "apricot", "answerDe": "aprikose", "answerEs": "albaricoque", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/kayisi.webp" },
+      { "id": 564, "answerTr": "erik", "answerEn": "plum", "answerDe": "pflaume", "answerEs": "ciruela", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/erik.webp" }
+    ]
+  },
+  {
+    "level": 114,
+    "questions": [
+      { "id": 565, "answerTr": "kiraz", "answerEn": "cherry", "answerDe": "kirsche", "answerEs": "cereza", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/kiraz.webp" },
+      { "id": 566, "answerTr": "nar", "answerEn": "pomegranate", "answerDe": "granatapfel", "answerEs": "granada", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/nar.webp" },
+      { "id": 567, "answerTr": "ayva", "answerEn": "quince", "answerDe": "quitte", "answerEs": "membrillo", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/ayva.webp" },
+      { "id": 568, "answerTr": "armut", "answerEn": "pear", "answerDe": "birne", "answerEs": "pera", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/armut.webp" },
+      { "id": 569, "answerTr": "incir", "answerEn": "fig", "answerDe": "feige", "answerEs": "higo", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/incir.webp" }
+    ]
+  },
+  {
+    "level": 115,
+    "questions": [
+      { "id": 570, "answerTr": "hurma", "answerEn": "date", "answerDe": "dattel", "answerEs": "dátil", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/hurma.webp" },
+      { "id": 571, "answerTr": "kivi", "answerEn": "kiwi", "answerDe": "kiwi", "answerEs": "kiwi", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/kivi.webp" },
+      { "id": 572, "answerTr": "ananas", "answerEn": "pineapple", "answerDe": "ananas", "answerEs": "piña", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/ananas.webp" },
+      { "id": 573, "answerTr": "mango", "answerEn": "mango", "answerDe": "mango", "answerEs": "mango", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/mango.webp" },
+      { "id": 574, "answerTr": "avokado", "answerEn": "avocado", "answerDe": "avocado", "answerEs": "aguacate", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/avokado.webp" }
+    ]
+  },
+  {
+    "level": 116,
+    "questions": [
+      { "id": 575, "answerTr": "hindistan cevizi", "answerEn": "coconut", "answerDe": "kokosnuss", "answerEs": "coco", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/hindistancevizi.webp" },
+      { "id": 576, "answerTr": "ejder meyvesi", "answerEn": "dragon fruit", "answerDe": "drachenfrucht", "answerEs": "fruta del dragón", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/ejdermeyvesi.webp" },
+      { "id": 577, "answerTr": "yaban mersini", "answerEn": "blueberry", "answerDe": "blaubeere", "answerEs": "arándano", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/yabanmersini.webp" },
+      { "id": 578, "answerTr": "ahududu", "answerEn": "raspberry", "answerDe": "himbeere", "answerEs": "frambuesa", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/ahududu.webp" },
+      { "id": 579, "answerTr": "böğürtlen", "answerEn": "blackberry", "answerDe": "brombeere", "answerEs": "zarzamora", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/bogurtlen.webp" }
+    ]
+  },
+  {
+    "level": 117,
+    "questions": [
+      { "id": 580, "answerTr": "muşmula", "answerEn": "medlar", "answerDe": "mispel", "answerEs": "níspero", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/musmula.webp" },
+      { "id": 581, "answerTr": "kestane", "answerEn": "chestnut", "answerDe": "kastanie", "answerEs": "castaña", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/kestane.webp" },
+      { "id": 582, "answerTr": "yer elması", "answerEn": "jerusalem artichoke", "answerDe": "topinambur", "answerEs": "tupinambo", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/yerelmasi.webp" },
+      { "id": 583, "answerTr": "turp", "answerEn": "radish", "answerDe": "radieschen", "answerEs": "rábano", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/turp.webp" },
+      { "id": 584, "answerTr": "pancar", "answerEn": "beet", "answerDe": "rote bete", "answerEs": "remolacha", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/pancar.webp" }
+    ]
+  },
+  {
+    "level": 118,
+    "questions": [
+      { "id": 585, "answerTr": "havuç", "answerEn": "carrot", "answerDe": "karotte", "answerEs": "zanahoria", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/havuc.webp" },
+      { "id": 586, "answerTr": "bal kabağı", "answerEn": "pumpkin", "answerDe": "kürbis", "answerEs": "calabaza", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/balkabagi.webp" },
+      { "id": 587, "answerTr": "bamya", "answerEn": "okra", "answerDe": "okra", "answerEs": "quimbombó", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/bamya.webp" },
+      { "id": 588, "answerTr": "barbunya", "answerEn": "pinto bean", "answerDe": "wachtelbohne", "answerEs": "alubia pinta", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/barbunya.webp" },
+      { "id": 589, "answerTr": "bakla", "answerEn": "broad bean", "answerDe": "saubohne", "answerEs": "haba", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/bakla.webp" }
+    ]
+  },
+  {
+    "level": 119,
+    "questions": [
+      { "id": 590, "answerTr": "börülce", "answerEn": "black-eyed pea", "answerDe": "augenbohne", "answerEs": "carilla", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/borulce.webp" },
+      { "id": 591, "answerTr": "mercimek", "answerEn": "lentil", "answerDe": "linse", "answerEs": "lenteja", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/mercimek.webp" },
+      { "id": 592, "answerTr": "kadayıf", "answerEn": "kadayif", "answerDe": "kadaif", "answerEs": "kadayif", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/kadayif.webp" },
+      { "id": 593, "answerTr": "yufka", "answerEn": "yufka", "answerDe": "yufka", "answerEs": "yufka", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/yufka.webp" },
+      { "id": 594, "answerTr": "kruvasan", "answerEn": "croissant", "answerDe": "croissant", "answerEs": "cruasán", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/kruvasan.webp" }
+    ]
+  },
+  {
+    "level": 120,
+    "questions": [
+      { "id": 595, "answerTr": "simit", "answerEn": "simit", "answerDe": "simit", "answerEs": "simit", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/simit.webp" },
+      { "id": 596, "answerTr": "poğaça", "answerEn": "pogaca", "answerDe": "pogaca", "answerEs": "pogaca", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/pogaca.webp" },
+      { "id": 597, "answerTr": "börek", "answerEn": "borek", "answerDe": "börek", "answerEs": "borek", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/borek.webp" },
+      { "id": 598, "answerTr": "lahmacun", "answerEn": "lahmacun", "answerDe": "lahmacun", "answerEs": "lahmacun", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/lahmacun.webp" },
+      { "id": 599, "answerTr": "pizza", "answerEn": "pizza", "answerDe": "pizza", "answerEs": "pizza", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/pizza.webp" }
+    ]
+  },
+  {
+    "level": 121,
+    "questions": [
+      { "id": 600, "answerTr": "hamburger", "answerEn": "hamburger", "answerDe": "hamburger", "answerEs": "hamburguesa", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/hamburger.webp" },
+      { "id": 601, "answerTr": "patates kızartması", "answerEn": "french fries", "answerDe": "pommes frites", "answerEs": "patatas fritas", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/patateskizartmasi.webp" },
+      { "id": 602, "answerTr": "nugget", "answerEn": "nugget", "answerDe": "nugget", "answerEs": "nugget", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/nugget.webp" },
+      { "id": 603, "answerTr": "köfte", "answerEn": "meatball", "answerDe": "frikadelle", "answerEs": "albóndiga", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/kofte.webp" },
+      { "id": 604, "answerTr": "mantı", "answerEn": "manti", "answerDe": "manti", "answerEs": "manti", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/manti.webp" }
+    ]
+  },
+  {
+    "level": 122,
+    "questions": [
+      { "id": 605, "answerTr": "damla çikolata", "answerEn": "chocolate chips", "answerDe": "schokotropfen", "answerEs": "chispas de chocolate", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/damlacikolata.webp" },
+      { "id": 606, "answerTr": "pasta süsü", "answerEn": "sprinkles", "answerDe": "streusel", "answerEs": "chispas", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/pastasusu.webp" },
+      { "id": 607, "answerTr": "pasta keki", "answerEn": "sponge cake", "answerDe": "biskuitboden", "answerEs": "bizcocho", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/pastakeki.webp" },
+      { "id": 608, "answerTr": "puding", "answerEn": "pudding", "answerDe": "pudding", "answerEs": "pudín", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/puding.webp" },
+      { "id": 609, "answerTr": "profiterol", "answerEn": "profiterole", "answerDe": "profiterol", "answerEs": "profiterol", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/profiterol.webp" }
+    ]
+  },
+  {
+    "level": 123,
+    "questions": [
+      { "id": 610, "answerTr": "ekler", "answerEn": "eclair", "answerDe": "eclair", "answerEs": "petisú", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/ekler.webp" },
+      { "id": 611, "answerTr": "lokum", "answerEn": "turkish delight", "answerDe": "lokum", "answerEs": "delicia turca", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/lokum.webp" },
+      { "id": 612, "answerTr": "jelibon", "answerEn": "jelly bean", "answerDe": "gummibärchen", "answerEs": "gominola", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/jelibon.webp" },
+      { "id": 613, "answerTr": "lolipop", "answerEn": "lollipop", "answerDe": "lutscher", "answerEs": "piruleta", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/lolipop.webp" },
+      { "id": 614, "answerTr": "marshmallow", "answerEn": "marshmallow", "answerDe": "marshmallow", "answerEs": "malvavisco", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/marshmallow.webp" }
+    ]
+  },
+  {
+    "level": 124,
+    "questions": [
+      { "id": 615, "answerTr": "yulaf", "answerEn": "oats", "answerDe": "hafer", "answerEs": "avena", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/yulaf.webp" },
+      { "id": 616, "answerTr": "mısır gevreği", "answerEn": "corn flakes", "answerDe": "cornflakes", "answerEs": "copos de maíz", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/misirgevregi.webp" },
+      { "id": 617, "answerTr": "çam fıstığı", "answerEn": "pine nut", "answerDe": "pinienkern", "answerEs": "piñón", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/camfistigi.webp" },
+      { "id": 618, "answerTr": "antep fıstığı", "answerEn": "pistachio", "answerDe": "pistazie", "answerEs": "pistacho", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/antepfistigi.webp" },
+      { "id": 619, "answerTr": "kaju", "answerEn": "cashew", "answerDe": "cashew", "answerEs": "anacardo", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/kaju.webp" }
+    ]
+  },
+  {
+    "level": 125,
+    "questions": [
+      { "id": 620, "answerTr": "kabak çekirdeği", "answerEn": "pumpkin seed", "answerDe": "kürbiskern", "answerEs": "semilla de calabaza", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/kabakcekirdegi.webp" },
+      { "id": 621, "answerTr": "ay çekirdeği", "answerEn": "sunflower seed", "answerDe": "sonnenblumenkern", "answerEs": "semilla de girasol", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/aycekirdegi.webp" },
+      { "id": 622, "answerTr": "altın çilek", "answerEn": "golden berry", "answerDe": "physalis", "answerEs": "aguaymanto", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/altincilek.webp" },
+      { "id": 623, "answerTr": "ısırgan otu", "answerEn": "nettle", "answerDe": "brennnessel", "answerEs": "ortiga", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/isirganotu.webp" },
+      { "id": 624, "answerTr": "zencefil", "answerEn": "ginger", "answerDe": "ingwer", "answerEs": "jengibre", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/zencefil.webp" }
+    ]
+  },
+  {
+    "level": 126,
+    "questions": [
+      { "id": 625, "answerTr": "karanfil", "answerEn": "clove", "answerDe": "nelke", "answerEs": "clavo", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/karanfil.webp" },
+      { "id": 626, "answerTr": "muskat", "answerEn": "nutmeg", "answerDe": "muskatnuss", "answerEs": "nuez moscada", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/muskat.webp" },
+      { "id": 627, "answerTr": "safran", "answerEn": "saffron", "answerDe": "safran", "answerEs": "azafrán", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/safran.webp" },
+      { "id": 628, "answerTr": "vanilya", "answerEn": "vanilla", "answerDe": "vanille", "answerEs": "vainilla", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/vanilya.webp" },
+      { "id": 629, "answerTr": "ıhlamur", "answerEn": "linden", "answerDe": "linde", "answerEs": "tilo", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/ihlamur.webp" }
+    ]
+  },
+{
+    "level": 127,
+    "questions": [
+      { "id": 630, "answerTr": "suşi", "answerEn": "sushi", "answerDe": "sushi", "answerEs": "sushi", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/susi.webp" },
+      { "id": 631, "answerTr": "lazanya", "answerEn": "lasagna", "answerDe": "lasagne", "answerEs": "lasaña", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/lazanya.webp" },
+      { "id": 632, "answerTr": "istiridye", "answerEn": "oyster", "answerDe": "auster", "answerEs": "ostra", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/istiridye.webp" },
+      { "id": 633, "answerTr": "kılıç balığı", "answerEn": "swordfish", "answerDe": "schwertfisch", "answerEs": "pez espada", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/kilicbaligi.webp" },
+      { "id": 634, "answerTr": "orkinos", "answerEn": "tuna", "answerDe": "thunfisch", "answerEs": "atún", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/orkinos.webp" }
+    ]
+  },
+  {
+    "level": 128,
+    "questions": [
+      { "id": 635, "answerTr": "vasabi", "answerEn": "wasabi", "answerDe": "wasabi", "answerEs": "wasabi", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/vasabi.webp" },
+      { "id": 636, "answerTr": "deniz yosunu", "answerEn": "seaweed", "answerDe": "algen", "answerEs": "alga marina", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/denizyosunu.webp" },
+      { "id": 637, "answerTr": "oyun hamuru", "answerEn": "playdough", "answerDe": "knete", "answerEs": "plastilina", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/oyunhamuru2.webp" },
+      { "id": 638, "answerTr": "lego", "answerEn": "lego piece", "answerDe": "legostein", "answerEs": "pieza de lego", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/legoparcasi.webp" },
+      { "id": 639, "answerTr": "tavla pulu", "answerEn": "backgammon checker", "answerDe": "backgammon-stein", "answerEs": "ficha de backgammon", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/tavlapulu.webp" }
+    ]
+  },
+  {
+    "level": 129,
+    "questions": [
+      { "id": 640, "answerTr": "zar", "answerEn": "dice", "answerDe": "würfel", "answerEs": "dado", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/zar.webp" },
+      { "id": 641, "answerTr": "tenis topu", "answerEn": "tennis ball", "answerDe": "tennisball", "answerEs": "pelota de tenis", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/tenistopu.webp" },
+      { "id": 642, "answerTr": "tenis raketi", "answerEn": "tennis racket", "answerDe": "tennisschläger", "answerEs": "raqueta de tenis", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/tenisraketi.webp" },
+      { "id": 644, "answerTr": "bisiklet pedalı", "answerEn": "bicycle pedal", "answerDe": "fahrradpedal", "answerEs": "pedal de bicicleta", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/bisikletpedali.webp" }
+    ]
+  },
+  {
+    "level": 130,
+    "questions": [
+      { "id": 645, "answerTr": "bisiklet zinciri", "answerEn": "bicycle chain", "answerDe": "fahrradkette", "answerEs": "cadena de bicicleta", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/bisikletzinciri.webp" },
+      { "id": 646, "answerTr": "atlama ipi", "answerEn": "jump rope", "answerDe": "springseil", "answerEs": "cuerda para saltar", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/atlamaipi.webp" },
+      { "id": 647, "answerTr": "dambıl", "answerEn": "dumbbell", "answerDe": "kurzhantel", "answerEs": "mancuerna", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/dambil2.webp" },
+      { "id": 648, "answerTr": "pilates topu", "answerEn": "pilates ball", "answerDe": "pilatesball", "answerEs": "pelota de pilates", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/pilatestopu2.webp" },
+      { "id": 649, "answerTr": "çim biçme makinesi", "answerEn": "lawn mower", "answerDe": "rasenmäher", "answerEs": "cortadora de césped", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/cimbicmemakinesi.webp" }
+    ]
+  },
+  {
+    "level": 131,
+    "questions": [
+      { "id": 650, "answerTr": "paten", "answerEn": "roller skates", "answerDe": "rollschuhe", "answerEs": "patines", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/paten.webp" },
+      { "id": 651, "answerTr": "kaykay", "answerEn": "skateboard", "answerDe": "skateboard", "answerEs": "patineta", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/kaykay.webp" },
+      { "id": 652, "answerTr": "uçurtma", "answerEn": "kite", "answerDe": "drachen", "answerEs": "cometa", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/ucurtma.webp" },
+      { "id": 653, "answerTr": "frizbi", "answerEn": "frisbee", "answerDe": "frisbee", "answerEs": "frisbee", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/frizbi.webp" },
+      { "id": 654, "answerTr": "pinpon topu", "answerEn": "ping pong ball", "answerDe": "tischtennisball", "answerEs": "pelota de ping pong", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/pinpontopu.webp" }
+    ]
+  },
+  {
+    "level": 132,
+    "questions": [
+      { "id": 655, "answerTr": "masa tenisi raketi", "answerEn": "table tennis racket", "answerDe": "tischtennisschläger", "answerEs": "raqueta de tenis de mesa", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/masatenisiraketi.webp" },
+      { "id": 656, "answerTr": "badminton topu", "answerEn": "shuttlecock", "answerDe": "federball", "answerEs": "volante", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/badmintontopu.webp" },
+      { "id": 657, "answerTr": "dart oku", "answerEn": "dart", "answerDe": "dartpfeil", "answerEs": "dardo", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/dartoku.webp" },
+      { "id": 658, "answerTr": "dart tahtası", "answerEn": "dartboard", "answerDe": "dartscheibe", "answerEs": "diana", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/darttahtasi.webp" }
+     
+    ]
+  },
+  {
+    "level": 133,
+    "questions": [
+      { "id": 660, "answerTr": "bilardo ıstakası", "answerEn": "billiard cue", "answerDe": "billardqueue", "answerEs": "taco de billar", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/bilardoistakasi.webp" },
+  
+      { "id": 662, "answerTr": "domino taşı", "answerEn": "domino", "answerDe": "dominostein", "answerEs": "dominó", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/dominotasi.webp" },
+      { "id": 663, "answerTr": "yapboz", "answerEn": "jigsaw puzzle", "answerDe": "puzzle", "answerEs": "rompecabezas", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/yapboz2.webp" },
+      { "id": 664, "answerTr": "oyuncak araba", "answerEn": "toy car", "answerDe": "spielzeugauto", "answerEs": "coche de juguete", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/oyuncakaraba.webp" }
+    ]
+  },
+  {
+    "level": 134,
+    "questions": [
+      { "id": 665, "answerTr": "peluş ayı", "answerEn": "teddy bear", "answerDe": "teddybär", "answerEs": "oso de peluche", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/pelusayi.webp" },
+      { "id": 666, "answerTr": "oyuncak bebek", "answerEn": "doll", "answerDe": "puppe", "answerEs": "muñeca", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/oyuncakbebek.webp" },
+      { "id": 667, "answerTr": "su tabancası", "answerEn": "water gun", "answerDe": "wasserpistole", "answerEs": "pistola de agua", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/sutabancasi.webp" },
+      { "id": 668, "answerTr": "kova", "answerEn": "bucket", "answerDe": "eimer", "answerEs": "cubo", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/kova.webp" }
+    ]
+  },
+  {
+    "level": 135,
+    "questions": [
+      { "id": 670, "answerTr": "topaç", "answerEn": "spinning top", "answerDe": "kreisel", "answerEs": "peonza", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/topac.webp" },
+      { "id": 671, "answerTr": "misket", "answerEn": "marble", "answerDe": "murmel", "answerEs": "canica", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/misket.webp" },
+      { "id": 672, "answerTr": "yoyo", "answerEn": "yo-yo", "answerDe": "jo-jo", "answerEs": "yoyó", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/yoyo.webp" },
+      { "id": 673, "answerTr": "jenga", "answerEn": "jenga block", "answerDe": "jenga-block", "answerEs": "bloque de jenga", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/jengatahtasi.webp" },
+      { "id": 674, "answerTr": "balon", "answerEn": "balloon", "answerDe": "luftballon", "answerEs": "globo", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/balon.webp" }
+    ]
+  },
+  {
+    "level": 136,
+    "questions": [
+      { "id": 675, "answerTr": "maytap", "answerEn": "sparkler", "answerDe": "wunderkerze", "answerEs": "bengala", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/maytap.webp" },
+      { "id": 676, "answerTr": "havai fişek", "answerEn": "firework", "answerDe": "feuerwerk", "answerEs": "fuego artificial", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/havaifisek.webp" },
+      { "id": 677, "answerTr": "pastel boya", "answerEn": "crayon", "answerDe": "wachsmalstift", "answerEs": "crayón", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/pastelboya.webp" },
+      { "id": 678, "answerTr": "resim fırçası", "answerEn": "paintbrush", "answerDe": "pinsel", "answerEs": "pincel", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/resimfircasi.webp" },
+      { "id": 679, "answerTr": "palet", "answerEn": "palette", "answerDe": "farbpalette", "answerEs": "paleta", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/resimpaleti.webp" }
+    ]
+  },
+  {
+    "level": 137,
+    "questions": [
+      { "id": 680, "answerTr": "tığ", "answerEn": "crochet hook", "answerDe": "häkelnadel", "answerEs": "aguja de ganchillo", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/tig.webp" },
+      { "id": 681, "answerTr": "boncuk", "answerEn": "bead", "answerDe": "perle", "answerEs": "cuenta", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/boncuk.webp" },
+      { "id": 682, "answerTr": "olta iğnesi", "answerEn": "fishhook", "answerDe": "angelhaken", "answerEs": "anzuelo", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/oltaignesi.webp" },
+      { "id": 683, "answerTr": "balık yemi", "answerEn": "fishing lure", "answerDe": "angelköder", "answerEs": "señuelo de pesca", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/balikyemi.webp" },
+      { "id": 684, "answerTr": "şamandıra", "answerEn": "fishing float", "answerDe": "pose", "answerEs": "flotador de pesca", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/samandira.webp" }
+    ]
+  },
+  {
+    "level": 138,
+    "questions": [
+      { "id": 685, "answerTr": "yüzücü gözlüğü", "answerEn": "swimming goggles", "answerDe": "schwimmbrille", "answerEs": "gafas de natación", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/yuzucugozlugu.webp" },
+      { "id": 686, "answerTr": "palet", "answerEn": "swim fins", "answerDe": "schwimmflossen", "answerEs": "aletas de buceo", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/denizpaleti.webp" },
+      { "id": 687, "answerTr": "şnorkel", "answerEn": "snorkel", "answerDe": "schnorchel", "answerEs": "esnórquel", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/snorkel.webp" },
+      { "id": 688, "answerTr": "deniz yatağı", "answerEn": "air mattress", "answerDe": "luftmatratze", "answerEs": "colchoneta inflable", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/denizyatagi.webp" },
+      { "id": 689, "answerTr": "can yeleği", "answerEn": "life jacket", "answerDe": "rettungsweste", "answerEs": "chaleco salvavidas", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/canyelegi.webp" }
+    ]
+  },
+  {
+    "level": 139,
+    "questions": [
+      { "id": 690, "answerTr": "şişme bot", "answerEn": "inflatable boat", "answerDe": "schlauchboot", "answerEs": "bote inflable", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/sismebot.webp" },
+      { "id": 691, "answerTr": "kamp ocağı", "answerEn": "camping stove", "answerDe": "campingkocher", "answerEs": "hornillo de camping", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/kampocagi.webp" },
+      { "id": 692, "answerTr": "dürbün", "answerEn": "binoculars", "answerDe": "fernglas", "answerEs": "prismáticos", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/durbun.webp" },
+      { "id": 693, "answerTr": "teleskop", "answerEn": "telescope", "answerDe": "teleskop", "answerEs": "telescopio", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/teleskop.webp" },
+      { "id": 694, "answerTr": "mikroskop", "answerEn": "microscope", "answerDe": "mikroskop", "answerEs": "microscopio", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/mikroskop.webp" }
+    ]
+  },
+  {
+    "level": 140,
+    "questions": [
+     
+      { "id": 696, "answerTr": "baget", "answerEn": "drumstick", "answerDe": "trommelstock", "answerEs": "baqueta", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/baget.webp" },
+      { "id": 697, "answerTr": "davul", "answerEn": "drum", "answerDe": "trommel", "answerEs": "tambor", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/davul.webp" },
+      { "id": 698, "answerTr": "bateri zili", "answerEn": "cymbal", "answerDe": "becken", "answerEs": "platillo", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/baterizili.webp" },
+      { "id": 699, "answerTr": "nota sehpası vidası", "answerEn": "music stand screw", "answerDe": "notenständer-schraube", "answerEs": "tornillo de atril", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/notasehpasividasi.webp" }
+    ]
+  },
+  {
+    "level": 141,
+    "questions": [
+      { "id": 700, "answerTr": "akordiyon", "answerEn": "accordion", "answerDe": "akkordeon", "answerEs": "acordeón", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/akordiyon.webp" },
+      { "id": 701, "answerTr": "beyzbol topu", "answerEn": "baseball", "answerDe": "baseball", "answerEs": "pelota de béisbol", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/beyzboltopu.webp" },
+      { "id": 702, "answerTr": "beyzbol sopası", "answerEn": "baseball bat", "answerDe": "baseballschläger", "answerEs": "bate de béisbol", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/beyzbolsopasi.webp" },
+      { "id": 703, "answerTr": "beyzbol eldiveni", "answerEn": "baseball glove", "answerDe": "baseballhandschuh", "answerEs": "guante de béisbol", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/beyzboleldiveni.webp" },
+      { "id": 704, "answerTr": "amerikan futbol topu", "answerEn": "american football", "answerDe": "american football", "answerEs": "pelota de fútbol americano", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/amerikanfutboltopu.webp" }
+    ]
+  },
+  {
+    "level": 142,
+    "questions": [
+      { "id": 705, "answerTr": "golf topu", "answerEn": "golf ball", "answerDe": "golfball", "answerEs": "pelota de golf", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/golftopu.webp" },
+      { "id": 706, "answerTr": "golf sopası", "answerEn": "golf club", "answerDe": "golfschläger", "answerEs": "palo de golf", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/golfsopasi.webp" },
+      { "id": 707, "answerTr": "bowling topu", "answerEn": "bowling ball", "answerDe": "bowlingkugel", "answerEs": "bola de boliche", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/bowlingtopu.webp" },
+      { "id": 708, "answerTr": "kayak gözlüğü", "answerEn": "ski goggles", "answerDe": "skibrille", "answerEs": "gafas de esquí", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/kayakgozlugu.webp" },
+      { "id": 709, "answerTr": "snowboard", "answerEn": "snowboard", "answerDe": "snowboard", "answerEs": "tabla de snowboard", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/snowboard.webp" }
+    ]
+  },
+  {
+    "level": 143,
+    "questions": [
+      { "id": 710, "answerTr": "kızak", "answerEn": "sled", "answerDe": "schlitten", "answerEs": "trineo", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/kizak.webp" },
+      { "id": 711, "answerTr": "ok", "answerEn": "arrow", "answerDe": "pfeil", "answerEs": "flecha", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/ok.webp" },
+      { "id": 712, "answerTr": "yay", "answerEn": "bow", "answerDe": "bogen", "answerEs": "arco", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/yay.webp" },
+      { "id": 714, "answerTr": "trambolin", "answerEn": "trampoline", "answerDe": "trampolin", "answerEs": "trampolín", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/trambolin.webp" }
+    ]
+  },
+  {
+    "level": 144,
+    "questions": [
+      { "id": 715, "answerTr": "drone", "answerEn": "drone", "answerDe": "drohne", "answerEs": "dron", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/drone.webp" },
+      { "id": 716, "answerTr": "tüfek", "answerEn": "rifle", "answerDe": "gewehr", "answerEs": "rifle", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/tufek.webp" },
+      { "id": 717, "answerTr": "tabanca", "answerEn": "pistol", "answerDe": "pistole", "answerEs": "pistola", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/tabanca.webp" }
+    ]
+  }
 ]
  
 }
