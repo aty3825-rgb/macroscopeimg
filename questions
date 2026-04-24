@@ -425,8 +425,7 @@
     "questions": [
       { "id": 211, "answerTr": "priz", "answerEn": "socket", "answerDe": "steckdose", "answerEs": "enchufe", "categoryTr": "elektrik", "categoryEn": "electric", "categoryDe": "elektrik", "categoryEs": "eléctrico", "image": "https://macroscopeimg.win/priz.webp" },
       { "id": 212, "answerTr": "halı", "answerEn": "carpet", "answerDe": "teppich", "answerEs": "alfombra", "categoryTr": "dekorasyon", "categoryEn": "decoration", "categoryDe": "dekoration", "categoryEs": "decoración", "image": "https://macroscopeimg.win/hali.webp" },
-      { "id": 213, "answerTr": "perde", "answerEn": "curtain", "answerDe": "vorhang", "answerEs": "cortina", "categoryTr": "dekorasyon", "categoryEn": "decoration", "categoryDe": "dekoration", "categoryEs": "decoración", "image": "https://macroscopeimg.win/perde.webp" },
-      { "id": 214, "answerTr": "gardırop", "answerEn": "wardrobe", "answerDe": "kleiderschrank", "answerEs": "armario", "categoryTr": "mobilya", "categoryEn": "furniture", "categoryDe": "möbel", "categoryEs": "muebles", "image": "https://macroscopeimg.win/gardirop.webp" }
+      { "id": 213, "answerTr": "perde", "answerEn": "curtain", "answerDe": "vorhang", "answerEs": "cortina", "categoryTr": "dekorasyon", "categoryEn": "decoration", "categoryDe": "dekoration", "categoryEs": "decoración", "image": "https://macroscopeimg.win/perde.webp" }
      
     ]
   },
