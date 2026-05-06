@@ -1213,7 +1213,6 @@
     "questions": [
       { "id": 615, "answerTr": "yulaf", "answerEn": "oats", "answerDe": "hafer", "answerEs": "avena", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/yulaf.webp" },
       { "id": 616, "answerTr": "mısır gevreği", "answerEn": "corn flakes", "answerDe": "cornflakes", "answerEs": "copos de maíz", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/misirgevregi.webp" },
-      { "id": 617, "answerTr": "çam fıstığı", "answerEn": "pine nut", "answerDe": "pinienkern", "answerEs": "piñón", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/camfistigi.webp" },
       { "id": 618, "answerTr": "antep fıstığı", "answerEn": "pistachio", "answerDe": "pistazie", "answerEs": "pistacho", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/antepfistigi.webp" },
       { "id": 619, "answerTr": "kaju", "answerEn": "cashew", "answerDe": "cashew", "answerEs": "anacardo", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/kaju.webp" }
     ]
