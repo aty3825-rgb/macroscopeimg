@@ -1372,7 +1372,7 @@
       { "id": 696, "answerTr": "baget", "answerEn": "drumstick", "answerDe": "trommelstock", "answerEs": "baqueta", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/baget.webp" },
       { "id": 697, "answerTr": "davul", "answerEn": "drum", "answerDe": "trommel", "answerEs": "tambor", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/davul.webp" },
       { "id": 698, "answerTr": "bateri zili", "answerEn": "cymbal", "answerDe": "becken", "answerEs": "platillo", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/baterizili.webp" },
-      { "id": 699, "answerTr": "nota sehpası vidası", "answerEn": "music stand screw", "answerDe": "notenständer-schraube", "answerEs": "tornillo de atril", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/notasehpasividasi.webp" }
+      { "id": 699, "answerTr": "nota sehpası", "answerEn": "music stand", "answerDe": "notenständer", "answerEs": "atril", "categoryTr": "nesne", "categoryEn": "object", "categoryDe": "objekt", "categoryEs": "objeto", "image": "https://macroscopeimg.win/notasehpasividasi.webp" }
     ]
   },
   {
