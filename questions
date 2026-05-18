@@ -1151,7 +1151,7 @@
   {
     "level": 118,
     "questions": [
-      { "id": 585, "answerTr": "havuç", "answerEn": "carrot", "answerDe": "karotte", "answerEs": "zanahoria", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/havuc.webp" },
+      { "id": 585, "answerTr": "havuç", "answerEn": "carrot", "answerDe": "karotte", "answerEs": "zanahoria", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/HAVUC2" },
       { "id": 586, "answerTr": "bal kabağı", "answerEn": "pumpkin", "answerDe": "kürbis", "answerEs": "calabaza", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/balkabagi.webp" },
       { "id": 587, "answerTr": "bamya", "answerEn": "okra", "answerDe": "okra", "answerEs": "quimbombó", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/bamya.webp" },
       { "id": 588, "answerTr": "barbunya", "answerEn": "pinto bean", "answerDe": "wachtelbohne", "answerEs": "alubia pinta", "categoryTr": "gıda", "categoryEn": "food", "categoryDe": "lebensmittel", "categoryEs": "comida", "image": "https://macroscopeimg.win/barbunya.webp" },
