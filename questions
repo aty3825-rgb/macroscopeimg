@@ -462,7 +462,7 @@
      
       { "id": 232, "answerTr": "kulp", "answerEn": "handle", "answerDe": "griff", "answerEs": "tirador", "categoryTr": "ev parçası", "categoryEn": "home parts", "categoryDe": "hausteile", "categoryEs": "partes de casa", "image": "https://macroscopeimg.win/kulp.webp" },
       { "id": 233, "answerTr": "laptop", "answerEn": "laptop", "answerDe": "laptop", "answerEs": "portátil", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/laptop.webp" },
-      { "id": 234, "answerTr": "mouse", "answerEn": "mouse", "answerDe": "maus", "answerEs": "ratón", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/mouse.webp" },
+      { "id": 234, "answerTr": "fare", "answerEn": "mouse", "answerDe": "maus", "answerEs": "ratón", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/mouse.webp" },
       { "id": 235, "answerTr": "klavye", "answerEn": "keyboard", "answerDe": "tastatur", "answerEs": "teclado", "categoryTr": "elektronik", "categoryEn": "electronics", "categoryDe": "elektronik", "categoryEs": "electrónica", "image": "https://macroscopeimg.win/klavye.webp" }
     ]
   },
